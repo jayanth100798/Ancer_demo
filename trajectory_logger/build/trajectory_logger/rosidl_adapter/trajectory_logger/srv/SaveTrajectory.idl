@@ -1,0 +1,27 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from trajectory_logger/srv/SaveTrajectory.srv
+// generated code does not contain a copyright notice
+
+
+module trajectory_logger {
+  module srv {
+    struct SaveTrajectory_Request {
+      @verbatim (language="comment", text=
+        "Name of the file to save the trajectory")
+      string filename;
+
+      @verbatim (language="comment", text=
+        "Duration of the trajectory in seconds")
+      double duration;
+    };
+    struct SaveTrajectory_Response {
+      @verbatim (language="comment", text=
+        "Whether the save operation was successful")
+      boolean success;
+
+      @verbatim (language="comment", text=
+        "Status message or error description")
+      string message;
+    };
+  };
+};

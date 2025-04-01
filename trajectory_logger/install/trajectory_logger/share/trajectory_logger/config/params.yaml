@@ -1,0 +1,17 @@
+/**:
+  ros__parameters:
+    use_sim_time: false
+
+trajectory_publisher_saver:
+  ros__parameters:
+    save_directory: "trajectories"
+    marker_scale: 0.1
+    publish_rate: 10
+    frame_id: "map"
+
+trajectory_reader_publisher:
+  ros__parameters:
+    trajectory_file: ""
+    visualization_rate: 10.0
+    marker_scale: 0.1
+    frame_id: "map" 

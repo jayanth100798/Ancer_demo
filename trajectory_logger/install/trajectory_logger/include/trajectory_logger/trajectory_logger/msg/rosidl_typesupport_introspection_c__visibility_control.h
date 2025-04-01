@@ -1,0 +1,1 @@
+/home/jayanth/trajectory_logger/build/trajectory_logger/rosidl_typesupport_introspection_c/trajectory_logger/msg/rosidl_typesupport_introspection_c__visibility_control.h

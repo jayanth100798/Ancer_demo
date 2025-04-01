@@ -1,0 +1,6 @@
+string filename   # Name of the file to save the trajectory
+float64 duration # Duration of the trajectory in seconds
+---
+bool success    # Whether the save operation was successful
+string message  # Status message or error description
+

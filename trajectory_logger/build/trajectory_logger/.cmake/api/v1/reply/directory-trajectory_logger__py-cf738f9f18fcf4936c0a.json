@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "trajectory_logger__py",
+		"source" : "build/trajectory_logger/trajectory_logger__py"
+	}
+}

@@ -1,0 +1,46 @@
+Trajectory saved at: 1743533905
+Duration: 5 seconds
+Total points: 21
+---
+Marker: 0
+Position: (1, 2, 0)
+Marker: 1
+Position: (1, 2, 0)
+Marker: 2
+Position: (1, 2, 0)
+Marker: 3
+Position: (1, 2, 0)
+Marker: 4
+Position: (1, 2, 0)
+Marker: 5
+Position: (1, 2, 0)
+Marker: 6
+Position: (1, 2, 0)
+Marker: 7
+Position: (1, 2, 0)
+Marker: 8
+Position: (1, 2, 0)
+Marker: 9
+Position: (1, 2, 0)
+Marker: 10
+Position: (1, 2, 0)
+Marker: 11
+Position: (1, 2, 0)
+Marker: 12
+Position: (1, 2, 0)
+Marker: 13
+Position: (1, 2, 0)
+Marker: 14
+Position: (1, 2, 0)
+Marker: 15
+Position: (1, 2, 0)
+Marker: 16
+Position: (1, 2, 0)
+Marker: 17
+Position: (1, 2, 0)
+Marker: 18
+Position: (1, 2, 0)
+Marker: 19
+Position: (1, 2, 0)
+Marker: 20
+Position: (1, 2, 0)

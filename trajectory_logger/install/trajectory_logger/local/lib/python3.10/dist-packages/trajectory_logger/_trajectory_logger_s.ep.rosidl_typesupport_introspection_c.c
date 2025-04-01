@@ -1,0 +1,1 @@
+/home/jayanth/trajectory_logger/build/trajectory_logger/rosidl_generator_py/trajectory_logger/_trajectory_logger_s.ep.rosidl_typesupport_introspection_c.c

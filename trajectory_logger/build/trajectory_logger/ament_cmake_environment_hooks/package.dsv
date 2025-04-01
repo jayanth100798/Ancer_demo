@@ -1,0 +1,4 @@
+source;share/trajectory_logger/local_setup.bash
+source;share/trajectory_logger/local_setup.dsv
+source;share/trajectory_logger/local_setup.sh
+source;share/trajectory_logger/local_setup.zsh

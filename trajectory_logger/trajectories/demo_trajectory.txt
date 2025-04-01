@@ -1,0 +1,4864 @@
+Trajectory saved at: 1743534426
+Duration: 5 seconds
+Total points: 2430
+---
+Marker: 0
+Position: (2, 0, 0)
+Marker: 1
+Position: (1.9975, 0.0999583, 0)
+Marker: 2
+Position: (1.99001, 0.199667, 0)
+Marker: 3
+Position: (1.97754, 0.298876, 0)
+Marker: 4
+Position: (1.96013, 0.397339, 0)
+Marker: 5
+Position: (1.93782, 0.494808, 0)
+Marker: 6
+Position: (1.91067, 0.59104, 0)
+Marker: 7
+Position: (1.87875, 0.685796, 0)
+Marker: 8
+Position: (1.84212, 0.778837, 0)
+Marker: 9
+Position: (1.80089, 0.869931, 0)
+Marker: 10
+Position: (1.75517, 0.958851, 0)
+Marker: 11
+Position: (1.70505, 1.04537, 0)
+Marker: 12
+Position: (1.65067, 1.12928, 0)
+Marker: 13
+Position: (1.59217, 1.21037, 0)
+Marker: 14
+Position: (1.52968, 1.28844, 0)
+Marker: 15
+Position: (1.46338, 1.36328, 0)
+Marker: 16
+Position: (1.39341, 1.43471, 0)
+Marker: 17
+Position: (1.31997, 1.50256, 0)
+Marker: 18
+Position: (1.24322, 1.56665, 0)
+Marker: 19
+Position: (1.16337, 1.62683, 0)
+Marker: 20
+Position: (1.0806, 1.68294, 0)
+Marker: 21
+Position: (0.995142, 1.73485, 0)
+Marker: 22
+Position: (0.907192, 1.78241, 0)
+Marker: 23
+Position: (0.816975, 1.82553, 0)
+Marker: 24
+Position: (0.724716, 1.86408, 0)
+Marker: 25
+Position: (0.630645, 1.89797, 0)
+Marker: 26
+Position: (0.534998, 1.92712, 0)
+Marker: 27
+Position: (0.438013, 1.95145, 0)
+Marker: 28
+Position: (0.339934, 1.9709, 0)
+Marker: 29
+Position: (0.241006, 1.98543, 0)
+Marker: 30
+Position: (0.141474, 1.99499, 0)
+Marker: 31
+Position: (0.0415897, 1.99957, 0)
+Marker: 32
+Position: (-0.058399, 1.99915, 0)
+Marker: 33
+Position: (-0.158242, 1.99373, 0)
+Marker: 34
+Position: (-0.257689, 1.98333, 0)
+Marker: 35
+Position: (-0.356492, 1.96797, 0)
+Marker: 36
+Position: (-0.454404, 1.9477, 0)
+Marker: 37
+Position: (-0.55118, 1.92255, 0)
+Marker: 38
+Position: (-0.646579, 1.8926, 0)
+Marker: 39
+Position: (-0.740362, 1.85792, 0)
+Marker: 40
+Position: (-0.832294, 1.81859, 0)
+Marker: 41
+Position: (-0.922145, 1.77472, 0)
+Marker: 42
+Position: (-1.00969, 1.72642, 0)
+Marker: 43
+Position: (-1.09472, 1.6738, 0)
+Marker: 44
+Position: (-1.177, 1.61699, 0)
+Marker: 45
+Position: (-1.25635, 1.55615, 0)
+Marker: 46
+Position: (-1.33255, 1.49141, 0)
+Marker: 47
+Position: (-1.40543, 1.42295, 0)
+Marker: 48
+Position: (-1.47479, 1.35093, 0)
+Marker: 49
+Position: (-1.54046, 1.27553, 0)
+Marker: 50
+Position: (-1.60229, 1.19694, 0)
+Marker: 51
+Position: (-1.66011, 1.11537, 0)
+Marker: 52
+Position: (-1.71378, 1.031, 0)
+Marker: 53
+Position: (-1.76316, 0.944061, 0)
+Marker: 54
+Position: (-1.80814, 0.85476, 0)
+Marker: 55
+Position: (-1.8486, 0.763322, 0)
+Marker: 56
+Position: (-1.88444, 0.669976, 0)
+Marker: 57
+Position: (-1.91557, 0.574956, 0)
+Marker: 58
+Position: (-1.94192, 0.478499, 0)
+Marker: 59
+Position: (-1.9634, 0.380845, 0)
+Marker: 60
+Position: (-1.97998, 0.28224, 0)
+Marker: 61
+Position: (-1.99162, 0.182929, 0)
+Marker: 62
+Position: (-1.99827, 0.0831613, 0)
+Marker: 63
+Position: (-1.99993, -0.0168145, 0)
+Marker: 64
+Position: (-1.99659, -0.116748, 0)
+Marker: 65
+Position: (-1.98826, -0.21639, 0)
+Marker: 66
+Position: (-1.97496, -0.315491, 0)
+Marker: 67
+Position: (-1.95672, -0.413804, 0)
+Marker: 68
+Position: (-1.9336, -0.511082, 0)
+Marker: 69
+Position: (-1.90564, -0.607083, 0)
+Marker: 70
+Position: (-1.87291, -0.701566, 0)
+Marker: 71
+Position: (-1.83551, -0.794296, 0)
+Marker: 72
+Position: (-1.79352, -0.885041, 0)
+Marker: 73
+Position: (-1.74704, -0.973573, 0)
+Marker: 74
+Position: (-1.6962, -1.05967, 0)
+Marker: 75
+Position: (-1.64112, -1.14312, 0)
+Marker: 76
+Position: (-1.58194, -1.22372, 0)
+Marker: 77
+Position: (-1.5188, -1.30125, 0)
+Marker: 78
+Position: (-1.45186, -1.37553, 0)
+Marker: 79
+Position: (-1.3813, -1.44638, 0)
+Marker: 80
+Position: (-1.30729, -1.5136, 0)
+Marker: 81
+Position: (-1.23, -1.57705, 0)
+Marker: 82
+Position: (-1.14965, -1.63655, 0)
+Marker: 83
+Position: (-1.06642, -1.69197, 0)
+Marker: 84
+Position: (-0.980522, -1.74315, 0)
+Marker: 85
+Position: (-0.892175, -1.78998, 0)
+Marker: 86
+Position: (-0.801598, -1.83233, 0)
+Marker: 87
+Position: (-0.709018, -1.87011, 0)
+Marker: 88
+Position: (-0.614666, -1.9032, 0)
+Marker: 89
+Position: (-0.518777, -1.93155, 0)
+Marker: 90
+Position: (-0.421592, -1.95506, 0)
+Marker: 91
+Position: (-0.323352, -1.97369, 0)
+Marker: 92
+Position: (-0.224305, -1.98738, 0)
+Marker: 93
+Position: (-0.124697, -1.99611, 0)
+Marker: 94
+Position: (-0.0247773, -1.99985, 0)
+Marker: 95
+Position: (0.0752043, -1.99859, 0)
+Marker: 96
+Position: (0.174998, -1.99233, 0)
+Marker: 97
+Position: (0.274354, -1.98109, 0)
+Marker: 98
+Position: (0.373025, -1.96491, 0)
+Marker: 99
+Position: (0.470763, -1.94381, 0)
+Marker: 100
+Position: (0.567324, -1.91785, 0)
+Marker: 101
+Position: (0.662468, -1.8871, 0)
+Marker: 102
+Position: (0.755955, -1.85163, 0)
+Marker: 103
+Position: (0.847554, -1.81153, 0)
+Marker: 104
+Position: (0.937033, -1.76691, 0)
+Marker: 105
+Position: (1.02417, -1.71787, 0)
+Marker: 106
+Position: (1.10875, -1.66453, 0)
+Marker: 107
+Position: (1.19056, -1.60704, 0)
+Marker: 108
+Position: (1.26939, -1.54553, 0)
+Marker: 109
+Position: (1.34504, -1.48015, 0)
+Marker: 110
+Position: (1.41734, -1.41108, 0)
+Marker: 111
+Position: (1.48609, -1.33848, 0)
+Marker: 112
+Position: (1.55113, -1.26253, 0)
+Marker: 113
+Position: (1.61229, -1.18343, 0)
+Marker: 114
+Position: (1.66943, -1.10137, 0)
+Marker: 115
+Position: (1.72238, -1.01656, 0)
+Marker: 116
+Position: (1.77104, -0.929204, 0)
+Marker: 117
+Position: (1.81527, -0.839528, 0)
+Marker: 118
+Position: (1.85496, -0.747753, 0)
+Marker: 119
+Position: (1.89001, -0.65411, 0)
+Marker: 120
+Position: (1.92034, -0.558831, 0)
+Marker: 121
+Position: (1.94587, -0.462156, 0)
+Marker: 122
+Position: (1.96654, -0.364325, 0)
+Marker: 123
+Position: (1.98229, -0.265584, 0)
+Marker: 124
+Position: (1.99308, -0.166179, 0)
+Marker: 125
+Position: (1.9989, -0.0663584, 0)
+Marker: 126
+Position: (1.99972, 0.0336278, 0)
+Marker: 127
+Position: (1.99554, 0.13353, 0)
+Marker: 128
+Position: (1.98637, 0.233098, 0)
+Marker: 129
+Position: (1.97224, 0.332084, 0)
+Marker: 130
+Position: (1.95318, 0.43024, 0)
+Marker: 131
+Position: (1.92923, 0.52732, 0)
+Marker: 132
+Position: (1.90047, 0.623083, 0)
+Marker: 133
+Position: (1.86695, 0.717288, 0)
+Marker: 134
+Position: (1.82877, 0.8097, 0)
+Marker: 135
+Position: (1.78601, 0.900088, 0)
+Marker: 136
+Position: (1.73879, 0.988227, 0)
+Marker: 137
+Position: (1.68723, 1.0739, 0)
+Marker: 138
+Position: (1.63145, 1.15688, 0)
+Marker: 139
+Position: (1.57159, 1.23697, 0)
+Marker: 140
+Position: (1.5078, 1.31397, 0)
+Marker: 141
+Position: (1.44025, 1.38769, 0)
+Marker: 142
+Position: (1.36909, 1.45794, 0)
+Marker: 143
+Position: (1.29452, 1.52454, 0)
+Marker: 144
+Position: (1.2167, 1.58734, 0)
+Marker: 145
+Position: (1.13585, 1.64616, 0)
+Marker: 146
+Position: (1.05216, 1.70087, 0)
+Marker: 147
+Position: (0.965832, 1.75133, 0)
+Marker: 148
+Position: (0.877095, 1.79742, 0)
+Marker: 149
+Position: (0.786165, 1.83901, 0)
+Marker: 150
+Position: (0.693271, 1.876, 0)
+Marker: 151
+Position: (0.598643, 1.9083, 0)
+Marker: 152
+Position: (0.50252, 1.93584, 0)
+Marker: 153
+Position: (0.40514, 1.95854, 0)
+Marker: 154
+Position: (0.306748, 1.97634, 0)
+Marker: 155
+Position: (0.207589, 1.9892, 0)
+Marker: 156
+Position: (0.107911, 1.99709, 0)
+Marker: 157
+Position: (0.00796325, 1.99998, 0)
+Marker: 158
+Position: (-0.0920043, 1.99788, 0)
+Marker: 159
+Position: (-0.191742, 1.99079, 0)
+Marker: 160
+Position: (-0.291, 1.97872, 0)
+Marker: 161
+Position: (-0.389531, 1.9617, 0)
+Marker: 162
+Position: (-0.487088, 1.93978, 0)
+Marker: 163
+Position: (-0.583428, 1.91301, 0)
+Marker: 164
+Position: (-0.67831, 1.88146, 0)
+Marker: 165
+Position: (-0.771496, 1.84521, 0)
+Marker: 166
+Position: (-0.862754, 1.80434, 0)
+Marker: 167
+Position: (-0.951855, 1.75897, 0)
+Marker: 168
+Position: (-1.03858, 1.7092, 0)
+Marker: 169
+Position: (-1.1227, 1.65515, 0)
+Marker: 170
+Position: (-1.20402, 1.59697, 0)
+Marker: 171
+Position: (-1.28233, 1.5348, 0)
+Marker: 172
+Position: (-1.35744, 1.46879, 0)
+Marker: 173
+Position: (-1.42915, 1.39911, 0)
+Marker: 174
+Position: (-1.49729, 1.32594, 0)
+Marker: 175
+Position: (-1.56169, 1.24945, 0)
+Marker: 176
+Position: (-1.62219, 1.16983, 0)
+Marker: 177
+Position: (-1.67863, 1.0873, 0)
+Marker: 178
+Position: (-1.73087, 1.00204, 0)
+Marker: 179
+Position: (-1.77879, 0.914282, 0)
+Marker: 180
+Position: (-1.82226, 0.824237, 0)
+Marker: 181
+Position: (-1.86118, 0.732132, 0)
+Marker: 182
+Position: (-1.89544, 0.638197, 0)
+Marker: 183
+Position: (-1.92497, 0.542666, 0)
+Marker: 184
+Position: (-1.94969, 0.44578, 0)
+Marker: 185
+Position: (-1.96953, 0.347779, 0)
+Marker: 186
+Position: (-1.98445, 0.248909, 0)
+Marker: 187
+Position: (-1.99441, 0.149417, 0)
+Marker: 188
+Position: (-1.99939, 0.0495509, 0)
+Marker: 189
+Position: (-1.99936, -0.0504387, 0)
+Marker: 190
+Position: (-1.99434, -0.150302, 0)
+Marker: 191
+Position: (-1.98434, -0.24979, 0)
+Marker: 192
+Position: (-1.96938, -0.348654, 0)
+Marker: 193
+Position: (-1.94949, -0.446646, 0)
+Marker: 194
+Position: (-1.92473, -0.543521, 0)
+Marker: 195
+Position: (-1.89516, -0.639038, 0)
+Marker: 196
+Position: (-1.86085, -0.732958, 0)
+Marker: 197
+Position: (-1.82189, -0.825046, 0)
+Marker: 198
+Position: (-1.77838, -0.915072, 0)
+Marker: 199
+Position: (-1.73043, -1.00281, 0)
+Marker: 200
+Position: (-1.67814, -1.08804, 0)
+Marker: 201
+Position: (-1.62167, -1.17055, 0)
+Marker: 202
+Position: (-1.56114, -1.25014, 0)
+Marker: 203
+Position: (-1.4967, -1.3266, 0)
+Marker: 204
+Position: (-1.42853, -1.39975, 0)
+Marker: 205
+Position: (-1.35679, -1.4694, 0)
+Marker: 206
+Position: (-1.28165, -1.53537, 0)
+Marker: 207
+Position: (-1.20331, -1.59751, 0)
+Marker: 208
+Position: (-1.12197, -1.65565, 0)
+Marker: 209
+Position: (-1.03782, -1.70966, 0)
+Marker: 210
+Position: (-0.951074, -1.75939, 0)
+Marker: 211
+Position: (-0.861952, -1.80473, 0)
+Marker: 212
+Position: (-0.770676, -1.84555, 0)
+Marker: 213
+Position: (-0.677474, -1.88176, 0)
+Marker: 214
+Position: (-0.582579, -1.91327, 0)
+Marker: 215
+Position: (-0.486227, -1.94, 0)
+Marker: 216
+Position: (-0.38866, -1.96187, 0)
+Marker: 217
+Position: (-0.290121, -1.97885, 0)
+Marker: 218
+Position: (-0.190858, -1.99087, 0)
+Marker: 219
+Position: (-0.091117, -1.99792, 0)
+Marker: 220
+Position: (0.0088514, -1.99998, 0)
+Marker: 221
+Position: (0.108798, -1.99704, 0)
+Marker: 222
+Position: (0.208472, -1.98911, 0)
+Marker: 223
+Position: (0.307625, -1.9762, 0)
+Marker: 224
+Position: (0.40601, -1.95836, 0)
+Marker: 225
+Position: (0.503379, -1.93562, 0)
+Marker: 226
+Position: (0.599491, -1.90804, 0)
+Marker: 227
+Position: (0.694104, -1.87569, 0)
+Marker: 228
+Position: (0.786982, -1.83866, 0)
+Marker: 229
+Position: (0.877893, -1.79703, 0)
+Marker: 230
+Position: (0.96661, -1.7509, 0)
+Marker: 231
+Position: (1.05291, -1.70041, 0)
+Marker: 232
+Position: (1.13658, -1.64566, 0)
+Marker: 233
+Position: (1.21741, -1.5868, 0)
+Marker: 234
+Position: (1.29519, -1.52397, 0)
+Marker: 235
+Position: (1.36974, -1.45733, 0)
+Marker: 236
+Position: (1.44086, -1.38705, 0)
+Marker: 237
+Position: (1.50839, -1.3133, 0)
+Marker: 238
+Position: (1.57214, -1.23627, 0)
+Marker: 239
+Position: (1.63196, -1.15615, 0)
+Marker: 240
+Position: (1.68771, -1.07315, 0)
+Marker: 241
+Position: (1.73923, -0.987454, 0)
+Marker: 242
+Position: (1.78641, -0.899295, 0)
+Marker: 243
+Position: (1.82913, -0.808888, 0)
+Marker: 244
+Position: (1.86727, -0.716459, 0)
+Marker: 245
+Position: (1.90074, -0.622239, 0)
+Marker: 246
+Position: (1.92947, -0.526464, 0)
+Marker: 247
+Position: (1.95337, -0.429373, 0)
+Marker: 248
+Position: (1.97238, -0.331208, 0)
+Marker: 249
+Position: (1.98647, -0.232216, 0)
+Marker: 250
+Position: (1.9956, -0.132644, 0)
+Marker: 251
+Position: (1.99973, -0.0327398, 0)
+Marker: 252
+Position: (1.99887, 0.0672461, 0)
+Marker: 253
+Position: (1.99301, 0.167064, 0)
+Marker: 254
+Position: (1.98217, 0.266464, 0)
+Marker: 255
+Position: (1.96637, 0.365198, 0)
+Marker: 256
+Position: (1.94567, 0.46302, 0)
+Marker: 257
+Position: (1.92009, 0.559684, 0)
+Marker: 258
+Position: (1.88972, 0.654949, 0)
+Marker: 259
+Position: (1.85462, 0.748577, 0)
+Marker: 260
+Position: (1.81489, 0.840334, 0)
+Marker: 261
+Position: (1.77063, 0.929991, 0)
+Marker: 262
+Position: (1.72193, 1.01732, 0)
+Marker: 263
+Position: (1.66894, 1.10211, 0)
+Marker: 264
+Position: (1.61177, 1.18415, 0)
+Marker: 265
+Position: (1.55057, 1.26322, 0)
+Marker: 266
+Position: (1.4855, 1.33914, 0)
+Marker: 267
+Position: (1.41671, 1.41171, 0)
+Marker: 268
+Position: (1.34439, 1.48075, 0)
+Marker: 269
+Position: (1.2687, 1.54609, 0)
+Marker: 270
+Position: (1.18984, 1.60757, 0)
+Marker: 271
+Position: (1.10801, 1.66503, 0)
+Marker: 272
+Position: (1.02341, 1.71832, 0)
+Marker: 273
+Position: (0.936249, 1.76733, 0)
+Marker: 274
+Position: (0.846749, 1.81191, 0)
+Marker: 275
+Position: (0.755133, 1.85196, 0)
+Marker: 276
+Position: (0.66163, 1.88739, 0)
+Marker: 277
+Position: (0.566473, 1.9181, 0)
+Marker: 278
+Position: (0.4699, 1.94402, 0)
+Marker: 279
+Position: (0.372152, 1.96507, 0)
+Marker: 280
+Position: (0.273474, 1.98121, 0)
+Marker: 281
+Position: (0.174113, 1.99241, 0)
+Marker: 282
+Position: (0.0743168, 1.99862, 0)
+Marker: 283
+Position: (-0.0256654, 1.99984, 0)
+Marker: 284
+Position: (-0.125583, 1.99605, 0)
+Marker: 285
+Position: (-0.225188, 1.98728, 0)
+Marker: 286
+Position: (-0.324229, 1.97354, 0)
+Marker: 287
+Position: (-0.42246, 1.95487, 0)
+Marker: 288
+Position: (-0.519635, 1.93132, 0)
+Marker: 289
+Position: (-0.615511, 1.90293, 0)
+Marker: 290
+Position: (-0.709849, 1.86979, 0)
+Marker: 291
+Position: (-0.802412, 1.83198, 0)
+Marker: 292
+Position: (-0.89297, 1.78958, 0)
+Marker: 293
+Position: (-0.981296, 1.74272, 0)
+Marker: 294
+Position: (-1.06717, 1.69149, 0)
+Marker: 295
+Position: (-1.15037, 1.63604, 0)
+Marker: 296
+Position: (-1.2307, 1.5765, 0)
+Marker: 297
+Position: (-1.30796, 1.51302, 0)
+Marker: 298
+Position: (-1.38194, 1.44576, 0)
+Marker: 299
+Position: (-1.45248, 1.37489, 0)
+Marker: 300
+Position: (-1.51938, 1.30058, 0)
+Marker: 301
+Position: (-1.58248, 1.22301, 0)
+Marker: 302
+Position: (-1.64163, 1.14239, 0)
+Marker: 303
+Position: (-1.69667, 1.05892, 0)
+Marker: 304
+Position: (-1.74747, 0.972797, 0)
+Marker: 305
+Position: (-1.79391, 0.884244, 0)
+Marker: 306
+Position: (-1.83586, 0.793481, 0)
+Marker: 307
+Position: (-1.87322, 0.700735, 0)
+Marker: 308
+Position: (-1.90591, 0.606237, 0)
+Marker: 309
+Position: (-1.93382, 0.510223, 0)
+Marker: 310
+Position: (-1.95691, 0.412935, 0)
+Marker: 311
+Position: (-1.9751, 0.314614, 0)
+Marker: 312
+Position: (-1.98836, 0.215507, 0)
+Marker: 313
+Position: (-1.99664, 0.115862, 0)
+Marker: 314
+Position: (-1.99994, 0.0159264, 0)
+Marker: 315
+Position: (-1.99823, -0.0840487, 0)
+Marker: 316
+Position: (-1.99154, -0.183814, 0)
+Marker: 317
+Position: (-1.97986, -0.283119, 0)
+Marker: 318
+Position: (-1.96324, -0.381717, 0)
+Marker: 319
+Position: (-1.9417, -0.479361, 0)
+Marker: 320
+Position: (-1.91532, -0.575807, 0)
+Marker: 321
+Position: (-1.88415, -0.670813, 0)
+Marker: 322
+Position: (-1.84827, -0.764143, 0)
+Marker: 323
+Position: (-1.80776, -0.855563, 0)
+Marker: 324
+Position: (-1.76274, -0.944844, 0)
+Marker: 325
+Position: (-1.71332, -1.03176, 0)
+Marker: 326
+Position: (-1.65961, -1.1161, 0)
+Marker: 327
+Position: (-1.60176, -1.19766, 0)
+Marker: 328
+Position: (-1.5399, -1.27621, 0)
+Marker: 329
+Position: (-1.47419, -1.35158, 0)
+Marker: 330
+Position: (-1.40479, -1.42357, 0)
+Marker: 331
+Position: (-1.33189, -1.492, 0)
+Marker: 332
+Position: (-1.25566, -1.5567, 0)
+Marker: 333
+Position: (-1.17628, -1.61752, 0)
+Marker: 334
+Position: (-1.09397, -1.67428, 0)
+Marker: 335
+Position: (-1.00893, -1.72687, 0)
+Marker: 336
+Position: (-0.921357, -1.77513, 0)
+Marker: 337
+Position: (-0.831486, -1.81896, 0)
+Marker: 338
+Position: (-0.739537, -1.85825, 0)
+Marker: 339
+Position: (-0.645739, -1.89289, 0)
+Marker: 340
+Position: (-0.550327, -1.92279, 0)
+Marker: 341
+Position: (-0.453539, -1.9479, 0)
+Marker: 342
+Position: (-0.355618, -1.96813, 0)
+Marker: 343
+Position: (-0.256808, -1.98344, 0)
+Marker: 344
+Position: (-0.157356, -1.9938, 0)
+Marker: 345
+Position: (-0.0575113, -1.99917, 0)
+Marker: 346
+Position: (0.0424776, -1.99955, 0)
+Marker: 347
+Position: (0.14236, -1.99493, 0)
+Marker: 348
+Position: (0.241887, -1.98532, 0)
+Marker: 349
+Position: (0.340809, -1.97075, 0)
+Marker: 350
+Position: (0.43888, -1.95125, 0)
+Marker: 351
+Position: (0.535853, -1.92688, 0)
+Marker: 352
+Position: (0.631488, -1.89769, 0)
+Marker: 353
+Position: (0.725543, -1.86376, 0)
+Marker: 354
+Position: (0.817785, -1.82516, 0)
+Marker: 355
+Position: (0.907984, -1.78201, 0)
+Marker: 356
+Position: (0.995912, -1.7344, 0)
+Marker: 357
+Position: (1.08135, -1.68246, 0)
+Marker: 358
+Position: (1.16409, -1.62631, 0)
+Marker: 359
+Position: (1.24392, -1.5661, 0)
+Marker: 360
+Position: (1.32063, -1.50197, 0)
+Marker: 361
+Position: (1.39405, -1.43409, 0)
+Marker: 362
+Position: (1.46398, -1.36263, 0)
+Marker: 363
+Position: (1.53026, -1.28776, 0)
+Marker: 364
+Position: (1.5927, -1.20967, 0)
+Marker: 365
+Position: (1.65117, -1.12855, 0)
+Marker: 366
+Position: (1.70551, -1.04462, 0)
+Marker: 367
+Position: (1.75559, -0.958072, 0)
+Marker: 368
+Position: (1.80128, -0.869131, 0)
+Marker: 369
+Position: (1.84247, -0.778019, 0)
+Marker: 370
+Position: (1.87905, -0.684961, 0)
+Marker: 371
+Position: (1.91094, -0.590192, 0)
+Marker: 372
+Position: (1.93804, -0.493947, 0)
+Marker: 373
+Position: (1.96031, -0.396468, 0)
+Marker: 374
+Position: (1.97767, -0.297998, 0)
+Marker: 375
+Position: (1.9901, -0.198783, 0)
+Marker: 376
+Position: (1.99754, -0.0990713, 0)
+Marker: 377
+Position: (2, 0.000888157, 0)
+Marker: 378
+Position: (1.99746, 0.100845, 0)
+Marker: 379
+Position: (1.98992, 0.200551, 0)
+Marker: 380
+Position: (1.97741, 0.299754, 0)
+Marker: 381
+Position: (1.95996, 0.398209, 0)
+Marker: 382
+Position: (1.9376, 0.495668, 0)
+Marker: 383
+Position: (1.91041, 0.591889, 0)
+Marker: 384
+Position: (1.87844, 0.68663, 0)
+Marker: 385
+Position: (1.84178, 0.779655, 0)
+Marker: 386
+Position: (1.80051, 0.870731, 0)
+Marker: 387
+Position: (1.75474, 0.95963, 0)
+Marker: 388
+Position: (1.70458, 1.04613, 0)
+Marker: 389
+Position: (1.65017, 1.13002, 0)
+Marker: 390
+Position: (1.59163, 1.21108, 0)
+Marker: 391
+Position: (1.52911, 1.28911, 0)
+Marker: 392
+Position: (1.46277, 1.36393, 0)
+Marker: 393
+Position: (1.39278, 1.43533, 0)
+Marker: 394
+Position: (1.3193, 1.50315, 0)
+Marker: 395
+Position: (1.24252, 1.56721, 0)
+Marker: 396
+Position: (1.16264, 1.62735, 0)
+Marker: 397
+Position: (1.07986, 1.68342, 0)
+Marker: 398
+Position: (0.994372, 1.73529, 0)
+Marker: 399
+Position: (0.906401, 1.78282, 0)
+Marker: 400
+Position: (0.816164, 1.82589, 0)
+Marker: 401
+Position: (0.723888, 1.8644, 0)
+Marker: 402
+Position: (0.629802, 1.89825, 0)
+Marker: 403
+Position: (0.534142, 1.92735, 0)
+Marker: 404
+Position: (0.437147, 1.95164, 0)
+Marker: 405
+Position: (0.339059, 1.97105, 0)
+Marker: 406
+Position: (0.240124, 1.98553, 0)
+Marker: 407
+Position: (0.140588, 1.99505, 0)
+Marker: 408
+Position: (0.0407017, 1.99959, 0)
+Marker: 409
+Position: (-0.0592868, 1.99912, 0)
+Marker: 410
+Position: (-0.159127, 1.99366, 0)
+Marker: 411
+Position: (-0.25857, 1.98321, 0)
+Marker: 412
+Position: (-0.357366, 1.96781, 0)
+Marker: 413
+Position: (-0.455269, 1.94749, 0)
+Marker: 414
+Position: (-0.552034, 1.92231, 0)
+Marker: 415
+Position: (-0.64742, 1.89231, 0)
+Marker: 416
+Position: (-0.741187, 1.85759, 0)
+Marker: 417
+Position: (-0.833101, 1.81823, 0)
+Marker: 418
+Position: (-0.922933, 1.77432, 0)
+Marker: 419
+Position: (-1.01046, 1.72597, 0)
+Marker: 420
+Position: (-1.09546, 1.67331, 0)
+Marker: 421
+Position: (-1.17772, 1.61647, 0)
+Marker: 422
+Position: (-1.25704, 1.55559, 0)
+Marker: 423
+Position: (-1.33321, 1.49082, 0)
+Marker: 424
+Position: (-1.40606, 1.42232, 0)
+Marker: 425
+Position: (-1.47539, 1.35027, 0)
+Marker: 426
+Position: (-1.54103, 1.27485, 0)
+Marker: 427
+Position: (-1.60282, 1.19623, 0)
+Marker: 428
+Position: (-1.6606, 1.11463, 0)
+Marker: 429
+Position: (-1.71424, 1.03024, 0)
+Marker: 430
+Position: (-1.76358, 0.943278, 0)
+Marker: 431
+Position: (-1.80852, 0.853957, 0)
+Marker: 432
+Position: (-1.84894, 0.762501, 0)
+Marker: 433
+Position: (-1.88474, 0.669139, 0)
+Marker: 434
+Position: (-1.91583, 0.574105, 0)
+Marker: 435
+Position: (-1.94213, 0.477636, 0)
+Marker: 436
+Position: (-1.96357, 0.379973, 0)
+Marker: 437
+Position: (-1.98011, 0.281361, 0)
+Marker: 438
+Position: (-1.9917, 0.182045, 0)
+Marker: 439
+Position: (-1.99831, 0.0822739, 0)
+Marker: 440
+Position: (-1.99992, -0.0177026, 0)
+Marker: 441
+Position: (-1.99654, -0.117635, 0)
+Marker: 442
+Position: (-1.98816, -0.217273, 0)
+Marker: 443
+Position: (-1.97482, -0.316368, 0)
+Marker: 444
+Position: (-1.95654, -0.414673, 0)
+Marker: 445
+Position: (-1.93337, -0.511941, 0)
+Marker: 446
+Position: (-1.90537, -0.607929, 0)
+Marker: 447
+Position: (-1.8726, -0.702398, 0)
+Marker: 448
+Position: (-1.83516, -0.795111, 0)
+Marker: 449
+Position: (-1.79312, -0.885837, 0)
+Marker: 450
+Position: (-1.74661, -0.974349, 0)
+Marker: 451
+Position: (-1.69573, -1.06043, 0)
+Marker: 452
+Position: (-1.64061, -1.14385, 0)
+Marker: 453
+Position: (-1.58139, -1.22442, 0)
+Marker: 454
+Position: (-1.51822, -1.30192, 0)
+Marker: 455
+Position: (-1.45125, -1.37618, 0)
+Marker: 456
+Position: (-1.38066, -1.44699, 0)
+Marker: 457
+Position: (-1.30661, -1.51419, 0)
+Marker: 458
+Position: (-1.2293, -1.5776, 0)
+Marker: 459
+Position: (-1.14892, -1.63706, 0)
+Marker: 460
+Position: (-1.06567, -1.69244, 0)
+Marker: 461
+Position: (-0.979747, -1.74359, 0)
+Marker: 462
+Position: (-0.89138, -1.79037, 0)
+Marker: 463
+Position: (-0.800785, -1.83269, 0)
+Marker: 464
+Position: (-0.708188, -1.87042, 0)
+Marker: 465
+Position: (-0.613821, -1.90348, 0)
+Marker: 466
+Position: (-0.517919, -1.93178, 0)
+Marker: 467
+Position: (-0.420723, -1.95525, 0)
+Marker: 468
+Position: (-0.322476, -1.97383, 0)
+Marker: 469
+Position: (-0.223422, -1.98748, 0)
+Marker: 470
+Position: (-0.123811, -1.99616, 0)
+Marker: 471
+Position: (-0.0238892, -1.99986, 0)
+Marker: 472
+Position: (0.0760918, -1.99855, 0)
+Marker: 473
+Position: (0.175883, -1.99225, 0)
+Marker: 474
+Position: (0.275234, -1.98097, 0)
+Marker: 475
+Position: (0.373897, -1.96474, 0)
+Marker: 476
+Position: (0.471626, -1.9436, 0)
+Marker: 477
+Position: (0.568176, -1.9176, 0)
+Marker: 478
+Position: (0.663306, -1.8868, 0)
+Marker: 479
+Position: (0.756778, -1.85129, 0)
+Marker: 480
+Position: (0.848358, -1.81116, 0)
+Marker: 481
+Position: (0.937818, -1.76649, 0)
+Marker: 482
+Position: (1.02493, -1.71741, 0)
+Marker: 483
+Position: (1.10949, -1.66404, 0)
+Marker: 484
+Position: (1.19127, -1.60651, 0)
+Marker: 485
+Position: (1.27007, -1.54497, 0)
+Marker: 486
+Position: (1.3457, -1.47956, 0)
+Marker: 487
+Position: (1.41797, -1.41045, 0)
+Marker: 488
+Position: (1.48669, -1.33782, 0)
+Marker: 489
+Position: (1.55169, -1.26184, 0)
+Marker: 490
+Position: (1.61282, -1.18272, 0)
+Marker: 491
+Position: (1.66991, -1.10063, 0)
+Marker: 492
+Position: (1.72284, -1.01579, 0)
+Marker: 493
+Position: (1.77145, -0.928418, 0)
+Marker: 494
+Position: (1.81564, -0.838722, 0)
+Marker: 495
+Position: (1.85529, -0.74693, 0)
+Marker: 496
+Position: (1.8903, -0.65327, 0)
+Marker: 497
+Position: (1.92059, -0.557978, 0)
+Marker: 498
+Position: (1.94608, -0.461291, 0)
+Marker: 499
+Position: (1.9667, -0.363452, 0)
+Marker: 500
+Position: (1.98241, -0.264704, 0)
+Marker: 501
+Position: (1.99316, -0.165294, 0)
+Marker: 502
+Position: (1.99893, -0.0654708, 0)
+Marker: 503
+Position: (1.9997, 0.0345158, 0)
+Marker: 504
+Position: (1.99548, 0.134416, 0)
+Marker: 505
+Position: (1.98627, 0.23398, 0)
+Marker: 506
+Position: (1.97209, 0.33296, 0)
+Marker: 507
+Position: (1.95298, 0.431107, 0)
+Marker: 508
+Position: (1.929, 0.528177, 0)
+Marker: 509
+Position: (1.90019, 0.623927, 0)
+Marker: 510
+Position: (1.86663, 0.718117, 0)
+Marker: 511
+Position: (1.82841, 0.810512, 0)
+Marker: 512
+Position: (1.78561, 0.900881, 0)
+Marker: 513
+Position: (1.73836, 0.988999, 0)
+Marker: 514
+Position: (1.68675, 1.07464, 0)
+Marker: 515
+Position: (1.63094, 1.1576, 0)
+Marker: 516
+Position: (1.57104, 1.23767, 0)
+Marker: 517
+Position: (1.50722, 1.31464, 0)
+Marker: 518
+Position: (1.43963, 1.38833, 0)
+Marker: 519
+Position: (1.36845, 1.45855, 0)
+Marker: 520
+Position: (1.29384, 1.52512, 0)
+Marker: 521
+Position: (1.216, 1.58788, 0)
+Marker: 522
+Position: (1.13512, 1.64667, 0)
+Marker: 523
+Position: (1.0514, 1.70134, 0)
+Marker: 524
+Position: (0.965054, 1.75176, 0)
+Marker: 525
+Position: (0.876296, 1.79781, 0)
+Marker: 526
+Position: (0.785348, 1.83936, 0)
+Marker: 527
+Position: (0.692437, 1.87631, 0)
+Marker: 528
+Position: (0.597796, 1.90857, 0)
+Marker: 529
+Position: (0.50166, 1.93606, 0)
+Marker: 530
+Position: (0.40427, 1.95872, 0)
+Marker: 531
+Position: (0.30587, 1.97647, 0)
+Marker: 532
+Position: (0.206705, 1.98929, 0)
+Marker: 533
+Position: (0.107024, 1.99713, 0)
+Marker: 534
+Position: (0.0070751, 1.99999, 0)
+Marker: 535
+Position: (-0.0928915, 1.99784, 0)
+Marker: 536
+Position: (-0.192626, 1.9907, 0)
+Marker: 537
+Position: (-0.291879, 1.97859, 0)
+Marker: 538
+Position: (-0.390402, 1.96153, 0)
+Marker: 539
+Position: (-0.48795, 1.93956, 0)
+Marker: 540
+Position: (-0.584278, 1.91275, 0)
+Marker: 541
+Position: (-0.679145, 1.88116, 0)
+Marker: 542
+Position: (-0.772315, 1.84487, 0)
+Marker: 543
+Position: (-0.863555, 1.80396, 0)
+Marker: 544
+Position: (-0.952636, 1.75855, 0)
+Marker: 545
+Position: (-1.03934, 1.70874, 0)
+Marker: 546
+Position: (-1.12344, 1.65466, 0)
+Marker: 547
+Position: (-1.20473, 1.59644, 0)
+Marker: 548
+Position: (-1.28302, 1.53423, 0)
+Marker: 549
+Position: (-1.35809, 1.46819, 0)
+Marker: 550
+Position: (-1.42977, 1.39848, 0)
+Marker: 551
+Position: (-1.49788, 1.32527, 0)
+Marker: 552
+Position: (-1.56225, 1.24875, 0)
+Marker: 553
+Position: (-1.62271, 1.16911, 0)
+Marker: 554
+Position: (-1.67911, 1.08655, 0)
+Marker: 555
+Position: (-1.73132, 1.00127, 0)
+Marker: 556
+Position: (-1.77919, 0.913492, 0)
+Marker: 557
+Position: (-1.82263, 0.823428, 0)
+Marker: 558
+Position: (-1.8615, 0.731305, 0)
+Marker: 559
+Position: (-1.89573, 0.637355, 0)
+Marker: 560
+Position: (-1.92521, 0.541812, 0)
+Marker: 561
+Position: (-1.94989, 0.444914, 0)
+Marker: 562
+Position: (-1.96968, 0.346904, 0)
+Marker: 563
+Position: (-1.98456, 0.248028, 0)
+Marker: 564
+Position: (-1.99448, 0.148531, 0)
+Marker: 565
+Position: (-1.99941, 0.048663, 0)
+Marker: 566
+Position: (-1.99934, -0.0513266, 0)
+Marker: 567
+Position: (-1.99428, -0.151188, 0)
+Marker: 568
+Position: (-1.98423, -0.250671, 0)
+Marker: 569
+Position: (-1.96922, -0.349528, 0)
+Marker: 570
+Position: (-1.94929, -0.447511, 0)
+Marker: 571
+Position: (-1.92449, -0.544376, 0)
+Marker: 572
+Position: (-1.89488, -0.63988, 0)
+Marker: 573
+Position: (-1.86053, -0.733785, 0)
+Marker: 574
+Position: (-1.82153, -0.825855, 0)
+Marker: 575
+Position: (-1.77798, -0.915861, 0)
+Marker: 576
+Position: (-1.72998, -1.00358, 0)
+Marker: 577
+Position: (-1.67766, -1.08879, 0)
+Marker: 578
+Position: (-1.62115, -1.17127, 0)
+Marker: 579
+Position: (-1.56058, -1.25083, 0)
+Marker: 580
+Position: (-1.49612, -1.32727, 0)
+Marker: 581
+Position: (-1.42791, -1.40038, 0)
+Marker: 582
+Position: (-1.35614, -1.47, 0)
+Marker: 583
+Position: (-1.28097, -1.53594, 0)
+Marker: 584
+Position: (-1.2026, -1.59804, 0)
+Marker: 585
+Position: (-1.12123, -1.65615, 0)
+Marker: 586
+Position: (-1.03706, -1.71012, 0)
+Marker: 587
+Position: (-0.950292, -1.75981, 0)
+Marker: 588
+Position: (-0.861151, -1.80511, 0)
+Marker: 589
+Position: (-0.769857, -1.84589, 0)
+Marker: 590
+Position: (-0.676638, -1.88206, 0)
+Marker: 591
+Position: (-0.581729, -1.91353, 0)
+Marker: 592
+Position: (-0.485365, -1.94021, 0)
+Marker: 593
+Position: (-0.387789, -1.96204, 0)
+Marker: 594
+Position: (-0.289243, -1.97897, 0)
+Marker: 595
+Position: (-0.189974, -1.99096, 0)
+Marker: 596
+Position: (-0.0902298, -1.99796, 0)
+Marker: 597
+Position: (0.00973954, -1.99998, 0)
+Marker: 598
+Position: (0.109685, -1.99699, 0)
+Marker: 599
+Position: (0.209355, -1.98901, 0)
+Marker: 600
+Position: (0.308503, -1.97606, 0)
+Marker: 601
+Position: (0.406879, -1.95817, 0)
+Marker: 602
+Position: (0.504239, -1.93539, 0)
+Marker: 603
+Position: (0.600338, -1.90777, 0)
+Marker: 604
+Position: (0.694937, -1.87538, 0)
+Marker: 605
+Position: (0.787798, -1.83831, 0)
+Marker: 606
+Position: (0.878691, -1.79664, 0)
+Marker: 607
+Position: (0.967387, -1.75047, 0)
+Marker: 608
+Position: (1.05367, -1.69994, 0)
+Marker: 609
+Position: (1.13731, -1.64515, 0)
+Marker: 610
+Position: (1.21811, -1.58625, 0)
+Marker: 611
+Position: (1.29587, -1.52339, 0)
+Marker: 612
+Position: (1.37039, -1.45672, 0)
+Marker: 613
+Position: (1.44148, -1.38641, 0)
+Marker: 614
+Position: (1.50897, -1.31263, 0)
+Marker: 615
+Position: (1.57269, -1.23558, 0)
+Marker: 616
+Position: (1.63248, -1.15543, 0)
+Marker: 617
+Position: (1.68818, -1.0724, 0)
+Marker: 618
+Position: (1.73967, -0.986682, 0)
+Marker: 619
+Position: (1.78681, -0.898502, 0)
+Marker: 620
+Position: (1.82948, -0.808075, 0)
+Marker: 621
+Position: (1.86759, -0.715629, 0)
+Marker: 622
+Position: (1.90102, -0.621395, 0)
+Marker: 623
+Position: (1.9297, -0.525607, 0)
+Marker: 624
+Position: (1.95356, -0.428505, 0)
+Marker: 625
+Position: (1.97253, -0.330332, 0)
+Marker: 626
+Position: (1.98658, -0.231334, 0)
+Marker: 627
+Position: (1.99566, -0.131758, 0)
+Marker: 628
+Position: (1.99975, -0.0318517, 0)
+Marker: 629
+Position: (1.99884, 0.0681337, 0)
+Marker: 630
+Position: (1.99294, 0.167949, 0)
+Marker: 631
+Position: (1.98205, 0.267344, 0)
+Marker: 632
+Position: (1.96621, 0.366071, 0)
+Marker: 633
+Position: (1.94546, 0.463884, 0)
+Marker: 634
+Position: (1.91984, 0.560536, 0)
+Marker: 635
+Position: (1.88943, 0.655788, 0)
+Marker: 636
+Position: (1.85429, 0.749401, 0)
+Marker: 637
+Position: (1.81452, 0.84114, 0)
+Marker: 638
+Position: (1.77021, 0.930777, 0)
+Marker: 639
+Position: (1.72148, 1.01809, 0)
+Marker: 640
+Position: (1.66845, 1.10285, 0)
+Marker: 641
+Position: (1.61124, 1.18486, 0)
+Marker: 642
+Position: (1.55001, 1.26391, 0)
+Marker: 643
+Position: (1.4849, 1.3398, 0)
+Marker: 644
+Position: (1.41609, 1.41234, 0)
+Marker: 645
+Position: (1.34373, 1.48135, 0)
+Marker: 646
+Position: (1.26801, 1.54666, 0)
+Marker: 647
+Position: (1.18913, 1.6081, 0)
+Marker: 648
+Position: (1.10727, 1.66552, 0)
+Marker: 649
+Position: (1.02264, 1.71878, 0)
+Marker: 650
+Position: (0.935464, 1.76774, 0)
+Marker: 651
+Position: (0.845944, 1.81229, 0)
+Marker: 652
+Position: (0.754311, 1.8523, 0)
+Marker: 653
+Position: (0.660792, 1.88768, 0)
+Marker: 654
+Position: (0.565621, 1.91835, 0)
+Marker: 655
+Position: (0.469036, 1.94422, 0)
+Marker: 656
+Position: (0.371279, 1.96524, 0)
+Marker: 657
+Position: (0.272595, 1.98134, 0)
+Marker: 658
+Position: (0.173228, 1.99248, 0)
+Marker: 659
+Position: (0.0734292, 1.99865, 0)
+Marker: 660
+Position: (-0.0265535, 1.99982, 0)
+Marker: 661
+Position: (-0.12647, 1.996, 0)
+Marker: 662
+Position: (-0.22607, 1.98718, 0)
+Marker: 663
+Position: (-0.325105, 1.9734, 0)
+Marker: 664
+Position: (-0.423328, 1.95469, 0)
+Marker: 665
+Position: (-0.520492, 1.93108, 0)
+Marker: 666
+Position: (-0.616356, 1.90266, 0)
+Marker: 667
+Position: (-0.710679, 1.86947, 0)
+Marker: 668
+Position: (-0.803225, 1.83162, 0)
+Marker: 669
+Position: (-0.893764, 1.78919, 0)
+Marker: 670
+Position: (-0.982069, 1.74228, 0)
+Marker: 671
+Position: (-1.06792, 1.69102, 0)
+Marker: 672
+Position: (-1.1511, 1.63553, 0)
+Marker: 673
+Position: (-1.2314, 1.57596, 0)
+Marker: 674
+Position: (-1.30863, 1.51244, 0)
+Marker: 675
+Position: (-1.38259, 1.44515, 0)
+Marker: 676
+Position: (-1.45309, 1.37424, 0)
+Marker: 677
+Position: (-1.51995, 1.2999, 0)
+Marker: 678
+Position: (-1.58302, 1.22231, 0)
+Marker: 679
+Position: (-1.64213, 1.14166, 0)
+Marker: 680
+Position: (-1.69714, 1.05817, 0)
+Marker: 681
+Position: (-1.74791, 0.972021, 0)
+Marker: 682
+Position: (-1.7943, 0.883448, 0)
+Marker: 683
+Position: (-1.83621, 0.792666, 0)
+Marker: 684
+Position: (-1.87354, 0.699903, 0)
+Marker: 685
+Position: (-1.90617, 0.60539, 0)
+Marker: 686
+Position: (-1.93405, 0.509365, 0)
+Marker: 687
+Position: (-1.95709, 0.412066, 0)
+Marker: 688
+Position: (-1.97524, 0.313737, 0)
+Marker: 689
+Position: (-1.98845, 0.214624, 0)
+Marker: 690
+Position: (-1.99669, 0.114975, 0)
+Marker: 691
+Position: (-1.99994, 0.0150382, 0)
+Marker: 692
+Position: (-1.9982, -0.0849361, 0)
+Marker: 693
+Position: (-1.99145, -0.184698, 0)
+Marker: 694
+Position: (-1.97973, -0.283998, 0)
+Marker: 695
+Position: (-1.96307, -0.382589, 0)
+Marker: 696
+Position: (-1.94149, -0.480223, 0)
+Marker: 697
+Position: (-1.91506, -0.576657, 0)
+Marker: 698
+Position: (-1.88385, -0.67165, 0)
+Marker: 699
+Position: (-1.84793, -0.764964, 0)
+Marker: 700
+Position: (-1.80738, -0.856365, 0)
+Marker: 701
+Position: (-1.76233, -0.945627, 0)
+Marker: 702
+Position: (-1.71286, -1.03252, 0)
+Marker: 703
+Position: (-1.65912, -1.11684, 0)
+Marker: 704
+Position: (-1.60122, -1.19837, 0)
+Marker: 705
+Position: (-1.53933, -1.2769, 0)
+Marker: 706
+Position: (-1.47359, -1.35224, 0)
+Marker: 707
+Position: (-1.40416, -1.42419, 0)
+Marker: 708
+Position: (-1.33123, -1.49259, 0)
+Marker: 709
+Position: (-1.25496, -1.55726, 0)
+Marker: 710
+Position: (-1.17557, -1.61804, 0)
+Marker: 711
+Position: (-1.09323, -1.67477, 0)
+Marker: 712
+Position: (-1.00816, -1.72731, 0)
+Marker: 713
+Position: (-0.920569, -1.77554, 0)
+Marker: 714
+Position: (-0.830678, -1.81933, 0)
+Marker: 715
+Position: (-0.738711, -1.85858, 0)
+Marker: 716
+Position: (-0.644898, -1.89317, 0)
+Marker: 717
+Position: (-0.549473, -1.92304, 0)
+Marker: 718
+Position: (-0.452674, -1.9481, 0)
+Marker: 719
+Position: (-0.354744, -1.96829, 0)
+Marker: 720
+Position: (-0.255927, -1.98356, 0)
+Marker: 721
+Position: (-0.156471, -1.99387, 0)
+Marker: 722
+Position: (-0.0566235, -1.9992, 0)
+Marker: 723
+Position: (0.0433656, -1.99953, 0)
+Marker: 724
+Position: (0.143246, -1.99486, 0)
+Marker: 725
+Position: (0.242769, -1.98521, 0)
+Marker: 726
+Position: (0.341685, -1.9706, 0)
+Marker: 727
+Position: (0.439746, -1.95106, 0)
+Marker: 728
+Position: (0.536709, -1.92664, 0)
+Marker: 729
+Position: (0.63233, -1.89741, 0)
+Marker: 730
+Position: (0.726371, -1.86343, 0)
+Marker: 731
+Position: (0.818596, -1.8248, 0)
+Marker: 732
+Position: (0.908775, -1.78161, 0)
+Marker: 733
+Position: (0.996683, -1.73396, 0)
+Marker: 734
+Position: (1.0821, -1.68198, 0)
+Marker: 735
+Position: (1.16481, -1.6258, 0)
+Marker: 736
+Position: (1.24461, -1.56555, 0)
+Marker: 737
+Position: (1.3213, -1.50139, 0)
+Marker: 738
+Position: (1.39469, -1.43347, 0)
+Marker: 739
+Position: (1.46459, -1.36198, 0)
+Marker: 740
+Position: (1.53083, -1.28708, 0)
+Marker: 741
+Position: (1.59324, -1.20896, 0)
+Marker: 742
+Position: (1.65167, -1.12782, 0)
+Marker: 743
+Position: (1.70598, -1.04386, 0)
+Marker: 744
+Position: (1.75602, -0.957292, 0)
+Marker: 745
+Position: (1.80167, -0.868331, 0)
+Marker: 746
+Position: (1.84281, -0.7772, 0)
+Marker: 747
+Position: (1.87935, -0.684127, 0)
+Marker: 748
+Position: (1.9112, -0.589343, 0)
+Marker: 749
+Position: (1.93826, -0.493087, 0)
+Marker: 750
+Position: (1.96049, -0.395598, 0)
+Marker: 751
+Position: (1.97781, -0.29712, 0)
+Marker: 752
+Position: (1.99018, -0.197899, 0)
+Marker: 753
+Position: (1.99759, -0.0981842, 0)
+Marker: 754
+Position: (2, 0.00177631, 0)
+Marker: 755
+Position: (1.99741, 0.101732, 0)
+Marker: 756
+Position: (1.98983, 0.201434, 0)
+Marker: 757
+Position: (1.97728, 0.300633, 0)
+Marker: 758
+Position: (1.95978, 0.399079, 0)
+Marker: 759
+Position: (1.93738, 0.496529, 0)
+Marker: 760
+Position: (1.91015, 0.592737, 0)
+Marker: 761
+Position: (1.87814, 0.687464, 0)
+Marker: 762
+Position: (1.84143, 0.780472, 0)
+Marker: 763
+Position: (1.80012, 0.87153, 0)
+Marker: 764
+Position: (1.75431, 0.96041, 0)
+Marker: 765
+Position: (1.70412, 1.04689, 0)
+Marker: 766
+Position: (1.64967, 1.13075, 0)
+Marker: 767
+Position: (1.59109, 1.21179, 0)
+Marker: 768
+Position: (1.52854, 1.28979, 0)
+Marker: 769
+Position: (1.46217, 1.36458, 0)
+Marker: 770
+Position: (1.39214, 1.43595, 0)
+Marker: 771
+Position: (1.31863, 1.50373, 0)
+Marker: 772
+Position: (1.24183, 1.56776, 0)
+Marker: 773
+Position: (1.16192, 1.62786, 0)
+Marker: 774
+Position: (1.07911, 1.6839, 0)
+Marker: 775
+Position: (0.993601, 1.73573, 0)
+Marker: 776
+Position: (0.905609, 1.78322, 0)
+Marker: 777
+Position: (0.815353, 1.82625, 0)
+Marker: 778
+Position: (0.72306, 1.86472, 0)
+Marker: 779
+Position: (0.628959, 1.89853, 0)
+Marker: 780
+Position: (0.533286, 1.92759, 0)
+Marker: 781
+Position: (0.43628, 1.95183, 0)
+Marker: 782
+Position: (0.338184, 1.9712, 0)
+Marker: 783
+Position: (0.239242, 1.98564, 0)
+Marker: 784
+Position: (0.139702, 1.99511, 0)
+Marker: 785
+Position: (0.0398137, 1.9996, 0)
+Marker: 786
+Position: (-0.0601746, 1.99909, 0)
+Marker: 787
+Position: (-0.160012, 1.99359, 0)
+Marker: 788
+Position: (-0.25945, 1.9831, 0)
+Marker: 789
+Position: (-0.35824, 1.96765, 0)
+Marker: 790
+Position: (-0.456134, 1.94729, 0)
+Marker: 791
+Position: (-0.552888, 1.92206, 0)
+Marker: 792
+Position: (-0.64826, 1.89203, 0)
+Marker: 793
+Position: (-0.742011, 1.85726, 0)
+Marker: 794
+Position: (-0.833909, 1.81785, 0)
+Marker: 795
+Position: (-0.923721, 1.77391, 0)
+Marker: 796
+Position: (-1.01123, 1.72552, 0)
+Marker: 797
+Position: (-1.0962, 1.67282, 0)
+Marker: 798
+Position: (-1.17844, 1.61595, 0)
+Marker: 799
+Position: (-1.25773, 1.55503, 0)
+Marker: 800
+Position: (-1.33388, 1.49023, 0)
+Marker: 801
+Position: (-1.40669, 1.4217, 0)
+Marker: 802
+Position: (-1.47599, 1.34962, 0)
+Marker: 803
+Position: (-1.54159, 1.27416, 0)
+Marker: 804
+Position: (-1.60335, 1.19552, 0)
+Marker: 805
+Position: (-1.6611, 1.11389, 0)
+Marker: 806
+Position: (-1.71469, 1.02948, 0)
+Marker: 807
+Position: (-1.764, 0.942495, 0)
+Marker: 808
+Position: (-1.8089, 0.853154, 0)
+Marker: 809
+Position: (-1.84928, 0.76168, 0)
+Marker: 810
+Position: (-1.88504, 0.668302, 0)
+Marker: 811
+Position: (-1.91608, 0.573254, 0)
+Marker: 812
+Position: (-1.94234, 0.476774, 0)
+Marker: 813
+Position: (-1.96374, 0.379101, 0)
+Marker: 814
+Position: (-1.98023, 0.280481, 0)
+Marker: 815
+Position: (-1.99178, 0.18116, 0)
+Marker: 816
+Position: (-1.99834, 0.0813865, 0)
+Marker: 817
+Position: (-1.99991, -0.0185907, 0)
+Marker: 818
+Position: (-1.99649, -0.118522, 0)
+Marker: 819
+Position: (-1.98807, -0.218156, 0)
+Marker: 820
+Position: (-1.97468, -0.317245, 0)
+Marker: 821
+Position: (-1.95636, -0.415542, 0)
+Marker: 822
+Position: (-1.93314, -0.512799, 0)
+Marker: 823
+Position: (-1.9051, -0.608775, 0)
+Marker: 824
+Position: (-1.87229, -0.70323, 0)
+Marker: 825
+Position: (-1.8348, -0.795926, 0)
+Marker: 826
+Position: (-1.79273, -0.886633, 0)
+Marker: 827
+Position: (-1.74618, -0.975125, 0)
+Marker: 828
+Position: (-1.69526, -1.06118, 0)
+Marker: 829
+Position: (-1.6401, -1.14458, 0)
+Marker: 830
+Position: (-1.58085, -1.22512, 0)
+Marker: 831
+Position: (-1.51764, -1.3026, 0)
+Marker: 832
+Position: (-1.45064, -1.37682, 0)
+Marker: 833
+Position: (-1.38002, -1.4476, 0)
+Marker: 834
+Position: (-1.30594, -1.51477, 0)
+Marker: 835
+Position: (-1.2286, -1.57814, 0)
+Marker: 836
+Position: (-1.14819, -1.63757, 0)
+Marker: 837
+Position: (-1.06491, -1.69291, 0)
+Marker: 838
+Position: (-0.978973, -1.74402, 0)
+Marker: 839
+Position: (-0.890585, -1.79077, 0)
+Marker: 840
+Position: (-0.799971, -1.83304, 0)
+Marker: 841
+Position: (-0.707357, -1.87073, 0)
+Marker: 842
+Position: (-0.612975, -1.90375, 0)
+Marker: 843
+Position: (-0.517061, -1.93201, 0)
+Marker: 844
+Position: (-0.419855, -1.95543, 0)
+Marker: 845
+Position: (-0.321599, -1.97397, 0)
+Marker: 846
+Position: (-0.22254, -1.98758, 0)
+Marker: 847
+Position: (-0.122924, -1.99622, 0)
+Marker: 848
+Position: (-0.0230011, -1.99987, 0)
+Marker: 849
+Position: (0.0769793, -1.99852, 0)
+Marker: 850
+Position: (0.176767, -1.99217, 0)
+Marker: 851
+Position: (0.276114, -1.98085, 0)
+Marker: 852
+Position: (0.37477, -1.96457, 0)
+Marker: 853
+Position: (0.472489, -1.94339, 0)
+Marker: 854
+Position: (0.569027, -1.91734, 0)
+Marker: 855
+Position: (0.664144, -1.88651, 0)
+Marker: 856
+Position: (0.7576, -1.85096, 0)
+Marker: 857
+Position: (0.849162, -1.81078, 0)
+Marker: 858
+Position: (0.938602, -1.76608, 0)
+Marker: 859
+Position: (1.0257, -1.71696, 0)
+Marker: 860
+Position: (1.11023, -1.66355, 0)
+Marker: 861
+Position: (1.19198, -1.60598, 0)
+Marker: 862
+Position: (1.27076, -1.5444, 0)
+Marker: 863
+Position: (1.34636, -1.47896, 0)
+Marker: 864
+Position: (1.41859, -1.40982, 0)
+Marker: 865
+Position: (1.48728, -1.33716, 0)
+Marker: 866
+Position: (1.55225, -1.26116, 0)
+Marker: 867
+Position: (1.61334, -1.182, 0)
+Marker: 868
+Position: (1.6704, -1.09989, 0)
+Marker: 869
+Position: (1.72329, -1.01503, 0)
+Marker: 870
+Position: (1.77186, -0.927631, 0)
+Marker: 871
+Position: (1.81601, -0.837915, 0)
+Marker: 872
+Position: (1.85562, -0.746106, 0)
+Marker: 873
+Position: (1.89059, -0.652431, 0)
+Marker: 874
+Position: (1.92084, -0.557125, 0)
+Marker: 875
+Position: (1.94628, -0.460427, 0)
+Marker: 876
+Position: (1.96686, -0.362578, 0)
+Marker: 877
+Position: (1.98252, -0.263823, 0)
+Marker: 878
+Position: (1.99323, -0.164409, 0)
+Marker: 879
+Position: (1.99896, -0.0645831, 0)
+Marker: 880
+Position: (1.99969, 0.0354039, 0)
+Marker: 881
+Position: (1.99542, 0.135302, 0)
+Marker: 882
+Position: (1.98616, 0.234863, 0)
+Marker: 883
+Position: (1.97194, 0.333836, 0)
+Marker: 884
+Position: (1.95279, 0.431975, 0)
+Marker: 885
+Position: (1.92876, 0.529034, 0)
+Marker: 886
+Position: (1.89991, 0.62477, 0)
+Marker: 887
+Position: (1.86631, 0.718946, 0)
+Marker: 888
+Position: (1.82805, 0.811324, 0)
+Marker: 889
+Position: (1.78521, 0.901674, 0)
+Marker: 890
+Position: (1.73792, 0.989771, 0)
+Marker: 891
+Position: (1.68628, 1.07539, 0)
+Marker: 892
+Position: (1.63042, 1.15833, 0)
+Marker: 893
+Position: (1.57049, 1.23837, 0)
+Marker: 894
+Position: (1.50664, 1.31531, 0)
+Marker: 895
+Position: (1.43902, 1.38897, 0)
+Marker: 896
+Position: (1.3678, 1.45915, 0)
+Marker: 897
+Position: (1.29316, 1.52569, 0)
+Marker: 898
+Position: (1.21529, 1.58842, 0)
+Marker: 899
+Position: (1.13439, 1.64717, 0)
+Marker: 900
+Position: (1.05064, 1.70181, 0)
+Marker: 901
+Position: (0.964276, 1.75219, 0)
+Marker: 902
+Position: (0.875498, 1.79819, 0)
+Marker: 903
+Position: (0.784532, 1.8397, 0)
+Marker: 904
+Position: (0.691604, 1.87661, 0)
+Marker: 905
+Position: (0.596948, 1.90884, 0)
+Marker: 906
+Position: (0.5008, 1.93628, 0)
+Marker: 907
+Position: (0.4034, 1.95889, 0)
+Marker: 908
+Position: (0.304992, 1.97661, 0)
+Marker: 909
+Position: (0.205822, 1.98938, 0)
+Marker: 910
+Position: (0.106137, 1.99718, 0)
+Marker: 911
+Position: (0.00618694, 1.99999, 0)
+Marker: 912
+Position: (-0.0937786, 1.9978, 0)
+Marker: 913
+Position: (-0.19351, 1.99062, 0)
+Marker: 914
+Position: (-0.292757, 1.97846, 0)
+Marker: 915
+Position: (-0.391273, 1.96135, 0)
+Marker: 916
+Position: (-0.488811, 1.93935, 0)
+Marker: 917
+Position: (-0.585127, 1.91249, 0)
+Marker: 918
+Position: (-0.67998, 1.88086, 0)
+Marker: 919
+Position: (-0.773134, 1.84452, 0)
+Marker: 920
+Position: (-0.864356, 1.80358, 0)
+Marker: 921
+Position: (-0.953417, 1.75812, 0)
+Marker: 922
+Position: (-1.04009, 1.70827, 0)
+Marker: 923
+Position: (-1.12417, 1.65416, 0)
+Marker: 924
+Position: (-1.20544, 1.5959, 0)
+Marker: 925
+Position: (-1.2837, 1.53366, 0)
+Marker: 926
+Position: (-1.35874, 1.46759, 0)
+Marker: 927
+Position: (-1.43039, 1.39784, 0)
+Marker: 928
+Position: (-1.49847, 1.32461, 0)
+Marker: 929
+Position: (-1.5628, 1.24806, 0)
+Marker: 930
+Position: (-1.62322, 1.16839, 0)
+Marker: 931
+Position: (-1.67959, 1.08581, 0)
+Marker: 932
+Position: (-1.73176, 1.0005, 0)
+Marker: 933
+Position: (-1.7796, 0.912702, 0)
+Marker: 934
+Position: (-1.82299, 0.822618, 0)
+Marker: 935
+Position: (-1.86183, 0.730479, 0)
+Marker: 936
+Position: (-1.89601, 0.636513, 0)
+Marker: 937
+Position: (-1.92545, 0.540957, 0)
+Marker: 938
+Position: (-1.95008, 0.444048, 0)
+Marker: 939
+Position: (-1.96984, 0.34603, 0)
+Marker: 940
+Position: (-1.98467, 0.247146, 0)
+Marker: 941
+Position: (-1.99454, 0.147645, 0)
+Marker: 942
+Position: (-1.99943, 0.0477751, 0)
+Marker: 943
+Position: (-1.99932, -0.0522145, 0)
+Marker: 944
+Position: (-1.99421, -0.152073, 0)
+Marker: 945
+Position: (-1.98412, -0.251552, 0)
+Marker: 946
+Position: (-1.96907, -0.350403, 0)
+Marker: 947
+Position: (-1.94909, -0.448377, 0)
+Marker: 948
+Position: (-1.92425, -0.545231, 0)
+Marker: 949
+Position: (-1.89459, -0.640721, 0)
+Marker: 950
+Position: (-1.8602, -0.734611, 0)
+Marker: 951
+Position: (-1.82116, -0.826664, 0)
+Marker: 952
+Position: (-1.77757, -0.916651, 0)
+Marker: 953
+Position: (-1.72953, -1.00435, 0)
+Marker: 954
+Position: (-1.67718, -1.08953, 0)
+Marker: 955
+Position: (-1.62063, -1.17199, 0)
+Marker: 956
+Position: (-1.56003, -1.25153, 0)
+Marker: 957
+Position: (-1.49553, -1.32793, 0)
+Marker: 958
+Position: (-1.42729, -1.40102, 0)
+Marker: 959
+Position: (-1.35548, -1.4706, 0)
+Marker: 960
+Position: (-1.28029, -1.53651, 0)
+Marker: 961
+Position: (-1.2019, -1.59858, 0)
+Marker: 962
+Position: (-1.1205, -1.65665, 0)
+Marker: 963
+Position: (-1.0363, -1.71058, 0)
+Marker: 964
+Position: (-0.949511, -1.76024, 0)
+Marker: 965
+Position: (-0.860349, -1.80549, 0)
+Marker: 966
+Position: (-0.769037, -1.84623, 0)
+Marker: 967
+Position: (-0.675803, -1.88236, 0)
+Marker: 968
+Position: (-0.580879, -1.91379, 0)
+Marker: 969
+Position: (-0.484504, -1.94043, 0)
+Marker: 970
+Position: (-0.386917, -1.96222, 0)
+Marker: 971
+Position: (-0.288364, -1.9791, 0)
+Marker: 972
+Position: (-0.189089, -1.99104, 0)
+Marker: 973
+Position: (-0.0893425, -1.998, 0)
+Marker: 974
+Position: (0.0106277, -1.99997, 0)
+Marker: 975
+Position: (0.110571, -1.99694, 0)
+Marker: 976
+Position: (0.210239, -1.98892, 0)
+Marker: 977
+Position: (0.30938, -1.97593, 0)
+Marker: 978
+Position: (0.407749, -1.95799, 0)
+Marker: 979
+Position: (0.505098, -1.93517, 0)
+Marker: 980
+Position: (0.601185, -1.90751, 0)
+Marker: 981
+Position: (0.695769, -1.87507, 0)
+Marker: 982
+Position: (0.788614, -1.83796, 0)
+Marker: 983
+Position: (0.879488, -1.79625, 0)
+Marker: 984
+Position: (0.968164, -1.75005, 0)
+Marker: 985
+Position: (1.05442, -1.69947, 0)
+Marker: 986
+Position: (1.13804, -1.64465, 0)
+Marker: 987
+Position: (1.21882, -1.58571, 0)
+Marker: 988
+Position: (1.29655, -1.52282, 0)
+Marker: 989
+Position: (1.37103, -1.45611, 0)
+Marker: 990
+Position: (1.4421, -1.38577, 0)
+Marker: 991
+Position: (1.50955, -1.31196, 0)
+Marker: 992
+Position: (1.57324, -1.23488, 0)
+Marker: 993
+Position: (1.63299, -1.15471, 0)
+Marker: 994
+Position: (1.68866, -1.07165, 0)
+Marker: 995
+Position: (1.74011, -0.985909, 0)
+Marker: 996
+Position: (1.78721, -0.897708, 0)
+Marker: 997
+Position: (1.82984, -0.807263, 0)
+Marker: 998
+Position: (1.8679, -0.7148, 0)
+Marker: 999
+Position: (1.90129, -0.62055, 0)
+Marker: 1000
+Position: (1.92993, -0.52475, 0)
+Marker: 1001
+Position: (1.95375, -0.427638, 0)
+Marker: 1002
+Position: (1.97268, -0.329456, 0)
+Marker: 1003
+Position: (1.98668, -0.230452, 0)
+Marker: 1004
+Position: (1.99571, -0.130871, 0)
+Marker: 1005
+Position: (1.99976, -0.0309637, 0)
+Marker: 1006
+Position: (1.99881, 0.0690214, 0)
+Marker: 1007
+Position: (1.99286, 0.168834, 0)
+Marker: 1008
+Position: (1.98193, 0.268224, 0)
+Marker: 1009
+Position: (1.96605, 0.366945, 0)
+Marker: 1010
+Position: (1.94525, 0.464748, 0)
+Marker: 1011
+Position: (1.91959, 0.561389, 0)
+Marker: 1012
+Position: (1.88914, 0.656627, 0)
+Marker: 1013
+Position: (1.85396, 0.750224, 0)
+Marker: 1014
+Position: (1.81415, 0.841946, 0)
+Marker: 1015
+Position: (1.7698, 0.931563, 0)
+Marker: 1016
+Position: (1.72103, 1.01885, 0)
+Marker: 1017
+Position: (1.66796, 1.10359, 0)
+Marker: 1018
+Position: (1.61072, 1.18558, 0)
+Marker: 1019
+Position: (1.54945, 1.2646, 0)
+Marker: 1020
+Position: (1.48431, 1.34046, 0)
+Marker: 1021
+Position: (1.41546, 1.41297, 0)
+Marker: 1022
+Position: (1.34307, 1.48195, 0)
+Marker: 1023
+Position: (1.26733, 1.54722, 0)
+Marker: 1024
+Position: (1.18841, 1.60862, 0)
+Marker: 1025
+Position: (1.10653, 1.66601, 0)
+Marker: 1026
+Position: (1.02188, 1.71923, 0)
+Marker: 1027
+Position: (0.934679, 1.76816, 0)
+Marker: 1028
+Position: (0.845139, 1.81266, 0)
+Marker: 1029
+Position: (0.753488, 1.85263, 0)
+Marker: 1030
+Position: (0.659953, 1.88798, 0)
+Marker: 1031
+Position: (0.564769, 1.9186, 0)
+Marker: 1032
+Position: (0.468173, 1.94443, 0)
+Marker: 1033
+Position: (0.370407, 1.9654, 0)
+Marker: 1034
+Position: (0.271715, 1.98146, 0)
+Marker: 1035
+Position: (0.172344, 1.99256, 0)
+Marker: 1036
+Position: (0.0725417, 1.99868, 0)
+Marker: 1037
+Position: (-0.0274416, 1.99981, 0)
+Marker: 1038
+Position: (-0.127356, 1.99594, 0)
+Marker: 1039
+Position: (-0.226953, 1.98708, 0)
+Marker: 1040
+Position: (-0.325982, 1.97326, 0)
+Marker: 1041
+Position: (-0.424196, 1.9545, 0)
+Marker: 1042
+Position: (-0.52135, 1.93085, 0)
+Marker: 1043
+Position: (-0.617201, 1.90238, 0)
+Marker: 1044
+Position: (-0.711509, 1.86916, 0)
+Marker: 1045
+Position: (-0.804039, 1.83126, 0)
+Marker: 1046
+Position: (-0.894559, 1.78879, 0)
+Marker: 1047
+Position: (-0.982843, 1.74184, 0)
+Marker: 1048
+Position: (-1.06867, 1.69055, 0)
+Marker: 1049
+Position: (-1.15183, 1.63502, 0)
+Marker: 1050
+Position: (-1.2321, 1.57541, 0)
+Marker: 1051
+Position: (-1.3093, 1.51186, 0)
+Marker: 1052
+Position: (-1.38323, 1.44453, 0)
+Marker: 1053
+Position: (-1.4537, 1.3736, 0)
+Marker: 1054
+Position: (-1.52053, 1.29923, 0)
+Marker: 1055
+Position: (-1.58356, 1.22161, 0)
+Marker: 1056
+Position: (-1.64264, 1.14094, 0)
+Marker: 1057
+Position: (-1.69761, 1.05741, 0)
+Marker: 1058
+Position: (-1.74834, 0.971245, 0)
+Marker: 1059
+Position: (-1.79469, 0.882651, 0)
+Marker: 1060
+Position: (-1.83657, 0.79185, 0)
+Marker: 1061
+Position: (-1.87385, 0.699071, 0)
+Marker: 1062
+Position: (-1.90644, 0.604544, 0)
+Marker: 1063
+Position: (-1.93428, 0.508506, 0)
+Marker: 1064
+Position: (-1.95727, 0.411197, 0)
+Marker: 1065
+Position: (-1.97538, 0.31286, 0)
+Marker: 1066
+Position: (-1.98855, 0.213741, 0)
+Marker: 1067
+Position: (-1.99674, 0.114088, 0)
+Marker: 1068
+Position: (-1.99995, 0.0141501, 0)
+Marker: 1069
+Position: (-1.99816, -0.0858234, 0)
+Marker: 1070
+Position: (-1.99137, -0.185582, 0)
+Marker: 1071
+Position: (-1.97961, -0.284878, 0)
+Marker: 1072
+Position: (-1.9629, -0.383461, 0)
+Marker: 1073
+Position: (-1.94128, -0.481085, 0)
+Marker: 1074
+Position: (-1.91481, -0.577508, 0)
+Marker: 1075
+Position: (-1.88355, -0.672486, 0)
+Marker: 1076
+Position: (-1.84759, -0.765784, 0)
+Marker: 1077
+Position: (-1.807, -0.857168, 0)
+Marker: 1078
+Position: (-1.76191, -0.946409, 0)
+Marker: 1079
+Position: (-1.7124, -1.03328, 0)
+Marker: 1080
+Position: (-1.65862, -1.11758, 0)
+Marker: 1081
+Position: (-1.60069, -1.19908, 0)
+Marker: 1082
+Position: (-1.53876, -1.27758, 0)
+Marker: 1083
+Position: (-1.47299, -1.35289, 0)
+Marker: 1084
+Position: (-1.40353, -1.42482, 0)
+Marker: 1085
+Position: (-1.33056, -1.49318, 0)
+Marker: 1086
+Position: (-1.25427, -1.55782, 0)
+Marker: 1087
+Position: (-1.17485, -1.61856, 0)
+Marker: 1088
+Position: (-1.09248, -1.67525, 0)
+Marker: 1089
+Position: (-1.00739, -1.72776, 0)
+Marker: 1090
+Position: (-0.91978, -1.77595, 0)
+Marker: 1091
+Position: (-0.82987, -1.8197, 0)
+Marker: 1092
+Position: (-0.737886, -1.8589, 0)
+Marker: 1093
+Position: (-0.644057, -1.89346, 0)
+Marker: 1094
+Position: (-0.548619, -1.92328, 0)
+Marker: 1095
+Position: (-0.451809, -1.9483, 0)
+Marker: 1096
+Position: (-0.35387, -1.96845, 0)
+Marker: 1097
+Position: (-0.255046, -1.98367, 0)
+Marker: 1098
+Position: (-0.155586, -1.99394, 0)
+Marker: 1099
+Position: (-0.0557357, -1.99922, 0)
+Marker: 1100
+Position: (0.0442535, -1.99951, 0)
+Marker: 1101
+Position: (0.144132, -1.9948, 0)
+Marker: 1102
+Position: (0.24365, -1.9851, 0)
+Marker: 1103
+Position: (0.34256, -1.97044, 0)
+Marker: 1104
+Position: (0.440613, -1.95086, 0)
+Marker: 1105
+Position: (0.537565, -1.9264, 0)
+Marker: 1106
+Position: (0.633173, -1.89713, 0)
+Marker: 1107
+Position: (0.727198, -1.86311, 0)
+Marker: 1108
+Position: (0.819406, -1.82444, 0)
+Marker: 1109
+Position: (0.909566, -1.7812, 0)
+Marker: 1110
+Position: (0.997452, -1.73352, 0)
+Marker: 1111
+Position: (1.08285, -1.6815, 0)
+Marker: 1112
+Position: (1.16553, -1.62528, 0)
+Marker: 1113
+Position: (1.24531, -1.565, 0)
+Marker: 1114
+Position: (1.32197, -1.5008, 0)
+Marker: 1115
+Position: (1.39532, -1.43285, 0)
+Marker: 1116
+Position: (1.46519, -1.36133, 0)
+Marker: 1117
+Position: (1.5314, -1.2864, 0)
+Marker: 1118
+Position: (1.59378, -1.20825, 0)
+Marker: 1119
+Position: (1.65217, -1.12708, 0)
+Marker: 1120
+Position: (1.70644, -1.0431, 0)
+Marker: 1121
+Position: (1.75644, -0.956512, 0)
+Marker: 1122
+Position: (1.80205, -0.867531, 0)
+Marker: 1123
+Position: (1.84316, -0.776382, 0)
+Marker: 1124
+Position: (2, 0, 0)
+Marker: 1125
+Position: (1.87966, -0.683292, 0)
+Marker: 1126
+Position: (1.9975, 0.0999583, 0)
+Marker: 1127
+Position: (1.91146, -0.588494, 0)
+Marker: 1128
+Position: (1.99001, 0.199667, 0)
+Marker: 1129
+Position: (1.93848, -0.492226, 0)
+Marker: 1130
+Position: (1.97754, 0.298876, 0)
+Marker: 1131
+Position: (1.96066, -0.394727, 0)
+Marker: 1132
+Position: (1.96013, 0.397339, 0)
+Marker: 1133
+Position: (1.97794, -0.296241, 0)
+Marker: 1134
+Position: (1.93782, 0.494808, 0)
+Marker: 1135
+Position: (1.99027, -0.197015, 0)
+Marker: 1136
+Position: (1.91067, 0.59104, 0)
+Marker: 1137
+Position: (1.99763, -0.0972971, 0)
+Marker: 1138
+Position: (1.87875, 0.685796, 0)
+Marker: 1139
+Position: (2, 0.00266447, 0)
+Marker: 1140
+Position: (1.84212, 0.778837, 0)
+Marker: 1141
+Position: (1.99737, 0.102619, 0)
+Marker: 1142
+Position: (1.80089, 0.869931, 0)
+Marker: 1143
+Position: (1.98974, 0.202318, 0)
+Marker: 1144
+Position: (1.75517, 0.958851, 0)
+Marker: 1145
+Position: (1.97714, 0.301511, 0)
+Marker: 1146
+Position: (1.70505, 1.04537, 0)
+Marker: 1147
+Position: (1.9596, 0.39995, 0)
+Marker: 1148
+Position: (1.65067, 1.12928, 0)
+Marker: 1149
+Position: (1.93716, 0.497389, 0)
+Marker: 1150
+Position: (1.59217, 1.21037, 0)
+Marker: 1151
+Position: (1.90988, 0.593585, 0)
+Marker: 1152
+Position: (1.52968, 1.28844, 0)
+Marker: 1153
+Position: (1.87783, 0.688298, 0)
+Marker: 1154
+Position: (1.46338, 1.36328, 0)
+Marker: 1155
+Position: (1.84108, 0.78129, 0)
+Marker: 1156
+Position: (1.39341, 1.43471, 0)
+Marker: 1157
+Position: (1.79973, 0.87233, 0)
+Marker: 1158
+Position: (1.31997, 1.50256, 0)
+Marker: 1159
+Position: (1.75389, 0.961189, 0)
+Marker: 1160
+Position: (1.24322, 1.56665, 0)
+Marker: 1161
+Position: (1.70365, 1.04765, 0)
+Marker: 1162
+Position: (1.16337, 1.62683, 0)
+Marker: 1163
+Position: (1.64917, 1.13148, 0)
+Marker: 1164
+Position: (1.0806, 1.68294, 0)
+Marker: 1165
+Position: (1.59055, 1.21249, 0)
+Marker: 1166
+Position: (0.995142, 1.73485, 0)
+Marker: 1167
+Position: (1.52797, 1.29047, 0)
+Marker: 1168
+Position: (0.907192, 1.78241, 0)
+Marker: 1169
+Position: (1.46156, 1.36523, 0)
+Marker: 1170
+Position: (0.816975, 1.82553, 0)
+Marker: 1171
+Position: (1.3915, 1.43657, 0)
+Marker: 1172
+Position: (0.724716, 1.86408, 0)
+Marker: 1173
+Position: (1.31796, 1.50432, 0)
+Marker: 1174
+Position: (0.630645, 1.89797, 0)
+Marker: 1175
+Position: (1.24113, 1.56831, 0)
+Marker: 1176
+Position: (0.534998, 1.92712, 0)
+Marker: 1177
+Position: (1.1612, 1.62838, 0)
+Marker: 1178
+Position: (0.438013, 1.95145, 0)
+Marker: 1179
+Position: (1.07836, 1.68438, 0)
+Marker: 1180
+Position: (0.339934, 1.9709, 0)
+Marker: 1181
+Position: (0.99283, 1.73617, 0)
+Marker: 1182
+Position: (0.241006, 1.98543, 0)
+Marker: 1183
+Position: (0.904817, 1.78362, 0)
+Marker: 1184
+Position: (0.141474, 1.99499, 0)
+Marker: 1185
+Position: (0.814542, 1.82661, 0)
+Marker: 1186
+Position: (0.0415897, 1.99957, 0)
+Marker: 1187
+Position: (0.722231, 1.86504, 0)
+Marker: 1188
+Position: (-0.058399, 1.99915, 0)
+Marker: 1189
+Position: (0.628116, 1.89881, 0)
+Marker: 1190
+Position: (-0.158242, 1.99373, 0)
+Marker: 1191
+Position: (0.53243, 1.92783, 0)
+Marker: 1192
+Position: (-0.257689, 1.98333, 0)
+Marker: 1193
+Position: (0.435413, 1.95203, 0)
+Marker: 1194
+Position: (-0.356492, 1.96797, 0)
+Marker: 1195
+Position: (0.337308, 1.97135, 0)
+Marker: 1196
+Position: (-0.454404, 1.9477, 0)
+Marker: 1197
+Position: (0.23836, 1.98575, 0)
+Marker: 1198
+Position: (-0.55118, 1.92255, 0)
+Marker: 1199
+Position: (0.138816, 1.99518, 0)
+Marker: 1200
+Position: (-0.646579, 1.8926, 0)
+Marker: 1201
+Position: (0.0389257, 1.99962, 0)
+Marker: 1202
+Position: (-0.740362, 1.85792, 0)
+Marker: 1203
+Position: (-0.0610623, 1.99907, 0)
+Marker: 1204
+Position: (-0.832294, 1.81859, 0)
+Marker: 1205
+Position: (-0.160898, 1.99352, 0)
+Marker: 1206
+Position: (-0.922145, 1.77472, 0)
+Marker: 1207
+Position: (-0.260331, 1.98298, 0)
+Marker: 1208
+Position: (-1.00969, 1.72642, 0)
+Marker: 1209
+Position: (-0.359114, 1.9675, 0)
+Marker: 1210
+Position: (-1.09472, 1.6738, 0)
+Marker: 1211
+Position: (-0.456999, 1.94709, 0)
+Marker: 1212
+Position: (-1.177, 1.61699, 0)
+Marker: 1213
+Position: (-0.553741, 1.92181, 0)
+Marker: 1214
+Position: (-1.25635, 1.55615, 0)
+Marker: 1215
+Position: (-0.6491, 1.89174, 0)
+Marker: 1216
+Position: (-1.33255, 1.49141, 0)
+Marker: 1217
+Position: (-0.742836, 1.85693, 0)
+Marker: 1218
+Position: (-1.40543, 1.42295, 0)
+Marker: 1219
+Position: (-0.834716, 1.81748, 0)
+Marker: 1220
+Position: (-1.47479, 1.35093, 0)
+Marker: 1221
+Position: (-0.924509, 1.77349, 0)
+Marker: 1222
+Position: (-1.54046, 1.27553, 0)
+Marker: 1223
+Position: (-1.01199, 1.72507, 0)
+Marker: 1224
+Position: (-1.60229, 1.19694, 0)
+Marker: 1225
+Position: (-1.09694, 1.67234, 0)
+Marker: 1226
+Position: (-1.66011, 1.11537, 0)
+Marker: 1227
+Position: (-1.17916, 1.61542, 0)
+Marker: 1228
+Position: (-1.71378, 1.031, 0)
+Marker: 1229
+Position: (-1.25842, 1.55447, 0)
+Marker: 1230
+Position: (-1.76316, 0.944061, 0)
+Marker: 1231
+Position: (-1.33454, 1.48963, 0)
+Marker: 1232
+Position: (-1.80814, 0.85476, 0)
+Marker: 1233
+Position: (-1.40732, 1.42107, 0)
+Marker: 1234
+Position: (-1.8486, 0.763322, 0)
+Marker: 1235
+Position: (-1.47659, 1.34896, 0)
+Marker: 1236
+Position: (-1.88444, 0.669976, 0)
+Marker: 1237
+Position: (-1.54216, 1.27348, 0)
+Marker: 1238
+Position: (-1.91557, 0.574956, 0)
+Marker: 1239
+Position: (-1.60388, 1.19481, 0)
+Marker: 1240
+Position: (-1.94192, 0.478499, 0)
+Marker: 1241
+Position: (-1.66159, 1.11315, 0)
+Marker: 1242
+Position: (-1.9634, 0.380845, 0)
+Marker: 1243
+Position: (-1.71515, 1.02872, 0)
+Marker: 1244
+Position: (-1.97998, 0.28224, 0)
+Marker: 1245
+Position: (-1.76442, 0.941711, 0)
+Marker: 1246
+Position: (-1.99162, 0.182929, 0)
+Marker: 1247
+Position: (-1.80928, 0.85235, 0)
+Marker: 1248
+Position: (-1.99827, 0.0831613, 0)
+Marker: 1249
+Position: (-1.84962, 0.760859, 0)
+Marker: 1250
+Position: (-1.99993, -0.0168145, 0)
+Marker: 1251
+Position: (-1.88534, 0.667465, 0)
+Marker: 1252
+Position: (-1.99659, -0.116748, 0)
+Marker: 1253
+Position: (-1.91634, 0.572404, 0)
+Marker: 1254
+Position: (-1.98826, -0.21639, 0)
+Marker: 1255
+Position: (-1.94255, 0.475911, 0)
+Marker: 1256
+Position: (-1.97496, -0.315491, 0)
+Marker: 1257
+Position: (-1.96391, 0.378229, 0)
+Marker: 1258
+Position: (-1.95672, -0.413804, 0)
+Marker: 1259
+Position: (-1.98036, 0.279602, 0)
+Marker: 1260
+Position: (-1.9336, -0.511082, 0)
+Marker: 1261
+Position: (-1.99186, 0.180276, 0)
+Marker: 1262
+Position: (-1.90564, -0.607083, 0)
+Marker: 1263
+Position: (-1.99838, 0.0804991, 0)
+Marker: 1264
+Position: (-1.87291, -0.701566, 0)
+Marker: 1265
+Position: (-1.99991, -0.0194789, 0)
+Marker: 1266
+Position: (-1.83551, -0.794296, 0)
+Marker: 1267
+Position: (-1.99643, -0.119408, 0)
+Marker: 1268
+Position: (-1.79352, -0.885041, 0)
+Marker: 1269
+Position: (-1.98797, -0.219039, 0)
+Marker: 1270
+Position: (-1.74704, -0.973573, 0)
+Marker: 1271
+Position: (-1.97454, -0.318122, 0)
+Marker: 1272
+Position: (-1.6962, -1.05967, 0)
+Marker: 1273
+Position: (-1.95617, -0.41641, 0)
+Marker: 1274
+Position: (-1.64112, -1.14312, 0)
+Marker: 1275
+Position: (-1.93291, -0.513658, 0)
+Marker: 1276
+Position: (-1.58194, -1.22372, 0)
+Marker: 1277
+Position: (-1.90483, -0.609621, 0)
+Marker: 1278
+Position: (-1.5188, -1.30125, 0)
+Marker: 1279
+Position: (-1.87198, -0.704061, 0)
+Marker: 1280
+Position: (-1.45186, -1.37553, 0)
+Marker: 1281
+Position: (-1.83445, -0.796741, 0)
+Marker: 1282
+Position: (-1.3813, -1.44638, 0)
+Marker: 1283
+Position: (-1.79234, -0.887429, 0)
+Marker: 1284
+Position: (-1.30729, -1.5136, 0)
+Marker: 1285
+Position: (-1.74574, -0.9759, 0)
+Marker: 1286
+Position: (-1.23, -1.57705, 0)
+Marker: 1287
+Position: (-1.69479, -1.06193, 0)
+Marker: 1288
+Position: (-1.14965, -1.63655, 0)
+Marker: 1289
+Position: (-1.63959, -1.14531, 0)
+Marker: 1290
+Position: (-1.06642, -1.69197, 0)
+Marker: 1291
+Position: (-1.5803, -1.22582, 0)
+Marker: 1292
+Position: (-0.980522, -1.74315, 0)
+Marker: 1293
+Position: (-1.51706, -1.30327, 0)
+Marker: 1294
+Position: (-0.892175, -1.78998, 0)
+Marker: 1295
+Position: (-1.45003, -1.37747, 0)
+Marker: 1296
+Position: (-0.801598, -1.83233, 0)
+Marker: 1297
+Position: (-1.37937, -1.44822, 0)
+Marker: 1298
+Position: (-0.709018, -1.87011, 0)
+Marker: 1299
+Position: (-1.30527, -1.51535, 0)
+Marker: 1300
+Position: (-0.614666, -1.9032, 0)
+Marker: 1301
+Position: (-1.2279, -1.57869, 0)
+Marker: 1302
+Position: (-0.518777, -1.93155, 0)
+Marker: 1303
+Position: (-1.14747, -1.63808, 0)
+Marker: 1304
+Position: (-0.421592, -1.95506, 0)
+Marker: 1305
+Position: (-1.06416, -1.69339, 0)
+Marker: 1306
+Position: (-0.323352, -1.97369, 0)
+Marker: 1307
+Position: (-0.978198, -1.74446, 0)
+Marker: 1308
+Position: (-0.224305, -1.98738, 0)
+Marker: 1309
+Position: (-0.88979, -1.79117, 0)
+Marker: 1310
+Position: (-0.124697, -1.99611, 0)
+Marker: 1311
+Position: (-0.799157, -1.8334, 0)
+Marker: 1312
+Position: (-0.0247773, -1.99985, 0)
+Marker: 1313
+Position: (-0.706526, -1.87105, 0)
+Marker: 1314
+Position: (0.0752043, -1.99859, 0)
+Marker: 1315
+Position: (-0.61213, -1.90402, 0)
+Marker: 1316
+Position: (0.174998, -1.99233, 0)
+Marker: 1317
+Position: (-0.516203, -1.93224, 0)
+Marker: 1318
+Position: (0.274354, -1.98109, 0)
+Marker: 1319
+Position: (-0.418987, -1.95562, 0)
+Marker: 1320
+Position: (0.373025, -1.96491, 0)
+Marker: 1321
+Position: (-0.320723, -1.97412, 0)
+Marker: 1322
+Position: (0.470763, -1.94381, 0)
+Marker: 1323
+Position: (-0.221657, -1.98768, 0)
+Marker: 1324
+Position: (0.567324, -1.91785, 0)
+Marker: 1325
+Position: (-0.122038, -1.99627, 0)
+Marker: 1326
+Position: (0.662468, -1.8871, 0)
+Marker: 1327
+Position: (-0.022113, -1.99988, 0)
+Marker: 1328
+Position: (0.755955, -1.85163, 0)
+Marker: 1329
+Position: (0.0778668, -1.99848, 0)
+Marker: 1330
+Position: (0.847554, -1.81153, 0)
+Marker: 1331
+Position: (0.177652, -1.99209, 0)
+Marker: 1332
+Position: (0.937033, -1.76691, 0)
+Marker: 1333
+Position: (0.276993, -1.98073, 0)
+Marker: 1334
+Position: (1.02417, -1.71787, 0)
+Marker: 1335
+Position: (0.375642, -1.96441, 0)
+Marker: 1336
+Position: (1.10875, -1.66453, 0)
+Marker: 1337
+Position: (0.473352, -1.94318, 0)
+Marker: 1338
+Position: (1.19056, -1.60704, 0)
+Marker: 1339
+Position: (0.569879, -1.91709, 0)
+Marker: 1340
+Position: (1.26939, -1.54553, 0)
+Marker: 1341
+Position: (0.664981, -1.88621, 0)
+Marker: 1342
+Position: (1.34504, -1.48015, 0)
+Marker: 1343
+Position: (0.758422, -1.85062, 0)
+Marker: 1344
+Position: (1.41734, -1.41108, 0)
+Marker: 1345
+Position: (0.849966, -1.8104, 0)
+Marker: 1346
+Position: (1.48609, -1.33848, 0)
+Marker: 1347
+Position: (0.939386, -1.76566, 0)
+Marker: 1348
+Position: (1.55113, -1.26253, 0)
+Marker: 1349
+Position: (1.02646, -1.7165, 0)
+Marker: 1350
+Position: (1.61229, -1.18343, 0)
+Marker: 1351
+Position: (1.11097, -1.66306, 0)
+Marker: 1352
+Position: (1.66943, -1.10137, 0)
+Marker: 1353
+Position: (1.19269, -1.60545, 0)
+Marker: 1354
+Position: (1.72238, -1.01656, 0)
+Marker: 1355
+Position: (1.27144, -1.54384, 0)
+Marker: 1356
+Position: (1.77104, -0.929204, 0)
+Marker: 1357
+Position: (1.34701, -1.47836, 0)
+Marker: 1358
+Position: (1.81527, -0.839528, 0)
+Marker: 1359
+Position: (1.41922, -1.40919, 0)
+Marker: 1360
+Position: (1.85496, -0.747753, 0)
+Marker: 1361
+Position: (1.48787, -1.3365, 0)
+Marker: 1362
+Position: (1.89001, -0.65411, 0)
+Marker: 1363
+Position: (1.55281, -1.26047, 0)
+Marker: 1364
+Position: (1.92034, -0.558831, 0)
+Marker: 1365
+Position: (1.61387, -1.18128, 0)
+Marker: 1366
+Position: (1.94587, -0.462156, 0)
+Marker: 1367
+Position: (1.67089, -1.09915, 0)
+Marker: 1368
+Position: (1.96654, -0.364325, 0)
+Marker: 1369
+Position: (1.72374, -1.01426, 0)
+Marker: 1370
+Position: (1.98229, -0.265584, 0)
+Marker: 1371
+Position: (1.77228, -0.926844, 0)
+Marker: 1372
+Position: (1.99308, -0.166179, 0)
+Marker: 1373
+Position: (1.81638, -0.837109, 0)
+Marker: 1374
+Position: (1.9989, -0.0663584, 0)
+Marker: 1375
+Position: (1.85595, -0.745281, 0)
+Marker: 1376
+Position: (1.99972, 0.0336278, 0)
+Marker: 1377
+Position: (1.89088, -0.651591, 0)
+Marker: 1378
+Position: (1.99554, 0.13353, 0)
+Marker: 1379
+Position: (1.92108, -0.556272, 0)
+Marker: 1380
+Position: (1.98637, 0.233098, 0)
+Marker: 1381
+Position: (1.94648, -0.459563, 0)
+Marker: 1382
+Position: (1.97224, 0.332084, 0)
+Marker: 1383
+Position: (1.96702, -0.361705, 0)
+Marker: 1384
+Position: (1.95318, 0.43024, 0)
+Marker: 1385
+Position: (1.98264, -0.262943, 0)
+Marker: 1386
+Position: (1.92923, 0.52732, 0)
+Marker: 1387
+Position: (1.9933, -0.163523, 0)
+Marker: 1388
+Position: (1.90047, 0.623083, 0)
+Marker: 1389
+Position: (1.99899, -0.0636954, 0)
+Marker: 1390
+Position: (1.86695, 0.717288, 0)
+Marker: 1391
+Position: (1.99967, 0.0362919, 0)
+Marker: 1392
+Position: (1.82877, 0.8097, 0)
+Marker: 1393
+Position: (1.99536, 0.136188, 0)
+Marker: 1394
+Position: (1.78601, 0.900088, 0)
+Marker: 1395
+Position: (1.98606, 0.235745, 0)
+Marker: 1396
+Position: (1.73879, 0.988227, 0)
+Marker: 1397
+Position: (1.97179, 0.334711, 0)
+Marker: 1398
+Position: (1.68723, 1.0739, 0)
+Marker: 1399
+Position: (1.9526, 0.432842, 0)
+Marker: 1400
+Position: (1.63145, 1.15688, 0)
+Marker: 1401
+Position: (1.92853, 0.52989, 0)
+Marker: 1402
+Position: (1.57159, 1.23697, 0)
+Marker: 1403
+Position: (1.89963, 0.625614, 0)
+Marker: 1404
+Position: (1.5078, 1.31397, 0)
+Marker: 1405
+Position: (1.86599, 0.719774, 0)
+Marker: 1406
+Position: (1.44025, 1.38769, 0)
+Marker: 1407
+Position: (1.82769, 0.812135, 0)
+Marker: 1408
+Position: (1.36909, 1.45794, 0)
+Marker: 1409
+Position: (1.78481, 0.902467, 0)
+Marker: 1410
+Position: (1.29452, 1.52454, 0)
+Marker: 1411
+Position: (1.73748, 0.990542, 0)
+Marker: 1412
+Position: (1.2167, 1.58734, 0)
+Marker: 1413
+Position: (1.6858, 1.07614, 0)
+Marker: 1414
+Position: (1.13585, 1.64616, 0)
+Marker: 1415
+Position: (1.62991, 1.15905, 0)
+Marker: 1416
+Position: (1.05216, 1.70087, 0)
+Marker: 1417
+Position: (1.56994, 1.23906, 0)
+Marker: 1418
+Position: (0.965832, 1.75133, 0)
+Marker: 1419
+Position: (1.50605, 1.31598, 0)
+Marker: 1420
+Position: (0.877095, 1.79742, 0)
+Marker: 1421
+Position: (1.4384, 1.38961, 0)
+Marker: 1422
+Position: (0.786165, 1.83901, 0)
+Marker: 1423
+Position: (1.36715, 1.45976, 0)
+Marker: 1424
+Position: (0.693271, 1.876, 0)
+Marker: 1425
+Position: (1.29248, 1.52627, 0)
+Marker: 1426
+Position: (0.598643, 1.9083, 0)
+Marker: 1427
+Position: (1.21459, 1.58896, 0)
+Marker: 1428
+Position: (0.50252, 1.93584, 0)
+Marker: 1429
+Position: (1.13365, 1.64767, 0)
+Marker: 1430
+Position: (0.40514, 1.95854, 0)
+Marker: 1431
+Position: (1.04989, 1.70227, 0)
+Marker: 1432
+Position: (0.306748, 1.97634, 0)
+Marker: 1433
+Position: (0.963498, 1.75262, 0)
+Marker: 1434
+Position: (0.207589, 1.9892, 0)
+Marker: 1435
+Position: (0.874699, 1.79858, 0)
+Marker: 1436
+Position: (0.107911, 1.99709, 0)
+Marker: 1437
+Position: (0.783714, 1.84005, 0)
+Marker: 1438
+Position: (0.00796325, 1.99998, 0)
+Marker: 1439
+Position: (0.690771, 1.87692, 0)
+Marker: 1440
+Position: (-0.0920043, 1.99788, 0)
+Marker: 1441
+Position: (0.5961, 1.9091, 0)
+Marker: 1442
+Position: (-0.191742, 1.99079, 0)
+Marker: 1443
+Position: (0.49994, 1.93651, 0)
+Marker: 1444
+Position: (-0.291, 1.97872, 0)
+Marker: 1445
+Position: (0.40253, 1.95907, 0)
+Marker: 1446
+Position: (-0.389531, 1.9617, 0)
+Marker: 1447
+Position: (0.304115, 1.97674, 0)
+Marker: 1448
+Position: (-0.487088, 1.93978, 0)
+Marker: 1449
+Position: (0.204938, 1.98947, 0)
+Marker: 1450
+Position: (-0.583428, 1.91301, 0)
+Marker: 1451
+Position: (0.10525, 1.99723, 0)
+Marker: 1452
+Position: (-0.67831, 1.88146, 0)
+Marker: 1453
+Position: (0.00529879, 1.99999, 0)
+Marker: 1454
+Position: (-0.771496, 1.84521, 0)
+Marker: 1455
+Position: (-0.0946658, 1.99776, 0)
+Marker: 1456
+Position: (-0.862754, 1.80434, 0)
+Marker: 1457
+Position: (-0.194394, 1.99053, 0)
+Marker: 1458
+Position: (-0.951855, 1.75897, 0)
+Marker: 1459
+Position: (-0.293636, 1.97833, 0)
+Marker: 1460
+Position: (-1.03858, 1.7092, 0)
+Marker: 1461
+Position: (-0.392144, 1.96118, 0)
+Marker: 1462
+Position: (-1.1227, 1.65515, 0)
+Marker: 1463
+Position: (-0.489672, 1.93913, 0)
+Marker: 1464
+Position: (-1.20402, 1.59697, 0)
+Marker: 1465
+Position: (-0.585976, 1.91223, 0)
+Marker: 1466
+Position: (-1.28233, 1.5348, 0)
+Marker: 1467
+Position: (-0.680816, 1.88056, 0)
+Marker: 1468
+Position: (-1.35744, 1.46879, 0)
+Marker: 1469
+Position: (-0.773953, 1.84418, 0)
+Marker: 1470
+Position: (-1.42915, 1.39911, 0)
+Marker: 1471
+Position: (-0.865157, 1.80319, 0)
+Marker: 1472
+Position: (-1.49729, 1.32594, 0)
+Marker: 1473
+Position: (-0.954198, 1.7577, 0)
+Marker: 1474
+Position: (-1.56169, 1.24945, 0)
+Marker: 1475
+Position: (-1.04085, 1.70781, 0)
+Marker: 1476
+Position: (-1.62219, 1.16983, 0)
+Marker: 1477
+Position: (-1.12491, 1.65366, 0)
+Marker: 1478
+Position: (-1.67863, 1.0873, 0)
+Marker: 1479
+Position: (-1.20615, 1.59537, 0)
+Marker: 1480
+Position: (-1.73087, 1.00204, 0)
+Marker: 1481
+Position: (-1.28438, 1.53309, 0)
+Marker: 1482
+Position: (-1.77879, 0.914282, 0)
+Marker: 1483
+Position: (-1.3594, 1.46698, 0)
+Marker: 1484
+Position: (-1.82226, 0.824237, 0)
+Marker: 1485
+Position: (-1.43102, 1.39721, 0)
+Marker: 1486
+Position: (-1.86118, 0.732132, 0)
+Marker: 1487
+Position: (-1.49906, 1.32394, 0)
+Marker: 1488
+Position: (-1.89544, 0.638197, 0)
+Marker: 1489
+Position: (-1.56335, 1.24737, 0)
+Marker: 1490
+Position: (-1.92497, 0.542666, 0)
+Marker: 1491
+Position: (-1.62374, 1.16767, 0)
+Marker: 1492
+Position: (-1.94969, 0.44578, 0)
+Marker: 1493
+Position: (-1.68007, 1.08506, 0)
+Marker: 1494
+Position: (-1.96953, 0.347779, 0)
+Marker: 1495
+Position: (-1.7322, 0.999735, 0)
+Marker: 1496
+Position: (-1.98445, 0.248909, 0)
+Marker: 1497
+Position: (-1.78, 0.911911, 0)
+Marker: 1498
+Position: (-1.99441, 0.149417, 0)
+Marker: 1499
+Position: (-1.82336, 0.821809, 0)
+Marker: 1500
+Position: (-1.99939, 0.0495509, 0)
+Marker: 1501
+Position: (-1.86215, 0.729652, 0)
+Marker: 1502
+Position: (-1.99936, -0.0504387, 0)
+Marker: 1503
+Position: (-1.89629, 0.635671, 0)
+Marker: 1504
+Position: (-1.99434, -0.150302, 0)
+Marker: 1505
+Position: (-1.92569, 0.540101, 0)
+Marker: 1506
+Position: (-1.98434, -0.24979, 0)
+Marker: 1507
+Position: (-1.95028, 0.443182, 0)
+Marker: 1508
+Position: (-1.96938, -0.348654, 0)
+Marker: 1509
+Position: (-1.96999, 0.345155, 0)
+Marker: 1510
+Position: (-1.94949, -0.446646, 0)
+Marker: 1511
+Position: (-1.98478, 0.246265, 0)
+Marker: 1512
+Position: (-1.92473, -0.543521, 0)
+Marker: 1513
+Position: (-1.99461, 0.146759, 0)
+Marker: 1514
+Position: (-1.89516, -0.639038, 0)
+Marker: 1515
+Position: (-1.99945, 0.0468872, 0)
+Marker: 1516
+Position: (-1.86085, -0.732958, 0)
+Marker: 1517
+Position: (-1.99929, -0.0531023, 0)
+Marker: 1518
+Position: (-1.82189, -0.825046, 0)
+Marker: 1519
+Position: (-1.99414, -0.152959, 0)
+Marker: 1520
+Position: (-1.77838, -0.915072, 0)
+Marker: 1521
+Position: (-1.98401, -0.252433, 0)
+Marker: 1522
+Position: (-1.73043, -1.00281, 0)
+Marker: 1523
+Position: (-1.96891, -0.351277, 0)
+Marker: 1524
+Position: (-1.67814, -1.08804, 0)
+Marker: 1525
+Position: (-1.94889, -0.449242, 0)
+Marker: 1526
+Position: (-1.62167, -1.17055, 0)
+Marker: 1527
+Position: (-1.924, -0.546085, 0)
+Marker: 1528
+Position: (-1.56114, -1.25014, 0)
+Marker: 1529
+Position: (-1.89431, -0.641563, 0)
+Marker: 1530
+Position: (1, 2, 0)
+Marker: 1531
+Position: (-1.4967, -1.3266, 0)
+Marker: 1532
+Position: (-1.85987, -0.735437, 0)
+Marker: 1533
+Position: (-1.42853, -1.39975, 0)
+Marker: 1534
+Position: (-1.82079, -0.827473, 0)
+Marker: 1535
+Position: (-1.35679, -1.4694, 0)
+Marker: 1536
+Position: (-1.77716, -0.91744, 0)
+Marker: 1537
+Position: (-1.28165, -1.53537, 0)
+Marker: 1538
+Position: (-1.72909, -1.00511, 0)
+Marker: 1539
+Position: (-1.20331, -1.59751, 0)
+Marker: 1540
+Position: (-1.67669, -1.09028, 0)
+Marker: 1541
+Position: (-1.12197, -1.65565, 0)
+Marker: 1542
+Position: (-1.62011, -1.17271, 0)
+Marker: 1543
+Position: (-1.03782, -1.70966, 0)
+Marker: 1544
+Position: (-1.55947, -1.25222, 0)
+Marker: 1545
+Position: (-0.951074, -1.75939, 0)
+Marker: 1546
+Position: (-1.49494, -1.3286, 0)
+Marker: 1547
+Position: (-0.861952, -1.80473, 0)
+Marker: 1548
+Position: (-1.42667, -1.40165, 0)
+Marker: 1549
+Position: (-0.770676, -1.84555, 0)
+Marker: 1550
+Position: (1, 2, 0)
+Marker: 1551
+Position: (-1.35483, -1.4712, 0)
+Marker: 1552
+Position: (-0.677474, -1.88176, 0)
+Marker: 1553
+Position: (-1.27961, -1.53708, 0)
+Marker: 1554
+Position: (-0.582579, -1.91327, 0)
+Marker: 1555
+Position: (-1.20119, -1.59911, 0)
+Marker: 1556
+Position: (-0.486227, -1.94, 0)
+Marker: 1557
+Position: (-1.11976, -1.65715, 0)
+Marker: 1558
+Position: (-0.38866, -1.96187, 0)
+Marker: 1559
+Position: (-1.03554, -1.71104, 0)
+Marker: 1560
+Position: (-0.290121, -1.97885, 0)
+Marker: 1561
+Position: (-0.948729, -1.76066, 0)
+Marker: 1562
+Position: (-0.190858, -1.99087, 0)
+Marker: 1563
+Position: (-0.859547, -1.80587, 0)
+Marker: 1564
+Position: (-0.091117, -1.99792, 0)
+Marker: 1565
+Position: (-0.768217, -1.84658, 0)
+Marker: 1566
+Position: (0.0088514, -1.99998, 0)
+Marker: 1567
+Position: (-0.674967, -1.88266, 0)
+Marker: 1568
+Position: (0.108798, -1.99704, 0)
+Marker: 1569
+Position: (-0.580029, -1.91404, 0)
+Marker: 1570
+Position: (0.208472, -1.98911, 0)
+Marker: 1571
+Position: (1, 2, 0)
+Marker: 1572
+Position: (-0.483642, -1.94064, 0)
+Marker: 1573
+Position: (0.307625, -1.9762, 0)
+Marker: 1574
+Position: (-0.386046, -1.96239, 0)
+Marker: 1575
+Position: (0.40601, -1.95836, 0)
+Marker: 1576
+Position: (-0.287485, -1.97923, 0)
+Marker: 1577
+Position: (0.503379, -1.93562, 0)
+Marker: 1578
+Position: (-0.188205, -1.99113, 0)
+Marker: 1579
+Position: (0.599491, -1.90804, 0)
+Marker: 1580
+Position: (-0.0884552, -1.99804, 0)
+Marker: 1581
+Position: (0.694104, -1.87569, 0)
+Marker: 1582
+Position: (0.0115158, -1.99997, 0)
+Marker: 1583
+Position: (0.786982, -1.83866, 0)
+Marker: 1584
+Position: (0.111458, -1.99689, 0)
+Marker: 1585
+Position: (0.877893, -1.79703, 0)
+Marker: 1586
+Position: (0.211122, -1.98883, 0)
+Marker: 1587
+Position: (0.96661, -1.7509, 0)
+Marker: 1588
+Position: (0.310258, -1.97579, 0)
+Marker: 1589
+Position: (1.05291, -1.70041, 0)
+Marker: 1590
+Position: (0.408618, -1.95781, 0)
+Marker: 1591
+Position: (1.13658, -1.64566, 0)
+Marker: 1592
+Position: (1, 2, 0)
+Marker: 1593
+Position: (0.505958, -1.93494, 0)
+Marker: 1594
+Position: (1.21741, -1.5868, 0)
+Marker: 1595
+Position: (0.602032, -1.90724, 0)
+Marker: 1596
+Position: (1.29519, -1.52397, 0)
+Marker: 1597
+Position: (0.696602, -1.87477, 0)
+Marker: 1598
+Position: (1.36974, -1.45733, 0)
+Marker: 1599
+Position: (0.789431, -1.83761, 0)
+Marker: 1600
+Position: (1.44086, -1.38705, 0)
+Marker: 1601
+Position: (0.880286, -1.79586, 0)
+Marker: 1602
+Position: (1.50839, -1.3133, 0)
+Marker: 1603
+Position: (0.968941, -1.74962, 0)
+Marker: 1604
+Position: (1.57214, -1.23627, 0)
+Marker: 1605
+Position: (1.05517, -1.699, 0)
+Marker: 1606
+Position: (1.63196, -1.15615, 0)
+Marker: 1607
+Position: (1.13877, -1.64414, 0)
+Marker: 1608
+Position: (1.68771, -1.07315, 0)
+Marker: 1609
+Position: (1.21952, -1.58517, 0)
+Marker: 1610
+Position: (1.73923, -0.987454, 0)
+Marker: 1611
+Position: (1.29722, -1.52224, 0)
+Marker: 1612
+Position: (1.78641, -0.899295, 0)
+Marker: 1613
+Position: (1, 2, 0)
+Marker: 1614
+Position: (1.37168, -1.4555, 0)
+Marker: 1615
+Position: (1.82913, -0.808888, 0)
+Marker: 1616
+Position: (1.44271, -1.38513, 0)
+Marker: 1617
+Position: (1.86727, -0.716459, 0)
+Marker: 1618
+Position: (1.51014, -1.31129, 0)
+Marker: 1619
+Position: (1.90074, -0.622239, 0)
+Marker: 1620
+Position: (1.57379, -1.23418, 0)
+Marker: 1621
+Position: (1.92947, -0.526464, 0)
+Marker: 1622
+Position: (1.6335, -1.15398, 0)
+Marker: 1623
+Position: (1.95337, -0.429373, 0)
+Marker: 1624
+Position: (1.68914, -1.0709, 0)
+Marker: 1625
+Position: (1.97238, -0.331208, 0)
+Marker: 1626
+Position: (1.74055, -0.985136, 0)
+Marker: 1627
+Position: (1.98647, -0.232216, 0)
+Marker: 1628
+Position: (1.78761, -0.896914, 0)
+Marker: 1629
+Position: (1.9956, -0.132644, 0)
+Marker: 1630
+Position: (1.8302, -0.80645, 0)
+Marker: 1631
+Position: (1.99973, -0.0327398, 0)
+Marker: 1632
+Position: (1.86822, -0.71397, 0)
+Marker: 1633
+Position: (1.99887, 0.0672461, 0)
+Marker: 1634
+Position: (1, 2, 0)
+Marker: 1635
+Position: (1.90157, -0.619706, 0)
+Marker: 1636
+Position: (1.99301, 0.167064, 0)
+Marker: 1637
+Position: (1.93016, -0.523893, 0)
+Marker: 1638
+Position: (1.98217, 0.266464, 0)
+Marker: 1639
+Position: (1.95394, -0.42677, 0)
+Marker: 1640
+Position: (1.96637, 0.365198, 0)
+Marker: 1641
+Position: (1.97282, -0.32858, 0)
+Marker: 1642
+Position: (1.94567, 0.46302, 0)
+Marker: 1643
+Position: (1.98678, -0.22957, 0)
+Marker: 1644
+Position: (1.92009, 0.559684, 0)
+Marker: 1645
+Position: (1.99577, -0.129985, 0)
+Marker: 1646
+Position: (1.88972, 0.654949, 0)
+Marker: 1647
+Position: (1.99977, -0.0300756, 0)
+Marker: 1648
+Position: (1.85462, 0.748577, 0)
+Marker: 1649
+Position: (1.99878, 0.069909, 0)
+Marker: 1650
+Position: (1.81489, 0.840334, 0)
+Marker: 1651
+Position: (1.99279, 0.169719, 0)
+Marker: 1652
+Position: (1.77063, 0.929991, 0)
+Marker: 1653
+Position: (1.98181, 0.269105, 0)
+Marker: 1654
+Position: (1.72193, 1.01732, 0)
+Marker: 1655
+Position: (1, 2, 0)
+Marker: 1656
+Position: (1.96589, 0.367818, 0)
+Marker: 1657
+Position: (1.66894, 1.10211, 0)
+Marker: 1658
+Position: (1.94505, 0.465611, 0)
+Marker: 1659
+Position: (1.61177, 1.18415, 0)
+Marker: 1660
+Position: (1.91934, 0.562241, 0)
+Marker: 1661
+Position: (1.55057, 1.26322, 0)
+Marker: 1662
+Position: (1.88885, 0.657466, 0)
+Marker: 1663
+Position: (1.4855, 1.33914, 0)
+Marker: 1664
+Position: (1.85363, 0.751047, 0)
+Marker: 1665
+Position: (1.41671, 1.41171, 0)
+Marker: 1666
+Position: (1.81377, 0.842751, 0)
+Marker: 1667
+Position: (1.34439, 1.48075, 0)
+Marker: 1668
+Position: (1.76939, 0.932349, 0)
+Marker: 1669
+Position: (1.2687, 1.54609, 0)
+Marker: 1670
+Position: (1.72058, 1.01962, 0)
+Marker: 1671
+Position: (1.18984, 1.60757, 0)
+Marker: 1672
+Position: (1.66747, 1.10433, 0)
+Marker: 1673
+Position: (1.10801, 1.66503, 0)
+Marker: 1674
+Position: (1.61019, 1.18629, 0)
+Marker: 1675
+Position: (1.02341, 1.71832, 0)
+Marker: 1676
+Position: (1, 2, 0)
+Marker: 1677
+Position: (1.54889, 1.26529, 0)
+Marker: 1678
+Position: (0.936249, 1.76733, 0)
+Marker: 1679
+Position: (1.48371, 1.34112, 0)
+Marker: 1680
+Position: (0.846749, 1.81191, 0)
+Marker: 1681
+Position: (1.41483, 1.4136, 0)
+Marker: 1682
+Position: (0.755133, 1.85196, 0)
+Marker: 1683
+Position: (1.34241, 1.48254, 0)
+Marker: 1684
+Position: (0.66163, 1.88739, 0)
+Marker: 1685
+Position: (1.26664, 1.54778, 0)
+Marker: 1686
+Position: (0.566473, 1.9181, 0)
+Marker: 1687
+Position: (1.1877, 1.60915, 0)
+Marker: 1688
+Position: (0.4699, 1.94402, 0)
+Marker: 1689
+Position: (1.10579, 1.6665, 0)
+Marker: 1690
+Position: (0.372152, 1.96507, 0)
+Marker: 1691
+Position: (1.02112, 1.71969, 0)
+Marker: 1692
+Position: (0.273474, 1.98121, 0)
+Marker: 1693
+Position: (0.933893, 1.76857, 0)
+Marker: 1694
+Position: (0.174113, 1.99241, 0)
+Marker: 1695
+Position: (0.844334, 1.81304, 0)
+Marker: 1696
+Position: (0.0743168, 1.99862, 0)
+Marker: 1697
+Position: (1, 2, 0)
+Marker: 1698
+Position: (0.752665, 1.85297, 0)
+Marker: 1699
+Position: (-0.0256654, 1.99984, 0)
+Marker: 1700
+Position: (0.659115, 1.88827, 0)
+Marker: 1701
+Position: (-0.125583, 1.99605, 0)
+Marker: 1702
+Position: (0.563917, 1.91885, 0)
+Marker: 1703
+Position: (-0.225188, 1.98728, 0)
+Marker: 1704
+Position: (0.467309, 1.94464, 0)
+Marker: 1705
+Position: (-0.324229, 1.97354, 0)
+Marker: 1706
+Position: (0.369534, 1.96556, 0)
+Marker: 1707
+Position: (-0.42246, 1.95487, 0)
+Marker: 1708
+Position: (0.270835, 1.98158, 0)
+Marker: 1709
+Position: (-0.519635, 1.93132, 0)
+Marker: 1710
+Position: (0.171459, 1.99264, 0)
+Marker: 1711
+Position: (-0.615511, 1.90293, 0)
+Marker: 1712
+Position: (0.0716541, 1.99872, 0)
+Marker: 1713
+Position: (-0.709849, 1.86979, 0)
+Marker: 1714
+Position: (-0.0283296, 1.9998, 0)
+Marker: 1715
+Position: (-0.802412, 1.83198, 0)
+Marker: 1716
+Position: (-0.128243, 1.99588, 0)
+Marker: 1717
+Position: (-0.89297, 1.78958, 0)
+Marker: 1718
+Position: (1, 2, 0)
+Marker: 1719
+Position: (-0.227835, 1.98698, 0)
+Marker: 1720
+Position: (-0.981296, 1.74272, 0)
+Marker: 1721
+Position: (-0.326858, 1.97311, 0)
+Marker: 1722
+Position: (-1.06717, 1.69149, 0)
+Marker: 1723
+Position: (-0.425064, 1.95431, 0)
+Marker: 1724
+Position: (-1.15037, 1.63604, 0)
+Marker: 1725
+Position: (-0.522207, 1.93062, 0)
+Marker: 1726
+Position: (-1.2307, 1.5765, 0)
+Marker: 1727
+Position: (-0.618045, 1.90211, 0)
+Marker: 1728
+Position: (-1.30796, 1.51302, 0)
+Marker: 1729
+Position: (-0.712339, 1.86884, 0)
+Marker: 1730
+Position: (-1.38194, 1.44576, 0)
+Marker: 1731
+Position: (-0.804852, 1.83091, 0)
+Marker: 1732
+Position: (-1.45248, 1.37489, 0)
+Marker: 1733
+Position: (-0.895353, 1.78839, 0)
+Marker: 1734
+Position: (-1.51938, 1.30058, 0)
+Marker: 1735
+Position: (-0.983616, 1.74141, 0)
+Marker: 1736
+Position: (-1.58248, 1.22301, 0)
+Marker: 1737
+Position: (-1.06942, 1.69007, 0)
+Marker: 1738
+Position: (-1.64163, 1.14239, 0)
+Marker: 1739
+Position: (1, 2, 0)
+Marker: 1740
+Position: (-1.15255, 1.63451, 0)
+Marker: 1741
+Position: (-1.69667, 1.05892, 0)
+Marker: 1742
+Position: (-1.2328, 1.57486, 0)
+Marker: 1743
+Position: (-1.74747, 0.972797, 0)
+Marker: 1744
+Position: (-1.30997, 1.51128, 0)
+Marker: 1745
+Position: (-1.79391, 0.884244, 0)
+Marker: 1746
+Position: (-1.38387, 1.44392, 0)
+Marker: 1747
+Position: (-1.83586, 0.793481, 0)
+Marker: 1748
+Position: (-1.45431, 1.37295, 0)
+Marker: 1749
+Position: (-1.87322, 0.700735, 0)
+Marker: 1750
+Position: (-1.52111, 1.29855, 0)
+Marker: 1751
+Position: (-1.90591, 0.606237, 0)
+Marker: 1752
+Position: (-1.58411, 1.2209, 0)
+Marker: 1753
+Position: (-1.93382, 0.510223, 0)
+Marker: 1754
+Position: (-1.64315, 1.14021, 0)
+Marker: 1755
+Position: (-1.95691, 0.412935, 0)
+Marker: 1756
+Position: (-1.69808, 1.05666, 0)
+Marker: 1757
+Position: (-1.9751, 0.314614, 0)
+Marker: 1758
+Position: (-1.74877, 0.970468, 0)
+Marker: 1759
+Position: (-1.98836, 0.215507, 0)
+Marker: 1760
+Position: (1, 2, 0)
+Marker: 1761
+Position: (-1.79509, 0.881854, 0)
+Marker: 1762
+Position: (-1.99664, 0.115862, 0)
+Marker: 1763
+Position: (-1.83692, 0.791035, 0)
+Marker: 1764
+Position: (-1.99994, 0.0159264, 0)
+Marker: 1765
+Position: (-1.87416, 0.698238, 0)
+Marker: 1766
+Position: (-1.99823, -0.0840487, 0)
+Marker: 1767
+Position: (-1.90671, 0.603697, 0)
+Marker: 1768
+Position: (-1.99154, -0.183814, 0)
+Marker: 1769
+Position: (-1.9345, 0.507647, 0)
+Marker: 1770
+Position: (-1.97986, -0.283119, 0)
+Marker: 1771
+Position: (-1.95746, 0.410328, 0)
+Marker: 1772
+Position: (-1.96324, -0.381717, 0)
+Marker: 1773
+Position: (-1.97552, 0.311983, 0)
+Marker: 1774
+Position: (-1.9417, -0.479361, 0)
+Marker: 1775
+Position: (-1.98864, 0.212858, 0)
+Marker: 1776
+Position: (-1.91532, -0.575807, 0)
+Marker: 1777
+Position: (-1.99679, 0.113202, 0)
+Marker: 1778
+Position: (-1.88415, -0.670813, 0)
+Marker: 1779
+Position: (-1.99996, 0.013262, 0)
+Marker: 1780
+Position: (-1.84827, -0.764143, 0)
+Marker: 1781
+Position: (-1.99812, -0.0867107, 0)
+Marker: 1782
+Position: (1, 2, 0)
+Marker: 1783
+Position: (-1.80776, -0.855563, 0)
+Marker: 1784
+Position: (-1.99129, -0.186467, 0)
+Marker: 1785
+Position: (-1.76274, -0.944844, 0)
+Marker: 1786
+Position: (-1.97948, -0.285757, 0)
+Marker: 1787
+Position: (-1.71332, -1.03176, 0)
+Marker: 1788
+Position: (-1.96272, -0.384332, 0)
+Marker: 1789
+Position: (-1.65961, -1.1161, 0)
+Marker: 1790
+Position: (-1.94106, -0.481947, 0)
+Marker: 1791
+Position: (-1.60176, -1.19766, 0)
+Marker: 1792
+Position: (-1.91455, -0.578358, 0)
+Marker: 1793
+Position: (-1.5399, -1.27621, 0)
+Marker: 1794
+Position: (-1.88325, -0.673323, 0)
+Marker: 1795
+Position: (-1.47419, -1.35158, 0)
+Marker: 1796
+Position: (-1.84725, -0.766604, 0)
+Marker: 1797
+Position: (-1.40479, -1.42357, 0)
+Marker: 1798
+Position: (-1.80662, -0.85797, 0)
+Marker: 1799
+Position: (-1.33189, -1.492, 0)
+Marker: 1800
+Position: (-1.76148, -0.947192, 0)
+Marker: 1801
+Position: (-1.25566, -1.5567, 0)
+Marker: 1802
+Position: (-1.71194, -1.03405, 0)
+Marker: 1803
+Position: (1, 2, 0)
+Marker: 1804
+Position: (-1.17628, -1.61752, 0)
+Marker: 1805
+Position: (-1.65812, -1.11831, 0)
+Marker: 1806
+Position: (-1.09397, -1.67428, 0)
+Marker: 1807
+Position: (-1.60016, -1.19979, 0)
+Marker: 1808
+Position: (-1.00893, -1.72687, 0)
+Marker: 1809
+Position: (-1.53819, -1.27826, 0)
+Marker: 1810
+Position: (-0.921357, -1.77513, 0)
+Marker: 1811
+Position: (-1.47239, -1.35354, 0)
+Marker: 1812
+Position: (-0.831486, -1.81896, 0)
+Marker: 1813
+Position: (-1.4029, -1.42544, 0)
+Marker: 1814
+Position: (-0.739537, -1.85825, 0)
+Marker: 1815
+Position: (-1.3299, -1.49378, 0)
+Marker: 1816
+Position: (-0.645739, -1.89289, 0)
+Marker: 1817
+Position: (-1.25358, -1.55838, 0)
+Marker: 1818
+Position: (-0.550327, -1.92279, 0)
+Marker: 1819
+Position: (-1.17413, -1.61908, 0)
+Marker: 1820
+Position: (-0.453539, -1.9479, 0)
+Marker: 1821
+Position: (-1.09174, -1.67574, 0)
+Marker: 1822
+Position: (-0.355618, -1.96813, 0)
+Marker: 1823
+Position: (-1.00662, -1.72821, 0)
+Marker: 1824
+Position: (1, 2, 0)
+Marker: 1825
+Position: (-0.256808, -1.98344, 0)
+Marker: 1826
+Position: (-0.918991, -1.77636, 0)
+Marker: 1827
+Position: (-0.157356, -1.9938, 0)
+Marker: 1828
+Position: (-0.829062, -1.82007, 0)
+Marker: 1829
+Position: (-0.0575113, -1.99917, 0)
+Marker: 1830
+Position: (-0.73706, -1.85923, 0)
+Marker: 1831
+Position: (0.0424776, -1.99955, 0)
+Marker: 1832
+Position: (-0.643216, -1.89375, 0)
+Marker: 1833
+Position: (0.14236, -1.99493, 0)
+Marker: 1834
+Position: (-0.547765, -1.92353, 0)
+Marker: 1835
+Position: (0.241887, -1.98532, 0)
+Marker: 1836
+Position: (-0.450944, -1.9485, 0)
+Marker: 1837
+Position: (0.340809, -1.97075, 0)
+Marker: 1838
+Position: (-0.352996, -1.9686, 0)
+Marker: 1839
+Position: (0.43888, -1.95125, 0)
+Marker: 1840
+Position: (-0.254166, -1.98378, 0)
+Marker: 1841
+Position: (0.535853, -1.92688, 0)
+Marker: 1842
+Position: (-0.1547, -1.99401, 0)
+Marker: 1843
+Position: (0.631488, -1.89769, 0)
+Marker: 1844
+Position: (1, 2, 0)
+Marker: 1845
+Position: (-0.0548478, -1.99925, 0)
+Marker: 1846
+Position: (0.725543, -1.86376, 0)
+Marker: 1847
+Position: (0.0451414, -1.99949, 0)
+Marker: 1848
+Position: (0.817785, -1.82516, 0)
+Marker: 1849
+Position: (0.145018, -1.99474, 0)
+Marker: 1850
+Position: (0.907984, -1.78201, 0)
+Marker: 1851
+Position: (0.244532, -1.98499, 0)
+Marker: 1852
+Position: (0.995912, -1.7344, 0)
+Marker: 1853
+Position: (0.343435, -1.97029, 0)
+Marker: 1854
+Position: (1.08135, -1.68246, 0)
+Marker: 1855
+Position: (0.441479, -1.95067, 0)
+Marker: 1856
+Position: (1.16409, -1.62631, 0)
+Marker: 1857
+Position: (0.53842, -1.92616, 0)
+Marker: 1858
+Position: (1.24392, -1.5661, 0)
+Marker: 1859
+Position: (0.634015, -1.89685, 0)
+Marker: 1860
+Position: (1.32063, -1.50197, 0)
+Marker: 1861
+Position: (0.728026, -1.86279, 0)
+Marker: 1862
+Position: (1.39405, -1.43409, 0)
+Marker: 1863
+Position: (0.820216, -1.82407, 0)
+Marker: 1864
+Position: (1.46398, -1.36263, 0)
+Marker: 1865
+Position: (1, 2, 0)
+Marker: 1866
+Position: (0.910357, -1.7808, 0)
+Marker: 1867
+Position: (1.53026, -1.28776, 0)
+Marker: 1868
+Position: (0.998222, -1.73308, 0)
+Marker: 1869
+Position: (1.5927, -1.20967, 0)
+Marker: 1870
+Position: (1.08359, -1.68102, 0)
+Marker: 1871
+Position: (1.65117, -1.12855, 0)
+Marker: 1872
+Position: (1.16625, -1.62476, 0)
+Marker: 1873
+Position: (1.70551, -1.04462, 0)
+Marker: 1874
+Position: (1.246, -1.56444, 0)
+Marker: 1875
+Position: (1.75559, -0.958072, 0)
+Marker: 1876
+Position: (1.32263, -1.50021, 0)
+Marker: 1877
+Position: (1.80128, -0.869131, 0)
+Marker: 1878
+Position: (1.39596, -1.43223, 0)
+Marker: 1879
+Position: (1.84247, -0.778019, 0)
+Marker: 1880
+Position: (1.4658, -1.36068, 0)
+Marker: 1881
+Position: (1.87905, -0.684961, 0)
+Marker: 1882
+Position: (1.53197, -1.28572, 0)
+Marker: 1883
+Position: (1.91094, -0.590192, 0)
+Marker: 1884
+Position: (1.59432, -1.20754, 0)
+Marker: 1885
+Position: (1.93804, -0.493947, 0)
+Marker: 1886
+Position: (1, 2, 0)
+Marker: 1887
+Position: (1.65267, -1.12635, 0)
+Marker: 1888
+Position: (1.96031, -0.396468, 0)
+Marker: 1889
+Position: (1.7069, -1.04234, 0)
+Marker: 1890
+Position: (1.97767, -0.297998, 0)
+Marker: 1891
+Position: (1.75687, -0.955732, 0)
+Marker: 1892
+Position: (1.9901, -0.198783, 0)
+Marker: 1893
+Position: (1.80244, -0.866731, 0)
+Marker: 1894
+Position: (1.99754, -0.0990713, 0)
+Marker: 1895
+Position: (1.8435, -0.775563, 0)
+Marker: 1896
+Position: (2, 0.000888157, 0)
+Marker: 1897
+Position: (1.87996, -0.682457, 0)
+Marker: 1898
+Position: (1.99746, 0.100845, 0)
+Marker: 1899
+Position: (1.91172, -0.587646, 0)
+Marker: 1900
+Position: (1.98992, 0.200551, 0)
+Marker: 1901
+Position: (1.9387, -0.491365, 0)
+Marker: 1902
+Position: (1.97741, 0.299754, 0)
+Marker: 1903
+Position: (1.96084, -0.393856, 0)
+Marker: 1904
+Position: (1.95996, 0.398209, 0)
+Marker: 1905
+Position: (1.97807, -0.295363, 0)
+Marker: 1906
+Position: (1.9376, 0.495668, 0)
+Marker: 1907
+Position: (1, 2, 0)
+Marker: 1908
+Position: (1.99036, -0.196132, 0)
+Marker: 1909
+Position: (1.91041, 0.591889, 0)
+Marker: 1910
+Position: (1.99767, -0.09641, 0)
+Marker: 1911
+Position: (1.87844, 0.68663, 0)
+Marker: 1912
+Position: (2, 0.00355263, 0)
+Marker: 1913
+Position: (1.84178, 0.779655, 0)
+Marker: 1914
+Position: (1.99732, 0.103506, 0)
+Marker: 1915
+Position: (1.80051, 0.870731, 0)
+Marker: 1916
+Position: (1.98965, 0.203201, 0)
+Marker: 1917
+Position: (1.75474, 0.95963, 0)
+Marker: 1918
+Position: (1.97701, 0.302389, 0)
+Marker: 1919
+Position: (1.70458, 1.04613, 0)
+Marker: 1920
+Position: (1.95942, 0.40082, 0)
+Marker: 1921
+Position: (1.65017, 1.13002, 0)
+Marker: 1922
+Position: (1.93694, 0.498249, 0)
+Marker: 1923
+Position: (1.59163, 1.21108, 0)
+Marker: 1924
+Position: (1.90962, 0.594433, 0)
+Marker: 1925
+Position: (1.52911, 1.28911, 0)
+Marker: 1926
+Position: (1.87752, 0.689132, 0)
+Marker: 1927
+Position: (1.46277, 1.36393, 0)
+Marker: 1928
+Position: (1.84074, 0.782108, 0)
+Marker: 1929
+Position: (1, 2, 0)
+Marker: 1930
+Position: (1.39278, 1.43533, 0)
+Marker: 1931
+Position: (1.79935, 0.873129, 0)
+Marker: 1932
+Position: (1.3193, 1.50315, 0)
+Marker: 1933
+Position: (1.75346, 0.961967, 0)
+Marker: 1934
+Position: (1.24252, 1.56721, 0)
+Marker: 1935
+Position: (1.70319, 1.0484, 0)
+Marker: 1936
+Position: (1.16264, 1.62735, 0)
+Marker: 1937
+Position: (1.64866, 1.13222, 0)
+Marker: 1938
+Position: (1.07986, 1.68342, 0)
+Marker: 1939
+Position: (1.59002, 1.2132, 0)
+Marker: 1940
+Position: (0.994372, 1.73529, 0)
+Marker: 1941
+Position: (1.52739, 1.29115, 0)
+Marker: 1942
+Position: (0.906401, 1.78282, 0)
+Marker: 1943
+Position: (1.46095, 1.36587, 0)
+Marker: 1944
+Position: (0.816164, 1.82589, 0)
+Marker: 1945
+Position: (1.39086, 1.43719, 0)
+Marker: 1946
+Position: (0.723888, 1.8644, 0)
+Marker: 1947
+Position: (1.3173, 1.5049, 0)
+Marker: 1948
+Position: (0.629802, 1.89825, 0)
+Marker: 1949
+Position: (1.24044, 1.56886, 0)
+Marker: 1950
+Position: (1, 2, 0)
+Marker: 1951
+Position: (0.534142, 1.92735, 0)
+Marker: 1952
+Position: (1.16047, 1.62889, 0)
+Marker: 1953
+Position: (0.437147, 1.95164, 0)
+Marker: 1954
+Position: (1.07761, 1.68486, 0)
+Marker: 1955
+Position: (0.339059, 1.97105, 0)
+Marker: 1956
+Position: (0.992059, 1.73661, 0)
+Marker: 1957
+Position: (0.240124, 1.98553, 0)
+Marker: 1958
+Position: (0.904025, 1.78402, 0)
+Marker: 1959
+Position: (0.140588, 1.99505, 0)
+Marker: 1960
+Position: (0.813731, 1.82698, 0)
+Marker: 1961
+Position: (0.0407017, 1.99959, 0)
+Marker: 1962
+Position: (0.721403, 1.86536, 0)
+Marker: 1963
+Position: (-0.0592868, 1.99912, 0)
+Marker: 1964
+Position: (0.627272, 1.89909, 0)
+Marker: 1965
+Position: (-0.159127, 1.99366, 0)
+Marker: 1966
+Position: (0.531574, 1.92806, 0)
+Marker: 1967
+Position: (-0.25857, 1.98321, 0)
+Marker: 1968
+Position: (0.434546, 1.95222, 0)
+Marker: 1969
+Position: (-0.357366, 1.96781, 0)
+Marker: 1970
+Position: (0.336433, 1.9715, 0)
+Marker: 1971
+Position: (1, 2, 0)
+Marker: 1972
+Position: (-0.455269, 1.94749, 0)
+Marker: 1973
+Position: (0.237478, 1.98585, 0)
+Marker: 1974
+Position: (-0.552034, 1.92231, 0)
+Marker: 1975
+Position: (0.13793, 1.99524, 0)
+Marker: 1976
+Position: (-0.64742, 1.89231, 0)
+Marker: 1977
+Position: (0.0380377, 1.99964, 0)
+Marker: 1978
+Position: (-0.741187, 1.85759, 0)
+Marker: 1979
+Position: (-0.0619501, 1.99904, 0)
+Marker: 1980
+Position: (-0.833101, 1.81823, 0)
+Marker: 1981
+Position: (-0.161783, 1.99345, 0)
+Marker: 1982
+Position: (-0.922933, 1.77432, 0)
+Marker: 1983
+Position: (-0.261212, 1.98287, 0)
+Marker: 1984
+Position: (-1.01046, 1.72597, 0)
+Marker: 1985
+Position: (-0.359987, 1.96734, 0)
+Marker: 1986
+Position: (-1.09546, 1.67331, 0)
+Marker: 1987
+Position: (-0.457863, 1.94689, 0)
+Marker: 1988
+Position: (-1.17772, 1.61647, 0)
+Marker: 1989
+Position: (-0.554595, 1.92157, 0)
+Marker: 1990
+Position: (-1.25704, 1.55559, 0)
+Marker: 1991
+Position: (-0.64994, 1.89145, 0)
+Marker: 1992
+Position: (1, 2, 0)
+Marker: 1993
+Position: (-1.33321, 1.49082, 0)
+Marker: 1994
+Position: (-0.743661, 1.8566, 0)
+Marker: 1995
+Position: (-1.40606, 1.42232, 0)
+Marker: 1996
+Position: (-0.835523, 1.81711, 0)
+Marker: 1997
+Position: (-1.47539, 1.35027, 0)
+Marker: 1998
+Position: (-0.925296, 1.77308, 0)
+Marker: 1999
+Position: (-1.54103, 1.27485, 0)
+Marker: 2000
+Position: (-1.01276, 1.72462, 0)
+Marker: 2001
+Position: (-1.60282, 1.19623, 0)
+Marker: 2002
+Position: (-1.09769, 1.67185, 0)
+Marker: 2003
+Position: (-1.6606, 1.11463, 0)
+Marker: 2004
+Position: (-1.17987, 1.6149, 0)
+Marker: 2005
+Position: (-1.71424, 1.03024, 0)
+Marker: 2006
+Position: (-1.25911, 1.55391, 0)
+Marker: 2007
+Position: (-1.76358, 0.943278, 0)
+Marker: 2008
+Position: (-1.3352, 1.48904, 0)
+Marker: 2009
+Position: (-1.80852, 0.853957, 0)
+Marker: 2010
+Position: (-1.40795, 1.42045, 0)
+Marker: 2011
+Position: (-1.84894, 0.762501, 0)
+Marker: 2012
+Position: (-1.47718, 1.3483, 0)
+Marker: 2013
+Position: (1, 2, 0)
+Marker: 2014
+Position: (-1.88474, 0.669139, 0)
+Marker: 2015
+Position: (-1.54273, 1.27279, 0)
+Marker: 2016
+Position: (-1.91583, 0.574105, 0)
+Marker: 2017
+Position: (-1.60441, 1.1941, 0)
+Marker: 2018
+Position: (-1.94213, 0.477636, 0)
+Marker: 2019
+Position: (-1.66209, 1.11242, 0)
+Marker: 2020
+Position: (-1.96357, 0.379973, 0)
+Marker: 2021
+Position: (-1.71561, 1.02796, 0)
+Marker: 2022
+Position: (-1.98011, 0.281361, 0)
+Marker: 2023
+Position: (-1.76484, 0.940928, 0)
+Marker: 2024
+Position: (-1.9917, 0.182045, 0)
+Marker: 2025
+Position: (-1.80966, 0.851547, 0)
+Marker: 2026
+Position: (-1.99831, 0.0822739, 0)
+Marker: 2027
+Position: (-1.84996, 0.760037, 0)
+Marker: 2028
+Position: (-1.99992, -0.0177026, 0)
+Marker: 2029
+Position: (-1.88563, 0.666628, 0)
+Marker: 2030
+Position: (-1.99654, -0.117635, 0)
+Marker: 2031
+Position: (-1.91659, 0.571552, 0)
+Marker: 2032
+Position: (-1.98816, -0.217273, 0)
+Marker: 2033
+Position: (-1.94276, 0.475048, 0)
+Marker: 2034
+Position: (-1.97482, -0.316368, 0)
+Marker: 2035
+Position: (1, 2, 0)
+Marker: 2036
+Position: (-1.96408, 0.377357, 0)
+Marker: 2037
+Position: (-1.95654, -0.414673, 0)
+Marker: 2038
+Position: (-1.98048, 0.278722, 0)
+Marker: 2039
+Position: (-1.93337, -0.511941, 0)
+Marker: 2040
+Position: (-1.99194, 0.179391, 0)
+Marker: 2041
+Position: (-1.90537, -0.607929, 0)
+Marker: 2042
+Position: (-1.99841, 0.0796116, 0)
+Marker: 2043
+Position: (-1.8726, -0.702398, 0)
+Marker: 2044
+Position: (-1.9999, -0.020367, 0)
+Marker: 2045
+Position: (-1.83516, -0.795111, 0)
+Marker: 2046
+Position: (-1.99638, -0.120295, 0)
+Marker: 2047
+Position: (-1.79312, -0.885837, 0)
+Marker: 2048
+Position: (-1.98787, -0.219922, 0)
+Marker: 2049
+Position: (-1.74661, -0.974349, 0)
+Marker: 2050
+Position: (-1.9744, -0.318999, 0)
+Marker: 2051
+Position: (-1.69573, -1.06043, 0)
+Marker: 2052
+Position: (-1.95599, -0.417279, 0)
+Marker: 2053
+Position: (-1.64061, -1.14385, 0)
+Marker: 2054
+Position: (-1.93269, -0.514516, 0)
+Marker: 2055
+Position: (-1.58139, -1.22442, 0)
+Marker: 2056
+Position: (1, 2, 0)
+Marker: 2057
+Position: (-1.90456, -0.610467, 0)
+Marker: 2058
+Position: (-1.51822, -1.30192, 0)
+Marker: 2059
+Position: (-1.87166, -0.704892, 0)
+Marker: 2060
+Position: (-1.45125, -1.37618, 0)
+Marker: 2061
+Position: (-1.8341, -0.797556, 0)
+Marker: 2062
+Position: (-1.38066, -1.44699, 0)
+Marker: 2063
+Position: (-1.79194, -0.888225, 0)
+Marker: 2064
+Position: (-1.30661, -1.51419, 0)
+Marker: 2065
+Position: (-1.74531, -0.976675, 0)
+Marker: 2066
+Position: (-1.2293, -1.5776, 0)
+Marker: 2067
+Position: (-1.69432, -1.06268, 0)
+Marker: 2068
+Position: (-1.14892, -1.63706, 0)
+Marker: 2069
+Position: (-1.63909, -1.14604, 0)
+Marker: 2070
+Position: (-1.06567, -1.69244, 0)
+Marker: 2071
+Position: (-1.57976, -1.22652, 0)
+Marker: 2072
+Position: (-0.979747, -1.74359, 0)
+Marker: 2073
+Position: (-1.51648, -1.30395, 0)
+Marker: 2074
+Position: (-0.89138, -1.79037, 0)
+Marker: 2075
+Position: (-1.44942, -1.37811, 0)
+Marker: 2076
+Position: (-0.800785, -1.83269, 0)
+Marker: 2077
+Position: (1, 2, 0)
+Marker: 2078
+Position: (-1.37873, -1.44883, 0)
+Marker: 2079
+Position: (-0.708188, -1.87042, 0)
+Marker: 2080
+Position: (-1.3046, -1.51592, 0)
+Marker: 2081
+Position: (-0.613821, -1.90348, 0)
+Marker: 2082
+Position: (-1.2272, -1.57923, 0)
+Marker: 2083
+Position: (-0.517919, -1.93178, 0)
+Marker: 2084
+Position: (-1.14674, -1.63859, 0)
+Marker: 2085
+Position: (-0.420723, -1.95525, 0)
+Marker: 2086
+Position: (-1.06341, -1.69386, 0)
+Marker: 2087
+Position: (-0.322476, -1.97383, 0)
+Marker: 2088
+Position: (-0.977424, -1.74489, 0)
+Marker: 2089
+Position: (-0.223422, -1.98748, 0)
+Marker: 2090
+Position: (-0.888994, -1.79156, 0)
+Marker: 2091
+Position: (-0.123811, -1.99616, 0)
+Marker: 2092
+Position: (-0.798342, -1.83375, 0)
+Marker: 2093
+Position: (-0.0238892, -1.99986, 0)
+Marker: 2094
+Position: (-0.705695, -1.87136, 0)
+Marker: 2095
+Position: (0.0760918, -1.99855, 0)
+Marker: 2096
+Position: (-0.611284, -1.90429, 0)
+Marker: 2097
+Position: (0.175883, -1.99225, 0)
+Marker: 2098
+Position: (1, 2, 0)
+Marker: 2099
+Position: (-0.515345, -1.93246, 0)
+Marker: 2100
+Position: (0.275234, -1.98097, 0)
+Marker: 2101
+Position: (-0.418118, -1.95581, 0)
+Marker: 2102
+Position: (0.373897, -1.96474, 0)
+Marker: 2103
+Position: (-0.319846, -1.97426, 0)
+Marker: 2104
+Position: (0.471626, -1.9436, 0)
+Marker: 2105
+Position: (-0.220774, -1.98778, 0)
+Marker: 2106
+Position: (0.568176, -1.9176, 0)
+Marker: 2107
+Position: (-0.121151, -1.99633, 0)
+Marker: 2108
+Position: (0.663306, -1.8868, 0)
+Marker: 2109
+Position: (-0.0212249, -1.99989, 0)
+Marker: 2110
+Position: (0.756778, -1.85129, 0)
+Marker: 2111
+Position: (0.0787543, -1.99845, 0)
+Marker: 2112
+Position: (0.848358, -1.81116, 0)
+Marker: 2113
+Position: (0.178537, -1.99202, 0)
+Marker: 2114
+Position: (0.937818, -1.76649, 0)
+Marker: 2115
+Position: (0.277873, -1.9806, 0)
+Marker: 2116
+Position: (1.02493, -1.71741, 0)
+Marker: 2117
+Position: (0.376514, -1.96424, 0)
+Marker: 2118
+Position: (1.10949, -1.66404, 0)
+Marker: 2119
+Position: (1, 2, 0)
+Marker: 2120
+Position: (0.474215, -1.94297, 0)
+Marker: 2121
+Position: (1.19127, -1.60651, 0)
+Marker: 2122
+Position: (0.57073, -1.91684, 0)
+Marker: 2123
+Position: (1.27007, -1.54497, 0)
+Marker: 2124
+Position: (0.665819, -1.88592, 0)
+Marker: 2125
+Position: (1.3457, -1.47956, 0)
+Marker: 2126
+Position: (0.759243, -1.85028, 0)
+Marker: 2127
+Position: (1.41797, -1.41045, 0)
+Marker: 2128
+Position: (0.85077, -1.81002, 0)
+Marker: 2129
+Position: (1.48669, -1.33782, 0)
+Marker: 2130
+Position: (0.94017, -1.76524, 0)
+Marker: 2131
+Position: (1.55169, -1.26184, 0)
+Marker: 2132
+Position: (1.02722, -1.71605, 0)
+Marker: 2133
+Position: (1.61282, -1.18272, 0)
+Marker: 2134
+Position: (1.1117, -1.66256, 0)
+Marker: 2135
+Position: (1.66991, -1.10063, 0)
+Marker: 2136
+Position: (1.19341, -1.60492, 0)
+Marker: 2137
+Position: (1.72284, -1.01579, 0)
+Marker: 2138
+Position: (1.27213, -1.54327, 0)
+Marker: 2139
+Position: (1.77145, -0.928418, 0)
+Marker: 2140
+Position: (1, 2, 0)
+Marker: 2141
+Position: (1.34767, -1.47776, 0)
+Marker: 2142
+Position: (1.81564, -0.838722, 0)
+Marker: 2143
+Position: (1.41984, -1.40856, 0)
+Marker: 2144
+Position: (1.85529, -0.74693, 0)
+Marker: 2145
+Position: (1.48847, -1.33584, 0)
+Marker: 2146
+Position: (1.8903, -0.65327, 0)
+Marker: 2147
+Position: (1.55337, -1.25978, 0)
+Marker: 2148
+Position: (1.92059, -0.557978, 0)
+Marker: 2149
+Position: (1.61439, -1.18057, 0)
+Marker: 2150
+Position: (1.94608, -0.461291, 0)
+Marker: 2151
+Position: (1.67138, -1.0984, 0)
+Marker: 2152
+Position: (1.9667, -0.363452, 0)
+Marker: 2153
+Position: (1.72419, -1.0135, 0)
+Marker: 2154
+Position: (1.98241, -0.264704, 0)
+Marker: 2155
+Position: (1.77269, -0.926057, 0)
+Marker: 2156
+Position: (1.99316, -0.165294, 0)
+Marker: 2157
+Position: (1.81675, -0.836302, 0)
+Marker: 2158
+Position: (1.99893, -0.0654708, 0)
+Marker: 2159
+Position: (1.85628, -0.744457, 0)
+Marker: 2160
+Position: (1.9997, 0.0345158, 0)
+Marker: 2161
+Position: (1, 2, 0)
+Marker: 2162
+Position: (1.89117, -0.650751, 0)
+Marker: 2163
+Position: (1.99548, 0.134416, 0)
+Marker: 2164
+Position: (1.92133, -0.555419, 0)
+Marker: 2165
+Position: (1.98627, 0.23398, 0)
+Marker: 2166
+Position: (1.94669, -0.458698, 0)
+Marker: 2167
+Position: (1.97209, 0.33296, 0)
+Marker: 2168
+Position: (1.96718, -0.360831, 0)
+Marker: 2169
+Position: (1.95298, 0.431107, 0)
+Marker: 2170
+Position: (1.98276, -0.262062, 0)
+Marker: 2171
+Position: (1.929, 0.528177, 0)
+Marker: 2172
+Position: (1.99338, -0.162638, 0)
+Marker: 2173
+Position: (1.90019, 0.623927, 0)
+Marker: 2174
+Position: (1.99901, -0.0628077, 0)
+Marker: 2175
+Position: (1.86663, 0.718117, 0)
+Marker: 2176
+Position: (1.99965, 0.0371799, 0)
+Marker: 2177
+Position: (1.82841, 0.810512, 0)
+Marker: 2178
+Position: (1.9953, 0.137074, 0)
+Marker: 2179
+Position: (1.78561, 0.900881, 0)
+Marker: 2180
+Position: (1.98595, 0.236626, 0)
+Marker: 2181
+Position: (1.73836, 0.988999, 0)
+Marker: 2182
+Position: (1, 2, 0)
+Marker: 2183
+Position: (1.97164, 0.335587, 0)
+Marker: 2184
+Position: (1.68675, 1.07464, 0)
+Marker: 2185
+Position: (1.95241, 0.433709, 0)
+Marker: 2186
+Position: (1.63094, 1.1576, 0)
+Marker: 2187
+Position: (1.92829, 0.530746, 0)
+Marker: 2188
+Position: (1.57104, 1.23767, 0)
+Marker: 2189
+Position: (1.89936, 0.626458, 0)
+Marker: 2190
+Position: (1.50722, 1.31464, 0)
+Marker: 2191
+Position: (1.86567, 0.720603, 0)
+Marker: 2192
+Position: (1.43963, 1.38833, 0)
+Marker: 2193
+Position: (1.82733, 0.812947, 0)
+Marker: 2194
+Position: (1.36845, 1.45855, 0)
+Marker: 2195
+Position: (1.78441, 0.903259, 0)
+Marker: 2196
+Position: (1.29384, 1.52512, 0)
+Marker: 2197
+Position: (1.73704, 0.991314, 0)
+Marker: 2198
+Position: (1.216, 1.58788, 0)
+Marker: 2199
+Position: (1.68532, 1.07689, 0)
+Marker: 2200
+Position: (1.13512, 1.64667, 0)
+Marker: 2201
+Position: (1.62939, 1.15978, 0)
+Marker: 2202
+Position: (1.0514, 1.70134, 0)
+Marker: 2203
+Position: (1, 2, 0)
+Marker: 2204
+Position: (1.56939, 1.23976, 0)
+Marker: 2205
+Position: (0.965054, 1.75176, 0)
+Marker: 2206
+Position: (1.50547, 1.31665, 0)
+Marker: 2207
+Position: (0.876296, 1.79781, 0)
+Marker: 2208
+Position: (1.43778, 1.39025, 0)
+Marker: 2209
+Position: (0.785348, 1.83936, 0)
+Marker: 2210
+Position: (1.3665, 1.46037, 0)
+Marker: 2211
+Position: (0.692437, 1.87631, 0)
+Marker: 2212
+Position: (1.29181, 1.52684, 0)
+Marker: 2213
+Position: (0.597796, 1.90857, 0)
+Marker: 2214
+Position: (1.21388, 1.58949, 0)
+Marker: 2215
+Position: (0.50166, 1.93606, 0)
+Marker: 2216
+Position: (1.13292, 1.64818, 0)
+Marker: 2217
+Position: (0.40427, 1.95872, 0)
+Marker: 2218
+Position: (1.04913, 1.70274, 0)
+Marker: 2219
+Position: (0.30587, 1.97647, 0)
+Marker: 2220
+Position: (0.962719, 1.75305, 0)
+Marker: 2221
+Position: (0.206705, 1.98929, 0)
+Marker: 2222
+Position: (0.8739, 1.79897, 0)
+Marker: 2223
+Position: (0.107024, 1.99713, 0)
+Marker: 2224
+Position: (1, 2, 0)
+Marker: 2225
+Position: (0.782897, 1.8404, 0)
+Marker: 2226
+Position: (0.0070751, 1.99999, 0)
+Marker: 2227
+Position: (0.689937, 1.87723, 0)
+Marker: 2228
+Position: (-0.0928915, 1.99784, 0)
+Marker: 2229
+Position: (0.595253, 1.90936, 0)
+Marker: 2230
+Position: (-0.192626, 1.9907, 0)
+Marker: 2231
+Position: (0.49908, 1.93673, 0)
+Marker: 2232
+Position: (-0.291879, 1.97859, 0)
+Marker: 2233
+Position: (0.40166, 1.95925, 0)
+Marker: 2234
+Position: (-0.390402, 1.96153, 0)
+Marker: 2235
+Position: (0.303237, 1.97688, 0)
+Marker: 2236
+Position: (-0.48795, 1.93956, 0)
+Marker: 2237
+Position: (0.204055, 1.98956, 0)
+Marker: 2238
+Position: (-0.584278, 1.91275, 0)
+Marker: 2239
+Position: (0.104363, 1.99728, 0)
+Marker: 2240
+Position: (-0.679145, 1.88116, 0)
+Marker: 2241
+Position: (0.00441064, 2, 0)
+Marker: 2242
+Position: (-0.772315, 1.84487, 0)
+Marker: 2243
+Position: (-0.095553, 1.99772, 0)
+Marker: 2244
+Position: (-0.863555, 1.80396, 0)
+Marker: 2245
+Position: (1, 2, 0)
+Marker: 2246
+Position: (-0.195278, 1.99044, 0)
+Marker: 2247
+Position: (-0.952636, 1.75855, 0)
+Marker: 2248
+Position: (-0.294514, 1.9782, 0)
+Marker: 2249
+Position: (-1.03934, 1.70874, 0)
+Marker: 2250
+Position: (-0.393015, 1.961, 0)
+Marker: 2251
+Position: (-1.12344, 1.65466, 0)
+Marker: 2252
+Position: (-0.490533, 1.93891, 0)
+Marker: 2253
+Position: (-1.20473, 1.59644, 0)
+Marker: 2254
+Position: (-0.586825, 1.91197, 0)
+Marker: 2255
+Position: (-1.28302, 1.53423, 0)
+Marker: 2256
+Position: (-0.681651, 1.88025, 0)
+Marker: 2257
+Position: (-1.35809, 1.46819, 0)
+Marker: 2258
+Position: (-0.774772, 1.84384, 0)
+Marker: 2259
+Position: (-1.42977, 1.39848, 0)
+Marker: 2260
+Position: (-0.865957, 1.80281, 0)
+Marker: 2261
+Position: (-1.49788, 1.32527, 0)
+Marker: 2262
+Position: (-0.954978, 1.75728, 0)
+Marker: 2263
+Position: (-1.56225, 1.24875, 0)
+Marker: 2264
+Position: (-1.04161, 1.70735, 0)
+Marker: 2265
+Position: (-1.62271, 1.16911, 0)
+Marker: 2266
+Position: (1, 2, 0)
+Marker: 2267
+Position: (-1.12564, 1.65316, 0)
+Marker: 2268
+Position: (-1.67911, 1.08655, 0)
+Marker: 2269
+Position: (-1.20686, 1.59483, 0)
+Marker: 2270
+Position: (-1.73132, 1.00127, 0)
+Marker: 2271
+Position: (-1.28506, 1.53252, 0)
+Marker: 2272
+Position: (-1.77919, 0.913492, 0)
+Marker: 2273
+Position: (-1.36005, 1.46638, 0)
+Marker: 2274
+Position: (-1.82263, 0.823428, 0)
+Marker: 2275
+Position: (-1.43164, 1.39657, 0)
+Marker: 2276
+Position: (-1.8615, 0.731305, 0)
+Marker: 2277
+Position: (-1.49965, 1.32328, 0)
+Marker: 2278
+Position: (-1.89573, 0.637355, 0)
+Marker: 2279
+Position: (-1.56391, 1.24667, 0)
+Marker: 2280
+Position: (-1.92521, 0.541812, 0)
+Marker: 2281
+Position: (-1.62426, 1.16695, 0)
+Marker: 2282
+Position: (-1.94989, 0.444914, 0)
+Marker: 2283
+Position: (-1.68055, 1.08431, 0)
+Marker: 2284
+Position: (-1.96968, 0.346904, 0)
+Marker: 2285
+Position: (-1.73265, 0.998966, 0)
+Marker: 2286
+Position: (-1.98456, 0.248028, 0)
+Marker: 2287
+Position: (1, 2, 0)
+Marker: 2288
+Position: (-1.78041, 0.911121, 0)
+Marker: 2289
+Position: (-1.99448, 0.148531, 0)
+Marker: 2290
+Position: (-1.82372, 0.820999, 0)
+Marker: 2291
+Position: (-1.99941, 0.048663, 0)
+Marker: 2292
+Position: (-1.86248, 0.728825, 0)
+Marker: 2293
+Position: (-1.99934, -0.0513266, 0)
+Marker: 2294
+Position: (-1.89657, 0.634829, 0)
+Marker: 2295
+Position: (-1.99428, -0.151188, 0)
+Marker: 2296
+Position: (-1.92593, 0.539246, 0)
+Marker: 2297
+Position: (-1.98423, -0.250671, 0)
+Marker: 2298
+Position: (-1.95048, 0.442316, 0)
+Marker: 2299
+Position: (-1.96922, -0.349528, 0)
+Marker: 2300
+Position: (-1.97015, 0.34428, 0)
+Marker: 2301
+Position: (-1.94929, -0.447511, 0)
+Marker: 2302
+Position: (-1.98489, 0.245383, 0)
+Marker: 2303
+Position: (-1.92449, -0.544376, 0)
+Marker: 2304
+Position: (-1.99467, 0.145874, 0)
+Marker: 2305
+Position: (-1.89488, -0.63988, 0)
+Marker: 2306
+Position: (-1.99947, 0.0459992, 0)
+Marker: 2307
+Position: (-1.86053, -0.733785, 0)
+Marker: 2308
+Position: (1, 2, 0)
+Marker: 2309
+Position: (-1.99927, -0.0539901, 0)
+Marker: 2310
+Position: (-1.82153, -0.825855, 0)
+Marker: 2311
+Position: (-1.99407, -0.153845, 0)
+Marker: 2312
+Position: (-1.77798, -0.915861, 0)
+Marker: 2313
+Position: (-1.98389, -0.253314, 0)
+Marker: 2314
+Position: (-1.72998, -1.00358, 0)
+Marker: 2315
+Position: (-1.96875, -0.352151, 0)
+Marker: 2316
+Position: (-1.67766, -1.08879, 0)
+Marker: 2317
+Position: (-1.94869, -0.450108, 0)
+Marker: 2318
+Position: (-1.62115, -1.17127, 0)
+Marker: 2319
+Position: (-1.92376, -0.546939, 0)
+Marker: 2320
+Position: (-1.56058, -1.25083, 0)
+Marker: 2321
+Position: (-1.89402, -0.642404, 0)
+Marker: 2322
+Position: (-1.49612, -1.32727, 0)
+Marker: 2323
+Position: (-1.85955, -0.736263, 0)
+Marker: 2324
+Position: (-1.42791, -1.40038, 0)
+Marker: 2325
+Position: (-1.82043, -0.828281, 0)
+Marker: 2326
+Position: (-1.35614, -1.47, 0)
+Marker: 2327
+Position: (-1.77675, -0.918229, 0)
+Marker: 2328
+Position: (-1.28097, -1.53594, 0)
+Marker: 2329
+Position: (1, 2, 0)
+Marker: 2330
+Position: (-1.72864, -1.00588, 0)
+Marker: 2331
+Position: (-1.2026, -1.59804, 0)
+Marker: 2332
+Position: (-1.67621, -1.09102, 0)
+Marker: 2333
+Position: (-1.12123, -1.65615, 0)
+Marker: 2334
+Position: (-1.61958, -1.17343, 0)
+Marker: 2335
+Position: (-1.03706, -1.71012, 0)
+Marker: 2336
+Position: (-1.55891, -1.25291, 0)
+Marker: 2337
+Position: (-0.950292, -1.75981, 0)
+Marker: 2338
+Position: (-1.49435, -1.32926, 0)
+Marker: 2339
+Position: (-0.861151, -1.80511, 0)
+Marker: 2340
+Position: (-1.42604, -1.40228, 0)
+Marker: 2341
+Position: (-0.769857, -1.84589, 0)
+Marker: 2342
+Position: (-1.35418, -1.4718, 0)
+Marker: 2343
+Position: (-0.676638, -1.88206, 0)
+Marker: 2344
+Position: (-1.27892, -1.53765, 0)
+Marker: 2345
+Position: (-0.581729, -1.91353, 0)
+Marker: 2346
+Position: (-1.20047, -1.59964, 0)
+Marker: 2347
+Position: (-0.485365, -1.94021, 0)
+Marker: 2348
+Position: (-1.11903, -1.65764, 0)
+Marker: 2349
+Position: (-0.387789, -1.96204, 0)
+Marker: 2350
+Position: (1, 2, 0)
+Marker: 2351
+Position: (-1.03478, -1.7115, 0)
+Marker: 2352
+Position: (-0.289243, -1.97897, 0)
+Marker: 2353
+Position: (-0.947947, -1.76108, 0)
+Marker: 2354
+Position: (-0.189974, -1.99096, 0)
+Marker: 2355
+Position: (-0.858745, -1.80625, 0)
+Marker: 2356
+Position: (-0.0902298, -1.99796, 0)
+Marker: 2357
+Position: (-0.767397, -1.84692, 0)
+Marker: 2358
+Position: (0.00973954, -1.99998, 0)
+Marker: 2359
+Position: (-0.67413, -1.88296, 0)
+Marker: 2360
+Position: (0.109685, -1.99699, 0)
+Marker: 2361
+Position: (-0.579179, -1.9143, 0)
+Marker: 2362
+Position: (0.209355, -1.98901, 0)
+Marker: 2363
+Position: (-0.48278, -1.94086, 0)
+Marker: 2364
+Position: (0.308503, -1.97606, 0)
+Marker: 2365
+Position: (-0.385174, -1.96256, 0)
+Marker: 2366
+Position: (0.406879, -1.95817, 0)
+Marker: 2367
+Position: (-0.286606, -1.97936, 0)
+Marker: 2368
+Position: (0.504239, -1.93539, 0)
+Marker: 2369
+Position: (-0.187321, -1.99121, 0)
+Marker: 2370
+Position: (0.600338, -1.90777, 0)
+Marker: 2371
+Position: (1, 2, 0)
+Marker: 2372
+Position: (-0.0875679, -1.99808, 0)
+Marker: 2373
+Position: (0.694937, -1.87538, 0)
+Marker: 2374
+Position: (0.012404, -1.99996, 0)
+Marker: 2375
+Position: (0.787798, -1.83831, 0)
+Marker: 2376
+Position: (0.112345, -1.99684, 0)
+Marker: 2377
+Position: (0.878691, -1.79664, 0)
+Marker: 2378
+Position: (0.212005, -1.98873, 0)
+Marker: 2379
+Position: (0.967387, -1.75047, 0)
+Marker: 2380
+Position: (0.311135, -1.97565, 0)
+Marker: 2381
+Position: (1.05367, -1.69994, 0)
+Marker: 2382
+Position: (0.409488, -1.95763, 0)
+Marker: 2383
+Position: (1.13731, -1.64515, 0)
+Marker: 2384
+Position: (0.506817, -1.93472, 0)
+Marker: 2385
+Position: (1.21811, -1.58625, 0)
+Marker: 2386
+Position: (0.602879, -1.90697, 0)
+Marker: 2387
+Position: (1.29587, -1.52339, 0)
+Marker: 2388
+Position: (0.697434, -1.87446, 0)
+Marker: 2389
+Position: (1.37039, -1.45672, 0)
+Marker: 2390
+Position: (0.790247, -1.83726, 0)
+Marker: 2391
+Position: (1.44148, -1.38641, 0)
+Marker: 2392
+Position: (1, 2, 0)
+Marker: 2393
+Position: (0.881083, -1.79546, 0)
+Marker: 2394
+Position: (1.50897, -1.31263, 0)
+Marker: 2395
+Position: (0.969718, -1.74918, 0)
+Marker: 2396
+Position: (1.57269, -1.23558, 0)
+Marker: 2397
+Position: (1.05593, -1.69853, 0)
+Marker: 2398
+Position: (1.63248, -1.15543, 0)
+Marker: 2399
+Position: (1.1395, -1.64364, 0)
+Marker: 2400
+Position: (1.68818, -1.0724, 0)
+Marker: 2401
+Position: (1.22022, -1.58463, 0)
+Marker: 2402
+Position: (1.73967, -0.986682, 0)
+Marker: 2403
+Position: (1.2979, -1.52166, 0)
+Marker: 2404
+Position: (1.78681, -0.898502, 0)
+Marker: 2405
+Position: (1.37233, -1.45489, 0)
+Marker: 2406
+Position: (1.82948, -0.808075, 0)
+Marker: 2407
+Position: (1.44333, -1.38449, 0)
+Marker: 2408
+Position: (1.86759, -0.715629, 0)
+Marker: 2409
+Position: (1.51072, -1.31062, 0)
+Marker: 2410
+Position: (1.90102, -0.621395, 0)
+Marker: 2411
+Position: (1.57433, -1.23348, 0)
+Marker: 2412
+Position: (1.9297, -0.525607, 0)
+Marker: 2413
+Position: (1, 2, 0)
+Marker: 2414
+Position: (1.63401, -1.15325, 0)
+Marker: 2415
+Position: (1.95356, -0.428505, 0)
+Marker: 2416
+Position: (1.68961, -1.07015, 0)
+Marker: 2417
+Position: (1.97253, -0.330332, 0)
+Marker: 2418
+Position: (1.74098, -0.984363, 0)
+Marker: 2419
+Position: (1.98658, -0.231334, 0)
+Marker: 2420
+Position: (1.78801, -0.89612, 0)
+Marker: 2421
+Position: (1.99566, -0.131758, 0)
+Marker: 2422
+Position: (1.83056, -0.805637, 0)
+Marker: 2423
+Position: (1.99975, -0.0318517, 0)
+Marker: 2424
+Position: (1.86854, -0.713141, 0)
+Marker: 2425
+Position: (1.99884, 0.0681337, 0)
+Marker: 2426
+Position: (1.90184, -0.618861, 0)
+Marker: 2427
+Position: (1.99294, 0.167949, 0)
+Marker: 2428
+Position: (1.9304, -0.523035, 0)
+Marker: 2429
+Position: (1.98205, 0.267344, 0)

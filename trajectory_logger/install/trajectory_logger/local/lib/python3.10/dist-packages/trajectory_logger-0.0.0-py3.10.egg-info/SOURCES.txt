@@ -1,0 +1,1 @@
+/home/jayanth/trajectory_logger/build/trajectory_logger/ament_cmake_python/trajectory_logger/trajectory_logger.egg-info/SOURCES.txt

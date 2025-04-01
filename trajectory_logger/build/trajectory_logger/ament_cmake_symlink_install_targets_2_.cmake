@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/jayanth/trajectory_logger/build/trajectory_logger/rosidl_generator_py/trajectory_logger/trajectory_logger_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" "TARGETS" "trajectory_logger__rosidl_typesupport_c__pyext" "DESTINATION" "local/lib/python3.10/dist-packages/trajectory_logger")

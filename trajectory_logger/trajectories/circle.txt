@@ -1,0 +1,94 @@
+Trajectory saved at: 1743534255
+Duration: 10 seconds
+Total points: 45
+---
+Marker: 0
+Position: (2, 0, 0)
+Marker: 1
+Position: (1.9975, 0.0999583, 0)
+Marker: 2
+Position: (1.99001, 0.199667, 0)
+Marker: 3
+Position: (1.97754, 0.298876, 0)
+Marker: 4
+Position: (1.96013, 0.397339, 0)
+Marker: 5
+Position: (1.93782, 0.494808, 0)
+Marker: 6
+Position: (1.91067, 0.59104, 0)
+Marker: 7
+Position: (1.87875, 0.685796, 0)
+Marker: 8
+Position: (1.84212, 0.778837, 0)
+Marker: 9
+Position: (1.80089, 0.869931, 0)
+Marker: 10
+Position: (1.75517, 0.958851, 0)
+Marker: 11
+Position: (1.70505, 1.04537, 0)
+Marker: 12
+Position: (1.65067, 1.12928, 0)
+Marker: 13
+Position: (1.59217, 1.21037, 0)
+Marker: 14
+Position: (1.52968, 1.28844, 0)
+Marker: 15
+Position: (1.46338, 1.36328, 0)
+Marker: 16
+Position: (1.39341, 1.43471, 0)
+Marker: 17
+Position: (1.31997, 1.50256, 0)
+Marker: 18
+Position: (1.24322, 1.56665, 0)
+Marker: 19
+Position: (1.16337, 1.62683, 0)
+Marker: 20
+Position: (1.0806, 1.68294, 0)
+Marker: 21
+Position: (0.995142, 1.73485, 0)
+Marker: 22
+Position: (0.907192, 1.78241, 0)
+Marker: 23
+Position: (0.816975, 1.82553, 0)
+Marker: 24
+Position: (0.724716, 1.86408, 0)
+Marker: 25
+Position: (0.630645, 1.89797, 0)
+Marker: 26
+Position: (0.534998, 1.92712, 0)
+Marker: 27
+Position: (0.438013, 1.95145, 0)
+Marker: 28
+Position: (0.339934, 1.9709, 0)
+Marker: 29
+Position: (0.241006, 1.98543, 0)
+Marker: 30
+Position: (0.141474, 1.99499, 0)
+Marker: 31
+Position: (0.0415897, 1.99957, 0)
+Marker: 32
+Position: (-0.058399, 1.99915, 0)
+Marker: 33
+Position: (-0.158242, 1.99373, 0)
+Marker: 34
+Position: (-0.257689, 1.98333, 0)
+Marker: 35
+Position: (-0.356492, 1.96797, 0)
+Marker: 36
+Position: (-0.454404, 1.9477, 0)
+Marker: 37
+Position: (-0.55118, 1.92255, 0)
+Marker: 38
+Position: (-0.646579, 1.8926, 0)
+Marker: 39
+Position: (-0.740362, 1.85792, 0)
+Marker: 40
+Position: (-0.832294, 1.81859, 0)
+Marker: 41
+Position: (-0.922145, 1.77472, 0)
+Marker: 42
+Position: (-1.00969, 1.72642, 0)
+Marker: 43
+Position: (-1.09472, 1.6738, 0)
+Marker: 44
+Position: (-1.177, 1.61699, 0)

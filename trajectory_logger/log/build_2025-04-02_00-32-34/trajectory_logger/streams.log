@@ -1,0 +1,240 @@
+[0.026s] Invoking command in '/home/jayanth/trajectory_logger/build/trajectory_logger': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/jayanth/trajectory_logger -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/jayanth/trajectory_logger/install/trajectory_logger
+[0.223s] -- The C compiler identification is GNU 11.4.0
+[0.731s] -- The CXX compiler identification is GNU 11.4.0
+[1.052s] -- Detecting C compiler ABI info
+[1.212s] -- Detecting C compiler ABI info - done
+[1.221s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.221s] -- Detecting C compile features
+[1.222s] -- Detecting C compile features - done
+[1.225s] -- Detecting CXX compiler ABI info
+[1.412s] -- Detecting CXX compiler ABI info - done
+[1.423s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.423s] -- Detecting CXX compile features
+[1.424s] -- Detecting CXX compile features - done
+[1.428s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.678s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.762s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.806s] -- Found rclcpp: 16.0.11 (/opt/ros/humble/share/rclcpp/cmake)
+[2.066s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[2.074s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.085s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[2.101s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.125s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.184s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[2.188s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[3.622s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[5.152s] -- Found FastRTPS: /opt/ros/humble/include  
+[7.967s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[7.978s] -- Looking for pthread.h
+[8.170s] -- Looking for pthread.h - found
+[8.171s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[8.334s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[8.336s] -- Found Threads: TRUE  
+[8.406s] -- Found nav_msgs: 4.2.4 (/opt/ros/humble/share/nav_msgs/cmake)
+[8.447s] -- Found visualization_msgs: 4.2.4 (/opt/ros/humble/share/visualization_msgs/cmake)
+[8.497s] -- Found tf2: 0.25.12 (/opt/ros/humble/share/tf2/cmake)
+[8.511s] -- Found tf2_ros: 0.25.12 (/opt/ros/humble/share/tf2_ros/cmake)
+[8.624s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[9.060s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[9.622s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[9.829s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[9.974s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[9.976s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[10.404s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[10.404s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[10.404s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[10.404s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[10.441s] -- Found PythonExtra: .so  
+[10.574s] -- Configuring done
+[10.697s] -- Generating done
+[10.728s] -- Build files have been written to: /home/jayanth/trajectory_logger/build/trajectory_logger
+[10.750s] Invoked command in '/home/jayanth/trajectory_logger/build/trajectory_logger' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/jayanth/trajectory_logger -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/jayanth/trajectory_logger/install/trajectory_logger
+[10.754s] Invoking command in '/home/jayanth/trajectory_logger/build/trajectory_logger': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jayanth/trajectory_logger/build/trajectory_logger -- -j8 -l8
+[10.803s] [  2%] [34m[1mGenerating C code for ROS interfaces[0m
+[10.814s] [  5%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[10.817s] [  8%] [32mBuilding CXX object CMakeFiles/test_odom_publisher.dir/src/test_odom_publisher.cpp.o[0m
+[10.827s] [  8%] Built target ament_cmake_python_symlink_trajectory_logger
+[11.329s] running egg_info
+[11.330s] creating trajectory_logger.egg-info
+[11.331s] writing trajectory_logger.egg-info/PKG-INFO
+[11.332s] writing dependency_links to trajectory_logger.egg-info/dependency_links.txt
+[11.332s] writing top-level names to trajectory_logger.egg-info/top_level.txt
+[11.333s] writing manifest file 'trajectory_logger.egg-info/SOURCES.txt'
+[11.337s] reading manifest file 'trajectory_logger.egg-info/SOURCES.txt'
+[11.338s] writing manifest file 'trajectory_logger.egg-info/SOURCES.txt'
+[11.368s] [ 10%] [32mBuilding C object CMakeFiles/trajectory_logger__rosidl_generator_c.dir/rosidl_generator_c/trajectory_logger/srv/detail/save_trajectory__functions.c.o[0m
+[11.407s] [ 10%] Built target ament_cmake_python_build_trajectory_logger_egg
+[11.417s] [ 10%] Built target trajectory_logger__cpp
+[11.431s] [ 13%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[11.433s] [ 16%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[11.435s] [ 18%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[11.485s] [ 21%] [32m[1mLinking C shared library libtrajectory_logger__rosidl_generator_c.so[0m
+[11.673s] [ 21%] Built target trajectory_logger__rosidl_generator_c
+[11.705s] [ 24%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[11.707s] [ 27%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[11.708s] [ 29%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[12.082s] [ 32%] [32mBuilding CXX object CMakeFiles/trajectory_logger__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/trajectory_logger/srv/save_trajectory__type_support.cpp.o[0m
+[12.131s] [ 35%] [32mBuilding CXX object CMakeFiles/trajectory_logger__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/trajectory_logger/srv/detail/save_trajectory__type_support.cpp.o[0m
+[12.159s] [ 37%] [32mBuilding CXX object CMakeFiles/trajectory_logger__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/trajectory_logger/srv/detail/dds_fastrtps/save_trajectory__type_support.cpp.o[0m
+[12.421s] [ 40%] [32mBuilding CXX object CMakeFiles/trajectory_logger__rosidl_typesupport_c.dir/rosidl_typesupport_c/trajectory_logger/srv/save_trajectory__type_support.cpp.o[0m
+[12.488s] [ 43%] [32mBuilding C object CMakeFiles/trajectory_logger__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/trajectory_logger/srv/detail/save_trajectory__type_support.c.o[0m
+[12.501s] [ 45%] [32m[1mLinking CXX shared library libtrajectory_logger__rosidl_typesupport_c.so[0m
+[12.526s] [ 48%] [32mBuilding CXX object CMakeFiles/trajectory_logger__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/trajectory_logger/srv/detail/save_trajectory__type_support_c.cpp.o[0m
+[12.582s] [ 51%] [32m[1mLinking C shared library libtrajectory_logger__rosidl_typesupport_introspection_c.so[0m
+[12.763s] [ 51%] Built target trajectory_logger__rosidl_typesupport_c
+[12.814s] [ 54%] [32m[1mLinking CXX shared library libtrajectory_logger__rosidl_typesupport_cpp.so[0m
+[12.892s] [ 54%] Built target trajectory_logger__rosidl_typesupport_introspection_c
+[13.079s] [ 54%] Built target trajectory_logger__rosidl_typesupport_cpp
+[13.119s] [ 56%] [32mBuilding CXX object CMakeFiles/trajectory_publisher_saver.dir/src/trajectory_publisher_saver.cpp.o[0m
+[13.124s] [ 59%] [32mBuilding CXX object CMakeFiles/trajectory_reader_publisher.dir/src/trajectory_reader_publisher.cpp.o[0m
+[13.165s] [ 62%] [32m[1mLinking CXX shared library libtrajectory_logger__rosidl_typesupport_introspection_cpp.so[0m
+[13.231s] [ 64%] [32m[1mLinking CXX shared library libtrajectory_logger__rosidl_typesupport_fastrtps_cpp.so[0m
+[13.362s] [ 67%] [32m[1mLinking CXX shared library libtrajectory_logger__rosidl_typesupport_fastrtps_c.so[0m
+[13.447s] [ 67%] Built target trajectory_logger__rosidl_typesupport_introspection_cpp
+[13.553s] [ 67%] Built target trajectory_logger__rosidl_typesupport_fastrtps_cpp
+[13.679s] [ 67%] Built target trajectory_logger__rosidl_typesupport_fastrtps_c
+[13.714s] [ 67%] Built target trajectory_logger
+[13.746s] [ 70%] [34m[1mGenerating Python code for ROS interfaces[0m
+[14.704s] [ 70%] Built target trajectory_logger__py
+[14.741s] [ 72%] [32mBuilding C object CMakeFiles/trajectory_logger__rosidl_generator_py.dir/rosidl_generator_py/trajectory_logger/srv/_save_trajectory_s.c.o[0m
+[14.945s] [ 75%] [32m[1mLinking C shared library rosidl_generator_py/trajectory_logger/libtrajectory_logger__rosidl_generator_py.so[0m
+[15.173s] [ 75%] Built target trajectory_logger__rosidl_generator_py
+[15.207s] [ 81%] [32mBuilding C object CMakeFiles/trajectory_logger__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/trajectory_logger/_trajectory_logger_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[15.207s] [ 81%] [32mBuilding C object CMakeFiles/trajectory_logger__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/trajectory_logger/_trajectory_logger_s.ep.rosidl_typesupport_c.c.o[0m
+[15.209s] [ 83%] [32mBuilding C object CMakeFiles/trajectory_logger__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/trajectory_logger/_trajectory_logger_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[15.442s] [ 86%] [32m[1mLinking C shared library rosidl_generator_py/trajectory_logger/trajectory_logger_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[15.445s] [ 89%] [32m[1mLinking C shared library rosidl_generator_py/trajectory_logger/trajectory_logger_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[15.456s] [ 91%] [32m[1mLinking C shared library rosidl_generator_py/trajectory_logger/trajectory_logger_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[15.627s] [ 91%] Built target trajectory_logger__rosidl_typesupport_fastrtps_c__pyext
+[15.635s] [ 91%] Built target trajectory_logger__rosidl_typesupport_introspection_c__pyext
+[15.729s] [ 91%] Built target trajectory_logger__rosidl_typesupport_c__pyext
+[20.624s] [ 94%] [32m[1mLinking CXX executable test_odom_publisher[0m
+[21.210s] [ 94%] Built target test_odom_publisher
+[22.289s] [ 97%] [32m[1mLinking CXX executable trajectory_reader_publisher[0m
+[22.732s] [ 97%] Built target trajectory_reader_publisher
+[29.085s] [100%] [32m[1mLinking CXX executable trajectory_publisher_saver[0m
+[30.003s] [100%] Built target trajectory_publisher_saver
+[30.019s] Invoked command in '/home/jayanth/trajectory_logger/build/trajectory_logger' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jayanth/trajectory_logger/build/trajectory_logger -- -j8 -l8
+[30.032s] Invoking command in '/home/jayanth/trajectory_logger/build/trajectory_logger': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jayanth/trajectory_logger/build/trajectory_logger
+[30.040s] -- Install configuration: ""
+[30.041s] -- Execute custom install script
+[30.043s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/ament_index/resource_index/rosidl_interfaces/trajectory_logger
+[30.056s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/msg/rosidl_generator_c__visibility_control.h
+[30.067s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/srv/detail/save_trajectory__functions.h
+[30.078s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/srv/detail/save_trajectory__struct.h
+[30.089s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/srv/detail/save_trajectory__type_support.h
+[30.100s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/srv/save_trajectory.h
+[30.112s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/environment/library_path.sh
+[30.123s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/environment/library_path.dsv
+[30.135s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[30.145s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/srv/detail/save_trajectory__rosidl_typesupport_fastrtps_c.h
+[30.156s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/msg/rosidl_generator_cpp__visibility_control.hpp
+[30.167s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/srv/detail/save_trajectory__builder.hpp
+[30.177s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/srv/detail/save_trajectory__struct.hpp
+[30.187s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/srv/detail/save_trajectory__traits.hpp
+[30.197s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/srv/detail/save_trajectory__type_support.hpp
+[30.208s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/srv/save_trajectory.hpp
+[30.218s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[30.228s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/srv/detail/save_trajectory__rosidl_typesupport_fastrtps_cpp.hpp
+[30.239s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[30.248s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/srv/detail/save_trajectory__rosidl_typesupport_introspection_c.h
+[30.259s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/srv/detail/save_trajectory__rosidl_typesupport_introspection_cpp.hpp
+[30.272s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/environment/pythonpath.sh
+[30.283s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/environment/pythonpath.dsv
+[30.295s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger-0.0.0-py3.10.egg-info/PKG-INFO
+[30.306s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger-0.0.0-py3.10.egg-info/SOURCES.txt
+[30.316s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger-0.0.0-py3.10.egg-info/dependency_links.txt
+[30.326s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger-0.0.0-py3.10.egg-info/top_level.txt
+[30.338s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/__init__.py
+[30.348s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/_trajectory_logger_s.ep.rosidl_typesupport_c.c
+[30.359s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/_trajectory_logger_s.ep.rosidl_typesupport_fastrtps_c.c
+[30.370s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/_trajectory_logger_s.ep.rosidl_typesupport_introspection_c.c
+[30.381s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/libtrajectory_logger__rosidl_generator_py.so
+[30.391s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/srv/__init__.py
+[30.402s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/srv/_save_trajectory.py
+[30.412s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/srv/_save_trajectory_s.c
+[30.422s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/trajectory_logger_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[30.434s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/trajectory_logger_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[30.444s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/trajectory_logger_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[30.454s] -- Up-to-date symlink: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/trajectory_logger_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[30.455s] -- Up-to-date symlink: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/trajectory_logger_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[30.455s] -- Up-to-date symlink: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/trajectory_logger_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[30.456s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/srv/SaveTrajectory.idl
+[30.467s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/srv/SaveTrajectory.srv
+[30.477s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/srv/SaveTrajectory_Request.msg
+[30.487s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/srv/SaveTrajectory_Response.msg
+[30.499s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_publisher_saver.hpp
+[30.509s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_reader_publisher.hpp
+[30.520s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/lib/trajectory_logger/trajectory_publisher_saver
+[30.530s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/lib/trajectory_logger/trajectory_reader_publisher
+[30.540s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/lib/trajectory_logger/test_odom_publisher
+[30.552s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/launch/trajectory_logger_launch.py
+[30.563s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/trajectories/demo_trajectory.txt
+[30.573s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/trajectories/test_trajectory.txt
+[30.584s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/ament_index/resource_index/package_run_dependencies/trajectory_logger
+[30.595s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/ament_index/resource_index/parent_prefix_path/trajectory_logger
+[30.606s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/environment/ament_prefix_path.sh
+[30.617s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/environment/ament_prefix_path.dsv
+[30.627s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/environment/path.sh
+[30.638s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/environment/path.dsv
+[30.649s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/local_setup.bash
+[30.660s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/local_setup.sh
+[30.672s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/local_setup.zsh
+[30.683s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/local_setup.dsv
+[30.694s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/package.dsv
+[30.705s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/ament_index/resource_index/packages/trajectory_logger
+[30.718s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/rosidl_cmake-extras.cmake
+[30.732s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/ament_cmake_export_dependencies-extras.cmake
+[30.742s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/ament_cmake_export_include_directories-extras.cmake
+[30.754s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/ament_cmake_export_libraries-extras.cmake
+[30.766s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/ament_cmake_export_targets-extras.cmake
+[30.777s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[30.788s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[30.799s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/trajectory_loggerConfig.cmake
+[30.809s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/trajectory_loggerConfig-version.cmake
+[30.820s] -- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/package.xml
+[30.829s] -- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/lib/libtrajectory_logger__rosidl_generator_c.so
+[30.830s] -- Set runtime path of "/home/jayanth/trajectory_logger/install/trajectory_logger/lib/libtrajectory_logger__rosidl_generator_c.so" to ""
+[30.830s] -- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/lib/libtrajectory_logger__rosidl_typesupport_fastrtps_c.so
+[30.831s] -- Set runtime path of "/home/jayanth/trajectory_logger/install/trajectory_logger/lib/libtrajectory_logger__rosidl_typesupport_fastrtps_c.so" to ""
+[30.831s] -- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/lib/libtrajectory_logger__rosidl_typesupport_fastrtps_cpp.so
+[30.832s] -- Set runtime path of "/home/jayanth/trajectory_logger/install/trajectory_logger/lib/libtrajectory_logger__rosidl_typesupport_fastrtps_cpp.so" to ""
+[30.832s] -- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/lib/libtrajectory_logger__rosidl_typesupport_introspection_c.so
+[30.833s] -- Set runtime path of "/home/jayanth/trajectory_logger/install/trajectory_logger/lib/libtrajectory_logger__rosidl_typesupport_introspection_c.so" to ""
+[30.834s] -- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/lib/libtrajectory_logger__rosidl_typesupport_c.so
+[30.834s] -- Set runtime path of "/home/jayanth/trajectory_logger/install/trajectory_logger/lib/libtrajectory_logger__rosidl_typesupport_c.so" to ""
+[30.834s] -- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/lib/libtrajectory_logger__rosidl_typesupport_introspection_cpp.so
+[30.835s] -- Set runtime path of "/home/jayanth/trajectory_logger/install/trajectory_logger/lib/libtrajectory_logger__rosidl_typesupport_introspection_cpp.so" to ""
+[30.835s] -- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/lib/libtrajectory_logger__rosidl_typesupport_cpp.so
+[30.836s] -- Set runtime path of "/home/jayanth/trajectory_logger/install/trajectory_logger/lib/libtrajectory_logger__rosidl_typesupport_cpp.so" to ""
+[30.880s] Listing '/home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger'...
+[30.880s] Compiling '/home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/__init__.py'...
+[30.880s] Listing '/home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/srv'...
+[30.880s] Compiling '/home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/srv/__init__.py'...
+[30.880s] Compiling '/home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/srv/_save_trajectory.py'...
+[30.888s] -- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/lib/libtrajectory_logger__rosidl_generator_py.so
+[30.889s] -- Set runtime path of "/home/jayanth/trajectory_logger/install/trajectory_logger/lib/libtrajectory_logger__rosidl_generator_py.so" to ""
+[30.889s] -- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/config
+[30.890s] -- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/config/trajectory_logger.rviz
+[30.890s] -- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/config/params.yaml
+[30.890s] -- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/lib/trajectory_logger/scripts
+[30.891s] -- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/lib/trajectory_logger/scripts/tmux.conf
+[30.891s] -- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/lib/trajectory_logger/scripts/run_demo.sh
+[30.892s] -- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/export_trajectory_logger__rosidl_generator_cExport.cmake
+[30.892s] -- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/export_trajectory_logger__rosidl_generator_cExport-noconfig.cmake
+[30.893s] -- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/export_trajectory_logger__rosidl_typesupport_fastrtps_cExport.cmake
+[30.893s] -- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/export_trajectory_logger__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[30.893s] -- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/export_trajectory_logger__rosidl_generator_cppExport.cmake
+[30.894s] -- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/export_trajectory_logger__rosidl_typesupport_fastrtps_cppExport.cmake
+[30.894s] -- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/export_trajectory_logger__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[30.894s] -- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/trajectory_logger__rosidl_typesupport_introspection_cExport.cmake
+[30.894s] -- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/trajectory_logger__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[30.894s] -- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/trajectory_logger__rosidl_typesupport_cExport.cmake
+[30.895s] -- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/trajectory_logger__rosidl_typesupport_cExport-noconfig.cmake
+[30.895s] -- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/trajectory_logger__rosidl_typesupport_introspection_cppExport.cmake
+[30.895s] -- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/trajectory_logger__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[30.895s] -- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/trajectory_logger__rosidl_typesupport_cppExport.cmake
+[30.895s] -- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/trajectory_logger__rosidl_typesupport_cppExport-noconfig.cmake
+[30.896s] -- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/export_trajectory_logger__rosidl_generator_pyExport.cmake
+[30.896s] -- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/export_trajectory_logger__rosidl_generator_pyExport-noconfig.cmake
+[30.900s] Invoked command in '/home/jayanth/trajectory_logger/build/trajectory_logger' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jayanth/trajectory_logger/build/trajectory_logger

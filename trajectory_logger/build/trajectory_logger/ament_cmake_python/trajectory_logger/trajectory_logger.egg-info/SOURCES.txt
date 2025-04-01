@@ -1,0 +1,6 @@
+setup.py
+trajectory_logger/__init__.py
+trajectory_logger.egg-info/PKG-INFO
+trajectory_logger.egg-info/SOURCES.txt
+trajectory_logger.egg-info/dependency_links.txt
+trajectory_logger.egg-info/top_level.txt

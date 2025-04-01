@@ -1,0 +1,4 @@
+srv/SaveTrajectory.idl
+srv/SaveTrajectory.srv
+srv/SaveTrajectory_Request.msg
+srv/SaveTrajectory_Response.msg

@@ -1,0 +1,4 @@
+source;share/trajectory_logger/environment/ament_prefix_path.sh
+source;share/trajectory_logger/environment/library_path.sh
+source;share/trajectory_logger/environment/path.sh
+source;share/trajectory_logger/environment/pythonpath.sh

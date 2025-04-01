@@ -1,0 +1,555 @@
+[0.000000] (-) TimerEvent: {}
+[0.001290] (trajectory_logger) JobQueued: {'identifier': 'trajectory_logger', 'dependencies': OrderedDict()}
+[0.002273] (trajectory_logger) JobStarted: {'identifier': 'trajectory_logger'}
+[0.016733] (trajectory_logger) JobProgress: {'identifier': 'trajectory_logger', 'progress': 'cmake'}
+[0.021189] (trajectory_logger) Command: {'cmd': ['/usr/bin/cmake', '/home/jayanth/trajectory_logger', '-DAMENT_CMAKE_SYMLINK_INSTALL=1', '-DCMAKE_INSTALL_PREFIX=/home/jayanth/trajectory_logger/install/trajectory_logger'], 'cwd': '/home/jayanth/trajectory_logger/build/trajectory_logger', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('USER', 'jayanth'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/home/jayanth/trajectory_logger/install/trajectory_logger/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/home/jayanth'), ('OLDPWD', '/home/jayanth/trajectory_logger/scripts'), ('ROS_PYTHON_VERSION', '3'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('WSL_DISTRO_NAME', 'Ubuntu-22.04'), ('WAYLAND_DISPLAY', 'wayland-0'), ('COLCON_PREFIX_PATH', '/home/jayanth/trajectory_logger/install'), ('ROS_DISTRO', 'humble'), ('LOGNAME', 'jayanth'), ('NAME', 'DESKTOP-VI9TBLG'), ('WSL_INTEROP', '/run/WSL/60034_interop'), ('RAS_DOCKER_PATH', '/home/jayanth/original/ras_docker'), ('PULSE_SERVER', 'unix:/mnt/wslg/PulseServer'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('TERM', 'xterm-256color'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/opt/ros/humble/bin:/home/jayanth/original/ras_docker/scripts:/home/jayanth/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files/nodejs/:/mnt/c/ProgramData/chocolatey/bin:/mnt/c/Program Files/CMake/bin:/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/:/mnt/c/Program Files/Git/cmd:/Docker/host/bin:/mnt/f/cursor/resources/app/bin:/mnt/c/Users/jayu1/AppData/Local/Programs/Python/Python311/Scripts/:/mnt/c/Users/jayu1/AppData/Local/Programs/Python/Python311/:/mnt/c/Users/jayu1/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/jayu1/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/msys64/mingw64/bin:/mnt/c/Users/jayu1/AppData/Roaming/npm:/mnt/e/googletest-main/googletest/include/gtest:/mnt/f/cursor/resources/app/bin:/mnt/c/Users/jayu1/AppData/Local/Programs/Windsurf/bin:/snap/bin'), ('RAS', 'RAS'), ('XDG_RUNTIME_DIR', '/run/user/1000/'), ('DISPLAY', ':0'), ('LANG', 'C.UTF-8'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('AMENT_PREFIX_PATH', '/home/jayanth/trajectory_logger/install/trajectory_logger:/opt/ros/humble'), ('SHELL', '/bin/bash'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('PWD', '/home/jayanth/trajectory_logger/build/trajectory_logger'), ('XDG_DATA_DIRS', '/usr/local/share:/usr/share:/var/lib/snapd/desktop'), ('PYTHONPATH', '/home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('COLCON', '1'), ('WSL2_GUI_APPS_ENABLED', '1'), ('HOSTTYPE', 'x86_64'), ('CMAKE_PREFIX_PATH', '/home/jayanth/trajectory_logger/install/trajectory_logger:/opt/ros/humble'), ('WSLENV', '')]), 'shell': False}
+[0.098739] (-) TimerEvent: {}
+[0.199332] (-) TimerEvent: {}
+[0.225059] (trajectory_logger) StdoutLine: {'line': b'-- The C compiler identification is GNU 11.4.0\n'}
+[0.299496] (-) TimerEvent: {}
+[0.399931] (-) TimerEvent: {}
+[0.500355] (-) TimerEvent: {}
+[0.600843] (-) TimerEvent: {}
+[0.701428] (-) TimerEvent: {}
+[0.733277] (trajectory_logger) StdoutLine: {'line': b'-- The CXX compiler identification is GNU 11.4.0\n'}
+[0.801596] (-) TimerEvent: {}
+[0.902088] (-) TimerEvent: {}
+[1.002616] (-) TimerEvent: {}
+[1.053720] (trajectory_logger) StdoutLine: {'line': b'-- Detecting C compiler ABI info\n'}
+[1.102875] (-) TimerEvent: {}
+[1.203335] (-) TimerEvent: {}
+[1.214001] (trajectory_logger) StdoutLine: {'line': b'-- Detecting C compiler ABI info - done\n'}
+[1.222913] (trajectory_logger) StdoutLine: {'line': b'-- Check for working C compiler: /usr/bin/cc - skipped\n'}
+[1.223321] (trajectory_logger) StdoutLine: {'line': b'-- Detecting C compile features\n'}
+[1.223846] (trajectory_logger) StdoutLine: {'line': b'-- Detecting C compile features - done\n'}
+[1.227468] (trajectory_logger) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info\n'}
+[1.303542] (-) TimerEvent: {}
+[1.404119] (-) TimerEvent: {}
+[1.414396] (trajectory_logger) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info - done\n'}
+[1.424745] (trajectory_logger) StdoutLine: {'line': b'-- Check for working CXX compiler: /usr/bin/c++ - skipped\n'}
+[1.425186] (trajectory_logger) StdoutLine: {'line': b'-- Detecting CXX compile features\n'}
+[1.425932] (trajectory_logger) StdoutLine: {'line': b'-- Detecting CXX compile features - done\n'}
+[1.430096] (trajectory_logger) StdoutLine: {'line': b'-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)\n'}
+[1.504309] (-) TimerEvent: {}
+[1.604857] (-) TimerEvent: {}
+[1.680042] (trajectory_logger) StdoutLine: {'line': b'-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter \n'}
+[1.705065] (-) TimerEvent: {}
+[1.763610] (trajectory_logger) StdoutLine: {'line': b'-- Override CMake install command with custom implementation using symlinks instead of copying resources\n'}
+[1.805343] (-) TimerEvent: {}
+[1.808418] (trajectory_logger) StdoutLine: {'line': b'-- Found rclcpp: 16.0.11 (/opt/ros/humble/share/rclcpp/cmake)\n'}
+[1.905537] (-) TimerEvent: {}
+[2.006275] (-) TimerEvent: {}
+[2.067819] (trajectory_logger) StdoutLine: {'line': b'-- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)\n'}
+[2.076329] (trajectory_logger) StdoutLine: {'line': b'-- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)\n'}
+[2.087298] (trajectory_logger) StdoutLine: {'line': b'-- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)\n'}
+[2.102952] (trajectory_logger) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c\n'}
+[2.106408] (-) TimerEvent: {}
+[2.127281] (trajectory_logger) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp\n'}
+[2.186551] (trajectory_logger) StdoutLine: {'line': b'-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)\n'}
+[2.190019] (trajectory_logger) StdoutLine: {'line': b'-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)\n'}
+[2.206605] (-) TimerEvent: {}
+[2.307090] (-) TimerEvent: {}
+[2.407580] (-) TimerEvent: {}
+[2.508096] (-) TimerEvent: {}
+[2.608694] (-) TimerEvent: {}
+[2.709351] (-) TimerEvent: {}
+[2.809893] (-) TimerEvent: {}
+[2.910422] (-) TimerEvent: {}
+[3.010993] (-) TimerEvent: {}
+[3.111546] (-) TimerEvent: {}
+[3.212029] (-) TimerEvent: {}
+[3.312550] (-) TimerEvent: {}
+[3.413105] (-) TimerEvent: {}
+[3.513611] (-) TimerEvent: {}
+[3.614055] (-) TimerEvent: {}
+[3.623798] (trajectory_logger) StdoutLine: {'line': b'-- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  \n'}
+[3.714211] (-) TimerEvent: {}
+[3.814748] (-) TimerEvent: {}
+[3.915360] (-) TimerEvent: {}
+[4.015876] (-) TimerEvent: {}
+[4.116340] (-) TimerEvent: {}
+[4.216900] (-) TimerEvent: {}
+[4.317364] (-) TimerEvent: {}
+[4.417810] (-) TimerEvent: {}
+[4.518298] (-) TimerEvent: {}
+[4.618789] (-) TimerEvent: {}
+[4.719266] (-) TimerEvent: {}
+[4.819739] (-) TimerEvent: {}
+[4.920216] (-) TimerEvent: {}
+[5.020677] (-) TimerEvent: {}
+[5.121180] (-) TimerEvent: {}
+[5.153815] (trajectory_logger) StdoutLine: {'line': b'-- Found FastRTPS: /opt/ros/humble/include  \n'}
+[5.221380] (-) TimerEvent: {}
+[5.321866] (-) TimerEvent: {}
+[5.422307] (-) TimerEvent: {}
+[5.522894] (-) TimerEvent: {}
+[5.623357] (-) TimerEvent: {}
+[5.723939] (-) TimerEvent: {}
+[5.824410] (-) TimerEvent: {}
+[5.924935] (-) TimerEvent: {}
+[6.025401] (-) TimerEvent: {}
+[6.125931] (-) TimerEvent: {}
+[6.226571] (-) TimerEvent: {}
+[6.327069] (-) TimerEvent: {}
+[6.427594] (-) TimerEvent: {}
+[6.528061] (-) TimerEvent: {}
+[6.628586] (-) TimerEvent: {}
+[6.729084] (-) TimerEvent: {}
+[6.829543] (-) TimerEvent: {}
+[6.930040] (-) TimerEvent: {}
+[7.030513] (-) TimerEvent: {}
+[7.131025] (-) TimerEvent: {}
+[7.231463] (-) TimerEvent: {}
+[7.332002] (-) TimerEvent: {}
+[7.432498] (-) TimerEvent: {}
+[7.533095] (-) TimerEvent: {}
+[7.633652] (-) TimerEvent: {}
+[7.734114] (-) TimerEvent: {}
+[7.834615] (-) TimerEvent: {}
+[7.935102] (-) TimerEvent: {}
+[7.969110] (trajectory_logger) StdoutLine: {'line': b"-- Using RMW implementation 'rmw_fastrtps_cpp' as default\n"}
+[7.980453] (trajectory_logger) StdoutLine: {'line': b'-- Looking for pthread.h\n'}
+[8.035265] (-) TimerEvent: {}
+[8.135883] (-) TimerEvent: {}
+[8.172727] (trajectory_logger) StdoutLine: {'line': b'-- Looking for pthread.h - found\n'}
+[8.173362] (trajectory_logger) StdoutLine: {'line': b'-- Performing Test CMAKE_HAVE_LIBC_PTHREAD\n'}
+[8.236019] (-) TimerEvent: {}
+[8.336561] (trajectory_logger) StdoutLine: {'line': b'-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success\n'}
+[8.336796] (-) TimerEvent: {}
+[8.338498] (trajectory_logger) StdoutLine: {'line': b'-- Found Threads: TRUE  \n'}
+[8.407671] (trajectory_logger) StdoutLine: {'line': b'-- Found nav_msgs: 4.2.4 (/opt/ros/humble/share/nav_msgs/cmake)\n'}
+[8.437018] (-) TimerEvent: {}
+[8.449531] (trajectory_logger) StdoutLine: {'line': b'-- Found visualization_msgs: 4.2.4 (/opt/ros/humble/share/visualization_msgs/cmake)\n'}
+[8.498932] (trajectory_logger) StdoutLine: {'line': b'-- Found tf2: 0.25.12 (/opt/ros/humble/share/tf2/cmake)\n'}
+[8.513452] (trajectory_logger) StdoutLine: {'line': b'-- Found tf2_ros: 0.25.12 (/opt/ros/humble/share/tf2_ros/cmake)\n'}
+[8.537222] (-) TimerEvent: {}
+[8.626147] (trajectory_logger) StdoutLine: {'line': b'-- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)\n'}
+[8.637397] (-) TimerEvent: {}
+[8.737788] (-) TimerEvent: {}
+[8.838281] (-) TimerEvent: {}
+[8.939113] (-) TimerEvent: {}
+[9.039677] (-) TimerEvent: {}
+[9.062196] (trajectory_logger) StdoutLine: {'line': b'-- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)\n'}
+[9.139887] (-) TimerEvent: {}
+[9.240386] (-) TimerEvent: {}
+[9.340947] (-) TimerEvent: {}
+[9.441403] (-) TimerEvent: {}
+[9.542020] (-) TimerEvent: {}
+[9.623968] (trajectory_logger) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c\n'}
+[9.642175] (-) TimerEvent: {}
+[9.742613] (-) TimerEvent: {}
+[9.831313] (trajectory_logger) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp\n'}
+[9.842738] (-) TimerEvent: {}
+[9.943261] (-) TimerEvent: {}
+[9.976033] (trajectory_logger) StdoutLine: {'line': b'-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") \n'}
+[9.978342] (trajectory_logger) StdoutLine: {'line': b'-- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)\n'}
+[10.043377] (-) TimerEvent: {}
+[10.143789] (-) TimerEvent: {}
+[10.244156] (-) TimerEvent: {}
+[10.344588] (-) TimerEvent: {}
+[10.406280] (trajectory_logger) StdoutLine: {'line': b'-- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") \n'}
+[10.406614] (trajectory_logger) StdoutLine: {'line': b'-- Using PYTHON_EXECUTABLE: /usr/bin/python3\n'}
+[10.406717] (trajectory_logger) StdoutLine: {'line': b'-- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10\n'}
+[10.406795] (trajectory_logger) StdoutLine: {'line': b'-- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so\n'}
+[10.443206] (trajectory_logger) StdoutLine: {'line': b'-- Found PythonExtra: .so  \n'}
+[10.444736] (-) TimerEvent: {}
+[10.545179] (-) TimerEvent: {}
+[10.576266] (trajectory_logger) StdoutLine: {'line': b'-- Configuring done\n'}
+[10.645361] (-) TimerEvent: {}
+[10.699574] (trajectory_logger) StdoutLine: {'line': b'-- Generating done\n'}
+[10.730335] (trajectory_logger) StdoutLine: {'line': b'-- Build files have been written to: /home/jayanth/trajectory_logger/build/trajectory_logger\n'}
+[10.745490] (-) TimerEvent: {}
+[10.751831] (trajectory_logger) CommandEnded: {'returncode': 0}
+[10.754731] (trajectory_logger) JobProgress: {'identifier': 'trajectory_logger', 'progress': 'build'}
+[10.755190] (trajectory_logger) Command: {'cmd': ['/usr/bin/cmake', '--build', '/home/jayanth/trajectory_logger/build/trajectory_logger', '--', '-j8', '-l8'], 'cwd': '/home/jayanth/trajectory_logger/build/trajectory_logger', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('USER', 'jayanth'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/home/jayanth/trajectory_logger/install/trajectory_logger/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/home/jayanth'), ('OLDPWD', '/home/jayanth/trajectory_logger/scripts'), ('ROS_PYTHON_VERSION', '3'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('WSL_DISTRO_NAME', 'Ubuntu-22.04'), ('WAYLAND_DISPLAY', 'wayland-0'), ('COLCON_PREFIX_PATH', '/home/jayanth/trajectory_logger/install'), ('ROS_DISTRO', 'humble'), ('LOGNAME', 'jayanth'), ('NAME', 'DESKTOP-VI9TBLG'), ('WSL_INTEROP', '/run/WSL/60034_interop'), ('RAS_DOCKER_PATH', '/home/jayanth/original/ras_docker'), ('PULSE_SERVER', 'unix:/mnt/wslg/PulseServer'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('TERM', 'xterm-256color'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/opt/ros/humble/bin:/home/jayanth/original/ras_docker/scripts:/home/jayanth/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files/nodejs/:/mnt/c/ProgramData/chocolatey/bin:/mnt/c/Program Files/CMake/bin:/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/:/mnt/c/Program Files/Git/cmd:/Docker/host/bin:/mnt/f/cursor/resources/app/bin:/mnt/c/Users/jayu1/AppData/Local/Programs/Python/Python311/Scripts/:/mnt/c/Users/jayu1/AppData/Local/Programs/Python/Python311/:/mnt/c/Users/jayu1/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/jayu1/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/msys64/mingw64/bin:/mnt/c/Users/jayu1/AppData/Roaming/npm:/mnt/e/googletest-main/googletest/include/gtest:/mnt/f/cursor/resources/app/bin:/mnt/c/Users/jayu1/AppData/Local/Programs/Windsurf/bin:/snap/bin'), ('RAS', 'RAS'), ('XDG_RUNTIME_DIR', '/run/user/1000/'), ('DISPLAY', ':0'), ('LANG', 'C.UTF-8'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('AMENT_PREFIX_PATH', '/home/jayanth/trajectory_logger/install/trajectory_logger:/opt/ros/humble'), ('SHELL', '/bin/bash'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('PWD', '/home/jayanth/trajectory_logger/build/trajectory_logger'), ('XDG_DATA_DIRS', '/usr/local/share:/usr/share:/var/lib/snapd/desktop'), ('PYTHONPATH', '/home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('COLCON', '1'), ('WSL2_GUI_APPS_ENABLED', '1'), ('HOSTTYPE', 'x86_64'), ('CMAKE_PREFIX_PATH', '/home/jayanth/trajectory_logger/install/trajectory_logger:/opt/ros/humble'), ('WSLENV', '')]), 'shell': False}
+[10.804716] (trajectory_logger) StdoutLine: {'line': b'[  2%] \x1b[34m\x1b[1mGenerating C code for ROS interfaces\x1b[0m\n'}
+[10.815962] (trajectory_logger) StdoutLine: {'line': b'[  5%] \x1b[34m\x1b[1mGenerating C++ code for ROS interfaces\x1b[0m\n'}
+[10.819111] (trajectory_logger) StdoutLine: {'line': b'[  8%] \x1b[32mBuilding CXX object CMakeFiles/test_odom_publisher.dir/src/test_odom_publisher.cpp.o\x1b[0m\n'}
+[10.828962] (trajectory_logger) StdoutLine: {'line': b'[  8%] Built target ament_cmake_python_symlink_trajectory_logger\n'}
+[10.845639] (-) TimerEvent: {}
+[10.946152] (-) TimerEvent: {}
+[11.046685] (-) TimerEvent: {}
+[11.147206] (-) TimerEvent: {}
+[11.247639] (-) TimerEvent: {}
+[11.330921] (trajectory_logger) StdoutLine: {'line': b'running egg_info\n'}
+[11.331815] (trajectory_logger) StdoutLine: {'line': b'creating trajectory_logger.egg-info\n'}
+[11.333200] (trajectory_logger) StdoutLine: {'line': b'writing trajectory_logger.egg-info/PKG-INFO\n'}
+[11.333808] (trajectory_logger) StdoutLine: {'line': b'writing dependency_links to trajectory_logger.egg-info/dependency_links.txt\n'}
+[11.334257] (trajectory_logger) StdoutLine: {'line': b'writing top-level names to trajectory_logger.egg-info/top_level.txt\n'}
+[11.334829] (trajectory_logger) StdoutLine: {'line': b"writing manifest file 'trajectory_logger.egg-info/SOURCES.txt'\n"}
+[11.338712] (trajectory_logger) StdoutLine: {'line': b"reading manifest file 'trajectory_logger.egg-info/SOURCES.txt'\n"}
+[11.339915] (trajectory_logger) StdoutLine: {'line': b"writing manifest file 'trajectory_logger.egg-info/SOURCES.txt'\n"}
+[11.347823] (-) TimerEvent: {}
+[11.369975] (trajectory_logger) StdoutLine: {'line': b'[ 10%] \x1b[32mBuilding C object CMakeFiles/trajectory_logger__rosidl_generator_c.dir/rosidl_generator_c/trajectory_logger/srv/detail/save_trajectory__functions.c.o\x1b[0m\n'}
+[11.408834] (trajectory_logger) StdoutLine: {'line': b'[ 10%] Built target ament_cmake_python_build_trajectory_logger_egg\n'}
+[11.419315] (trajectory_logger) StdoutLine: {'line': b'[ 10%] Built target trajectory_logger__cpp\n'}
+[11.433331] (trajectory_logger) StdoutLine: {'line': b'[ 13%] \x1b[34m\x1b[1mGenerating C++ type support for eProsima Fast-RTPS\x1b[0m\n'}
+[11.434646] (trajectory_logger) StdoutLine: {'line': b'[ 16%] \x1b[34m\x1b[1mGenerating C++ introspection for ROS interfaces\x1b[0m\n'}
+[11.437045] (trajectory_logger) StdoutLine: {'line': b'[ 18%] \x1b[34m\x1b[1mGenerating C++ type support dispatch for ROS interfaces\x1b[0m\n'}
+[11.448026] (-) TimerEvent: {}
+[11.487312] (trajectory_logger) StdoutLine: {'line': b'[ 21%] \x1b[32m\x1b[1mLinking C shared library libtrajectory_logger__rosidl_generator_c.so\x1b[0m\n'}
+[11.548201] (-) TimerEvent: {}
+[11.649503] (-) TimerEvent: {}
+[11.675069] (trajectory_logger) StdoutLine: {'line': b'[ 21%] Built target trajectory_logger__rosidl_generator_c\n'}
+[11.706906] (trajectory_logger) StdoutLine: {'line': b'[ 24%] \x1b[34m\x1b[1mGenerating C type support dispatch for ROS interfaces\x1b[0m\n'}
+[11.708726] (trajectory_logger) StdoutLine: {'line': b'[ 27%] \x1b[34m\x1b[1mGenerating C type support for eProsima Fast-RTPS\x1b[0m\n'}
+[11.710492] (trajectory_logger) StdoutLine: {'line': b'[ 29%] \x1b[34m\x1b[1mGenerating C introspection for ROS interfaces\x1b[0m\n'}
+[11.749779] (-) TimerEvent: {}
+[11.850281] (-) TimerEvent: {}
+[11.950776] (-) TimerEvent: {}
+[12.051230] (-) TimerEvent: {}
+[12.084251] (trajectory_logger) StdoutLine: {'line': b'[ 32%] \x1b[32mBuilding CXX object CMakeFiles/trajectory_logger__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/trajectory_logger/srv/save_trajectory__type_support.cpp.o\x1b[0m\n'}
+[12.132779] (trajectory_logger) StdoutLine: {'line': b'[ 35%] \x1b[32mBuilding CXX object CMakeFiles/trajectory_logger__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/trajectory_logger/srv/detail/save_trajectory__type_support.cpp.o\x1b[0m\n'}
+[12.151362] (-) TimerEvent: {}
+[12.161047] (trajectory_logger) StdoutLine: {'line': b'[ 37%] \x1b[32mBuilding CXX object CMakeFiles/trajectory_logger__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/trajectory_logger/srv/detail/dds_fastrtps/save_trajectory__type_support.cpp.o\x1b[0m\n'}
+[12.251491] (-) TimerEvent: {}
+[12.352184] (-) TimerEvent: {}
+[12.423204] (trajectory_logger) StdoutLine: {'line': b'[ 40%] \x1b[32mBuilding CXX object CMakeFiles/trajectory_logger__rosidl_typesupport_c.dir/rosidl_typesupport_c/trajectory_logger/srv/save_trajectory__type_support.cpp.o\x1b[0m\n'}
+[12.452883] (-) TimerEvent: {}
+[12.489709] (trajectory_logger) StdoutLine: {'line': b'[ 43%] \x1b[32mBuilding C object CMakeFiles/trajectory_logger__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/trajectory_logger/srv/detail/save_trajectory__type_support.c.o\x1b[0m\n'}
+[12.502724] (trajectory_logger) StdoutLine: {'line': b'[ 45%] \x1b[32m\x1b[1mLinking CXX shared library libtrajectory_logger__rosidl_typesupport_c.so\x1b[0m\n'}
+[12.528106] (trajectory_logger) StdoutLine: {'line': b'[ 48%] \x1b[32mBuilding CXX object CMakeFiles/trajectory_logger__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/trajectory_logger/srv/detail/save_trajectory__type_support_c.cpp.o\x1b[0m\n'}
+[12.553002] (-) TimerEvent: {}
+[12.584464] (trajectory_logger) StdoutLine: {'line': b'[ 51%] \x1b[32m\x1b[1mLinking C shared library libtrajectory_logger__rosidl_typesupport_introspection_c.so\x1b[0m\n'}
+[12.653195] (-) TimerEvent: {}
+[12.753748] (-) TimerEvent: {}
+[12.765239] (trajectory_logger) StdoutLine: {'line': b'[ 51%] Built target trajectory_logger__rosidl_typesupport_c\n'}
+[12.815965] (trajectory_logger) StdoutLine: {'line': b'[ 54%] \x1b[32m\x1b[1mLinking CXX shared library libtrajectory_logger__rosidl_typesupport_cpp.so\x1b[0m\n'}
+[12.854029] (-) TimerEvent: {}
+[12.894285] (trajectory_logger) StdoutLine: {'line': b'[ 54%] Built target trajectory_logger__rosidl_typesupport_introspection_c\n'}
+[12.954159] (-) TimerEvent: {}
+[13.055092] (-) TimerEvent: {}
+[13.081492] (trajectory_logger) StdoutLine: {'line': b'[ 54%] Built target trajectory_logger__rosidl_typesupport_cpp\n'}
+[13.121347] (trajectory_logger) StdoutLine: {'line': b'[ 56%] \x1b[32mBuilding CXX object CMakeFiles/trajectory_publisher_saver.dir/src/trajectory_publisher_saver.cpp.o\x1b[0m\n'}
+[13.125792] (trajectory_logger) StdoutLine: {'line': b'[ 59%] \x1b[32mBuilding CXX object CMakeFiles/trajectory_reader_publisher.dir/src/trajectory_reader_publisher.cpp.o\x1b[0m\n'}
+[13.155229] (-) TimerEvent: {}
+[13.166682] (trajectory_logger) StdoutLine: {'line': b'[ 62%] \x1b[32m\x1b[1mLinking CXX shared library libtrajectory_logger__rosidl_typesupport_introspection_cpp.so\x1b[0m\n'}
+[13.232810] (trajectory_logger) StdoutLine: {'line': b'[ 64%] \x1b[32m\x1b[1mLinking CXX shared library libtrajectory_logger__rosidl_typesupport_fastrtps_cpp.so\x1b[0m\n'}
+[13.255435] (-) TimerEvent: {}
+[13.355920] (-) TimerEvent: {}
+[13.363942] (trajectory_logger) StdoutLine: {'line': b'[ 67%] \x1b[32m\x1b[1mLinking CXX shared library libtrajectory_logger__rosidl_typesupport_fastrtps_c.so\x1b[0m\n'}
+[13.449587] (trajectory_logger) StdoutLine: {'line': b'[ 67%] Built target trajectory_logger__rosidl_typesupport_introspection_cpp\n'}
+[13.456107] (-) TimerEvent: {}
+[13.555027] (trajectory_logger) StdoutLine: {'line': b'[ 67%] Built target trajectory_logger__rosidl_typesupport_fastrtps_cpp\n'}
+[13.556270] (-) TimerEvent: {}
+[13.656804] (-) TimerEvent: {}
+[13.680875] (trajectory_logger) StdoutLine: {'line': b'[ 67%] Built target trajectory_logger__rosidl_typesupport_fastrtps_c\n'}
+[13.716063] (trajectory_logger) StdoutLine: {'line': b'[ 67%] Built target trajectory_logger\n'}
+[13.747714] (trajectory_logger) StdoutLine: {'line': b'[ 70%] \x1b[34m\x1b[1mGenerating Python code for ROS interfaces\x1b[0m\n'}
+[13.756978] (-) TimerEvent: {}
+[13.857528] (-) TimerEvent: {}
+[13.958165] (-) TimerEvent: {}
+[14.058761] (-) TimerEvent: {}
+[14.159379] (-) TimerEvent: {}
+[14.259937] (-) TimerEvent: {}
+[14.360485] (-) TimerEvent: {}
+[14.461111] (-) TimerEvent: {}
+[14.561680] (-) TimerEvent: {}
+[14.677822] (-) TimerEvent: {}
+[14.706155] (trajectory_logger) StdoutLine: {'line': b'[ 70%] Built target trajectory_logger__py\n'}
+[14.742781] (trajectory_logger) StdoutLine: {'line': b'[ 72%] \x1b[32mBuilding C object CMakeFiles/trajectory_logger__rosidl_generator_py.dir/rosidl_generator_py/trajectory_logger/srv/_save_trajectory_s.c.o\x1b[0m\n'}
+[14.778038] (-) TimerEvent: {}
+[14.878575] (-) TimerEvent: {}
+[14.946720] (trajectory_logger) StdoutLine: {'line': b'[ 75%] \x1b[32m\x1b[1mLinking C shared library rosidl_generator_py/trajectory_logger/libtrajectory_logger__rosidl_generator_py.so\x1b[0m\n'}
+[14.978830] (-) TimerEvent: {}
+[15.079502] (-) TimerEvent: {}
+[15.175098] (trajectory_logger) StdoutLine: {'line': b'[ 75%] Built target trajectory_logger__rosidl_generator_py\n'}
+[15.179783] (-) TimerEvent: {}
+[15.209113] (trajectory_logger) StdoutLine: {'line': b'[ 81%] \x1b[32mBuilding C object CMakeFiles/trajectory_logger__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/trajectory_logger/_trajectory_logger_s.ep.rosidl_typesupport_introspection_c.c.o\x1b[0m\n'}
+[15.209547] (trajectory_logger) StdoutLine: {'line': b'[ 81%] \x1b[32mBuilding C object CMakeFiles/trajectory_logger__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/trajectory_logger/_trajectory_logger_s.ep.rosidl_typesupport_c.c.o\x1b[0m\n'}
+[15.211295] (trajectory_logger) StdoutLine: {'line': b'[ 83%] \x1b[32mBuilding C object CMakeFiles/trajectory_logger__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/trajectory_logger/_trajectory_logger_s.ep.rosidl_typesupport_fastrtps_c.c.o\x1b[0m\n'}
+[15.280027] (-) TimerEvent: {}
+[15.380531] (-) TimerEvent: {}
+[15.444070] (trajectory_logger) StdoutLine: {'line': b'[ 86%] \x1b[32m\x1b[1mLinking C shared library rosidl_generator_py/trajectory_logger/trajectory_logger_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so\x1b[0m\n'}
+[15.446876] (trajectory_logger) StdoutLine: {'line': b'[ 89%] \x1b[32m\x1b[1mLinking C shared library rosidl_generator_py/trajectory_logger/trajectory_logger_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so\x1b[0m\n'}
+[15.457770] (trajectory_logger) StdoutLine: {'line': b'[ 91%] \x1b[32m\x1b[1mLinking C shared library rosidl_generator_py/trajectory_logger/trajectory_logger_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so\x1b[0m\n'}
+[15.480768] (-) TimerEvent: {}
+[15.581421] (-) TimerEvent: {}
+[15.629451] (trajectory_logger) StdoutLine: {'line': b'[ 91%] Built target trajectory_logger__rosidl_typesupport_fastrtps_c__pyext\n'}
+[15.637177] (trajectory_logger) StdoutLine: {'line': b'[ 91%] Built target trajectory_logger__rosidl_typesupport_introspection_c__pyext\n'}
+[15.681708] (-) TimerEvent: {}
+[15.730867] (trajectory_logger) StdoutLine: {'line': b'[ 91%] Built target trajectory_logger__rosidl_typesupport_c__pyext\n'}
+[15.781874] (-) TimerEvent: {}
+[15.882477] (-) TimerEvent: {}
+[15.983066] (-) TimerEvent: {}
+[16.083696] (-) TimerEvent: {}
+[16.184344] (-) TimerEvent: {}
+[16.284821] (-) TimerEvent: {}
+[16.385411] (-) TimerEvent: {}
+[16.486041] (-) TimerEvent: {}
+[16.586572] (-) TimerEvent: {}
+[16.687151] (-) TimerEvent: {}
+[16.787675] (-) TimerEvent: {}
+[16.888198] (-) TimerEvent: {}
+[16.988760] (-) TimerEvent: {}
+[17.089488] (-) TimerEvent: {}
+[17.190084] (-) TimerEvent: {}
+[17.290595] (-) TimerEvent: {}
+[17.391131] (-) TimerEvent: {}
+[17.491652] (-) TimerEvent: {}
+[17.592182] (-) TimerEvent: {}
+[17.692709] (-) TimerEvent: {}
+[17.793254] (-) TimerEvent: {}
+[17.893846] (-) TimerEvent: {}
+[17.994390] (-) TimerEvent: {}
+[18.094943] (-) TimerEvent: {}
+[18.195920] (-) TimerEvent: {}
+[18.296475] (-) TimerEvent: {}
+[18.397008] (-) TimerEvent: {}
+[18.497507] (-) TimerEvent: {}
+[18.598045] (-) TimerEvent: {}
+[18.698667] (-) TimerEvent: {}
+[18.799404] (-) TimerEvent: {}
+[18.899971] (-) TimerEvent: {}
+[19.000602] (-) TimerEvent: {}
+[19.101232] (-) TimerEvent: {}
+[19.201826] (-) TimerEvent: {}
+[19.302377] (-) TimerEvent: {}
+[19.403072] (-) TimerEvent: {}
+[19.503750] (-) TimerEvent: {}
+[19.604412] (-) TimerEvent: {}
+[19.704983] (-) TimerEvent: {}
+[19.805552] (-) TimerEvent: {}
+[19.906078] (-) TimerEvent: {}
+[20.006616] (-) TimerEvent: {}
+[20.107229] (-) TimerEvent: {}
+[20.207777] (-) TimerEvent: {}
+[20.308305] (-) TimerEvent: {}
+[20.408858] (-) TimerEvent: {}
+[20.509402] (-) TimerEvent: {}
+[20.609994] (-) TimerEvent: {}
+[20.626532] (trajectory_logger) StdoutLine: {'line': b'[ 94%] \x1b[32m\x1b[1mLinking CXX executable test_odom_publisher\x1b[0m\n'}
+[20.710159] (-) TimerEvent: {}
+[20.810783] (-) TimerEvent: {}
+[20.911376] (-) TimerEvent: {}
+[21.011874] (-) TimerEvent: {}
+[21.112403] (-) TimerEvent: {}
+[21.211772] (trajectory_logger) StdoutLine: {'line': b'[ 94%] Built target test_odom_publisher\n'}
+[21.212582] (-) TimerEvent: {}
+[21.313061] (-) TimerEvent: {}
+[21.413674] (-) TimerEvent: {}
+[21.514167] (-) TimerEvent: {}
+[21.614708] (-) TimerEvent: {}
+[21.715293] (-) TimerEvent: {}
+[21.815898] (-) TimerEvent: {}
+[21.916405] (-) TimerEvent: {}
+[22.017210] (-) TimerEvent: {}
+[22.117699] (-) TimerEvent: {}
+[22.218191] (-) TimerEvent: {}
+[22.290951] (trajectory_logger) StdoutLine: {'line': b'[ 97%] \x1b[32m\x1b[1mLinking CXX executable trajectory_reader_publisher\x1b[0m\n'}
+[22.318335] (-) TimerEvent: {}
+[22.418918] (-) TimerEvent: {}
+[22.519500] (-) TimerEvent: {}
+[22.620020] (-) TimerEvent: {}
+[22.720638] (-) TimerEvent: {}
+[22.734085] (trajectory_logger) StdoutLine: {'line': b'[ 97%] Built target trajectory_reader_publisher\n'}
+[22.820822] (-) TimerEvent: {}
+[22.921401] (-) TimerEvent: {}
+[23.021932] (-) TimerEvent: {}
+[23.122481] (-) TimerEvent: {}
+[23.223006] (-) TimerEvent: {}
+[23.323518] (-) TimerEvent: {}
+[23.424104] (-) TimerEvent: {}
+[23.524710] (-) TimerEvent: {}
+[23.625254] (-) TimerEvent: {}
+[23.725904] (-) TimerEvent: {}
+[23.826427] (-) TimerEvent: {}
+[23.926937] (-) TimerEvent: {}
+[24.027444] (-) TimerEvent: {}
+[24.127989] (-) TimerEvent: {}
+[24.228555] (-) TimerEvent: {}
+[24.329155] (-) TimerEvent: {}
+[24.429696] (-) TimerEvent: {}
+[24.530268] (-) TimerEvent: {}
+[24.630886] (-) TimerEvent: {}
+[24.731500] (-) TimerEvent: {}
+[24.832103] (-) TimerEvent: {}
+[24.932612] (-) TimerEvent: {}
+[25.033064] (-) TimerEvent: {}
+[25.133715] (-) TimerEvent: {}
+[25.234172] (-) TimerEvent: {}
+[25.334671] (-) TimerEvent: {}
+[25.435244] (-) TimerEvent: {}
+[25.535832] (-) TimerEvent: {}
+[25.636498] (-) TimerEvent: {}
+[25.737090] (-) TimerEvent: {}
+[25.837638] (-) TimerEvent: {}
+[25.938194] (-) TimerEvent: {}
+[26.038765] (-) TimerEvent: {}
+[26.139391] (-) TimerEvent: {}
+[26.239950] (-) TimerEvent: {}
+[26.340565] (-) TimerEvent: {}
+[26.441109] (-) TimerEvent: {}
+[26.541733] (-) TimerEvent: {}
+[26.642313] (-) TimerEvent: {}
+[26.742825] (-) TimerEvent: {}
+[26.843336] (-) TimerEvent: {}
+[26.943841] (-) TimerEvent: {}
+[27.044287] (-) TimerEvent: {}
+[27.144770] (-) TimerEvent: {}
+[27.245387] (-) TimerEvent: {}
+[27.345865] (-) TimerEvent: {}
+[27.446478] (-) TimerEvent: {}
+[27.546980] (-) TimerEvent: {}
+[27.647476] (-) TimerEvent: {}
+[27.747948] (-) TimerEvent: {}
+[27.848467] (-) TimerEvent: {}
+[27.948989] (-) TimerEvent: {}
+[28.049530] (-) TimerEvent: {}
+[28.150071] (-) TimerEvent: {}
+[28.250657] (-) TimerEvent: {}
+[28.351178] (-) TimerEvent: {}
+[28.451777] (-) TimerEvent: {}
+[28.552371] (-) TimerEvent: {}
+[28.652956] (-) TimerEvent: {}
+[28.753555] (-) TimerEvent: {}
+[28.854099] (-) TimerEvent: {}
+[28.954522] (-) TimerEvent: {}
+[29.055074] (-) TimerEvent: {}
+[29.087109] (trajectory_logger) StdoutLine: {'line': b'[100%] \x1b[32m\x1b[1mLinking CXX executable trajectory_publisher_saver\x1b[0m\n'}
+[29.155243] (-) TimerEvent: {}
+[29.255783] (-) TimerEvent: {}
+[29.356499] (-) TimerEvent: {}
+[29.457243] (-) TimerEvent: {}
+[29.557834] (-) TimerEvent: {}
+[29.658511] (-) TimerEvent: {}
+[29.759047] (-) TimerEvent: {}
+[29.859701] (-) TimerEvent: {}
+[29.960158] (-) TimerEvent: {}
+[30.004901] (trajectory_logger) StdoutLine: {'line': b'[100%] Built target trajectory_publisher_saver\n'}
+[30.020941] (trajectory_logger) CommandEnded: {'returncode': 0}
+[30.022185] (trajectory_logger) JobProgress: {'identifier': 'trajectory_logger', 'progress': 'install'}
+[30.034077] (trajectory_logger) Command: {'cmd': ['/usr/bin/cmake', '--install', '/home/jayanth/trajectory_logger/build/trajectory_logger'], 'cwd': '/home/jayanth/trajectory_logger/build/trajectory_logger', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('USER', 'jayanth'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/home/jayanth/trajectory_logger/install/trajectory_logger/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/home/jayanth'), ('OLDPWD', '/home/jayanth/trajectory_logger/scripts'), ('ROS_PYTHON_VERSION', '3'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('WSL_DISTRO_NAME', 'Ubuntu-22.04'), ('WAYLAND_DISPLAY', 'wayland-0'), ('COLCON_PREFIX_PATH', '/home/jayanth/trajectory_logger/install'), ('ROS_DISTRO', 'humble'), ('LOGNAME', 'jayanth'), ('NAME', 'DESKTOP-VI9TBLG'), ('WSL_INTEROP', '/run/WSL/60034_interop'), ('RAS_DOCKER_PATH', '/home/jayanth/original/ras_docker'), ('PULSE_SERVER', 'unix:/mnt/wslg/PulseServer'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('TERM', 'xterm-256color'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/opt/ros/humble/bin:/home/jayanth/original/ras_docker/scripts:/home/jayanth/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files/nodejs/:/mnt/c/ProgramData/chocolatey/bin:/mnt/c/Program Files/CMake/bin:/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/:/mnt/c/Program Files/Git/cmd:/Docker/host/bin:/mnt/f/cursor/resources/app/bin:/mnt/c/Users/jayu1/AppData/Local/Programs/Python/Python311/Scripts/:/mnt/c/Users/jayu1/AppData/Local/Programs/Python/Python311/:/mnt/c/Users/jayu1/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/jayu1/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/msys64/mingw64/bin:/mnt/c/Users/jayu1/AppData/Roaming/npm:/mnt/e/googletest-main/googletest/include/gtest:/mnt/f/cursor/resources/app/bin:/mnt/c/Users/jayu1/AppData/Local/Programs/Windsurf/bin:/snap/bin'), ('RAS', 'RAS'), ('XDG_RUNTIME_DIR', '/run/user/1000/'), ('DISPLAY', ':0'), ('LANG', 'C.UTF-8'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('AMENT_PREFIX_PATH', '/home/jayanth/trajectory_logger/install/trajectory_logger:/opt/ros/humble'), ('SHELL', '/bin/bash'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('PWD', '/home/jayanth/trajectory_logger/build/trajectory_logger'), ('XDG_DATA_DIRS', '/usr/local/share:/usr/share:/var/lib/snapd/desktop'), ('PYTHONPATH', '/home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('COLCON', '1'), ('WSL2_GUI_APPS_ENABLED', '1'), ('HOSTTYPE', 'x86_64'), ('CMAKE_PREFIX_PATH', '/home/jayanth/trajectory_logger/install/trajectory_logger:/opt/ros/humble'), ('WSLENV', '')]), 'shell': False}
+[30.042610] (trajectory_logger) StdoutLine: {'line': b'-- Install configuration: ""\n'}
+[30.043607] (trajectory_logger) StdoutLine: {'line': b'-- Execute custom install script\n'}
+[30.045515] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/ament_index/resource_index/rosidl_interfaces/trajectory_logger\n'}
+[30.058069] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/msg/rosidl_generator_c__visibility_control.h\n'}
+[30.060314] (-) TimerEvent: {}
+[30.069213] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/srv/detail/save_trajectory__functions.h\n'}
+[30.080196] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/srv/detail/save_trajectory__struct.h\n'}
+[30.091517] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/srv/detail/save_trajectory__type_support.h\n'}
+[30.101780] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/srv/save_trajectory.h\n'}
+[30.113805] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/environment/library_path.sh\n'}
+[30.125423] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/environment/library_path.dsv\n'}
+[30.136711] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/msg/rosidl_typesupport_fastrtps_c__visibility_control.h\n'}
+[30.147541] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/srv/detail/save_trajectory__rosidl_typesupport_fastrtps_c.h\n'}
+[30.157971] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/msg/rosidl_generator_cpp__visibility_control.hpp\n'}
+[30.160479] (-) TimerEvent: {}
+[30.169058] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/srv/detail/save_trajectory__builder.hpp\n'}
+[30.178825] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/srv/detail/save_trajectory__struct.hpp\n'}
+[30.188946] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/srv/detail/save_trajectory__traits.hpp\n'}
+[30.199320] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/srv/detail/save_trajectory__type_support.hpp\n'}
+[30.209719] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/srv/save_trajectory.hpp\n'}
+[30.220390] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h\n'}
+[30.230338] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/srv/detail/save_trajectory__rosidl_typesupport_fastrtps_cpp.hpp\n'}
+[30.240754] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/msg/rosidl_typesupport_introspection_c__visibility_control.h\n'}
+[30.250587] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/srv/detail/save_trajectory__rosidl_typesupport_introspection_c.h\n'}
+[30.260665] (-) TimerEvent: {}
+[30.261144] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_logger/srv/detail/save_trajectory__rosidl_typesupport_introspection_cpp.hpp\n'}
+[30.274365] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/environment/pythonpath.sh\n'}
+[30.284744] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/environment/pythonpath.dsv\n'}
+[30.297582] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger-0.0.0-py3.10.egg-info/PKG-INFO\n'}
+[30.307846] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger-0.0.0-py3.10.egg-info/SOURCES.txt\n'}
+[30.318221] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger-0.0.0-py3.10.egg-info/dependency_links.txt\n'}
+[30.328214] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger-0.0.0-py3.10.egg-info/top_level.txt\n'}
+[30.340142] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/__init__.py\n'}
+[30.350595] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/_trajectory_logger_s.ep.rosidl_typesupport_c.c\n'}
+[30.360822] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/_trajectory_logger_s.ep.rosidl_typesupport_fastrtps_c.c\n'}
+[30.361145] (-) TimerEvent: {}
+[30.372136] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/_trajectory_logger_s.ep.rosidl_typesupport_introspection_c.c\n'}
+[30.383384] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/libtrajectory_logger__rosidl_generator_py.so\n'}
+[30.393716] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/srv/__init__.py\n'}
+[30.404092] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/srv/_save_trajectory.py\n'}
+[30.414154] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/srv/_save_trajectory_s.c\n'}
+[30.424275] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/trajectory_logger_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so\n'}
+[30.435749] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/trajectory_logger_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so\n'}
+[30.446211] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/trajectory_logger_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so\n'}
+[30.456619] (trajectory_logger) StdoutLine: {'line': b'-- Up-to-date symlink: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/trajectory_logger_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so\n'}
+[30.457011] (trajectory_logger) StdoutLine: {'line': b'-- Up-to-date symlink: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/trajectory_logger_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so\n'}
+[30.457654] (trajectory_logger) StdoutLine: {'line': b'-- Up-to-date symlink: /home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/trajectory_logger_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so\n'}
+[30.458588] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/srv/SaveTrajectory.idl\n'}
+[30.461325] (-) TimerEvent: {}
+[30.469354] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/srv/SaveTrajectory.srv\n'}
+[30.479104] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/srv/SaveTrajectory_Request.msg\n'}
+[30.489418] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/srv/SaveTrajectory_Response.msg\n'}
+[30.500958] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_publisher_saver.hpp\n'}
+[30.511073] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/include/trajectory_logger/trajectory_reader_publisher.hpp\n'}
+[30.521876] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/lib/trajectory_logger/trajectory_publisher_saver\n'}
+[30.532411] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/lib/trajectory_logger/trajectory_reader_publisher\n'}
+[30.542502] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/lib/trajectory_logger/test_odom_publisher\n'}
+[30.553563] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/launch/trajectory_logger_launch.py\n'}
+[30.561501] (-) TimerEvent: {}
+[30.565252] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/trajectories/demo_trajectory.txt\n'}
+[30.575579] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/trajectories/test_trajectory.txt\n'}
+[30.586489] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/ament_index/resource_index/package_run_dependencies/trajectory_logger\n'}
+[30.597474] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/ament_index/resource_index/parent_prefix_path/trajectory_logger\n'}
+[30.608447] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/environment/ament_prefix_path.sh\n'}
+[30.619056] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/environment/ament_prefix_path.dsv\n'}
+[30.629183] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/environment/path.sh\n'}
+[30.639739] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/environment/path.dsv\n'}
+[30.651431] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/local_setup.bash\n'}
+[30.661693] (-) TimerEvent: {}
+[30.662437] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/local_setup.sh\n'}
+[30.674190] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/local_setup.zsh\n'}
+[30.685441] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/local_setup.dsv\n'}
+[30.696387] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/package.dsv\n'}
+[30.707628] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/ament_index/resource_index/packages/trajectory_logger\n'}
+[30.719830] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/rosidl_cmake-extras.cmake\n'}
+[30.733816] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/ament_cmake_export_dependencies-extras.cmake\n'}
+[30.744635] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/ament_cmake_export_include_directories-extras.cmake\n'}
+[30.756019] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/ament_cmake_export_libraries-extras.cmake\n'}
+[30.761863] (-) TimerEvent: {}
+[30.767827] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/ament_cmake_export_targets-extras.cmake\n'}
+[30.779580] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake\n'}
+[30.790253] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake\n'}
+[30.801360] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/trajectory_loggerConfig.cmake\n'}
+[30.811415] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/trajectory_loggerConfig-version.cmake\n'}
+[30.821667] (trajectory_logger) StdoutLine: {'line': b'-- Symlinking: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/package.xml\n'}
+[30.831551] (trajectory_logger) StdoutLine: {'line': b'-- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/lib/libtrajectory_logger__rosidl_generator_c.so\n'}
+[30.832256] (trajectory_logger) StdoutLine: {'line': b'-- Set runtime path of "/home/jayanth/trajectory_logger/install/trajectory_logger/lib/libtrajectory_logger__rosidl_generator_c.so" to ""\n'}
+[30.832468] (trajectory_logger) StdoutLine: {'line': b'-- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/lib/libtrajectory_logger__rosidl_typesupport_fastrtps_c.so\n'}
+[30.833121] (trajectory_logger) StdoutLine: {'line': b'-- Set runtime path of "/home/jayanth/trajectory_logger/install/trajectory_logger/lib/libtrajectory_logger__rosidl_typesupport_fastrtps_c.so" to ""\n'}
+[30.833567] (trajectory_logger) StdoutLine: {'line': b'-- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/lib/libtrajectory_logger__rosidl_typesupport_fastrtps_cpp.so\n'}
+[30.834122] (trajectory_logger) StdoutLine: {'line': b'-- Set runtime path of "/home/jayanth/trajectory_logger/install/trajectory_logger/lib/libtrajectory_logger__rosidl_typesupport_fastrtps_cpp.so" to ""\n'}
+[30.834367] (trajectory_logger) StdoutLine: {'line': b'-- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/lib/libtrajectory_logger__rosidl_typesupport_introspection_c.so\n'}
+[30.835409] (trajectory_logger) StdoutLine: {'line': b'-- Set runtime path of "/home/jayanth/trajectory_logger/install/trajectory_logger/lib/libtrajectory_logger__rosidl_typesupport_introspection_c.so" to ""\n'}
+[30.835823] (trajectory_logger) StdoutLine: {'line': b'-- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/lib/libtrajectory_logger__rosidl_typesupport_c.so\n'}
+[30.836166] (trajectory_logger) StdoutLine: {'line': b'-- Set runtime path of "/home/jayanth/trajectory_logger/install/trajectory_logger/lib/libtrajectory_logger__rosidl_typesupport_c.so" to ""\n'}
+[30.836351] (trajectory_logger) StdoutLine: {'line': b'-- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/lib/libtrajectory_logger__rosidl_typesupport_introspection_cpp.so\n'}
+[30.837028] (trajectory_logger) StdoutLine: {'line': b'-- Set runtime path of "/home/jayanth/trajectory_logger/install/trajectory_logger/lib/libtrajectory_logger__rosidl_typesupport_introspection_cpp.so" to ""\n'}
+[30.837506] (trajectory_logger) StdoutLine: {'line': b'-- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/lib/libtrajectory_logger__rosidl_typesupport_cpp.so\n'}
+[30.837822] (trajectory_logger) StdoutLine: {'line': b'-- Set runtime path of "/home/jayanth/trajectory_logger/install/trajectory_logger/lib/libtrajectory_logger__rosidl_typesupport_cpp.so" to ""\n'}
+[30.862046] (-) TimerEvent: {}
+[30.881997] (trajectory_logger) StdoutLine: {'line': b"Listing '/home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger'...\n"}
+[30.882225] (trajectory_logger) StdoutLine: {'line': b"Compiling '/home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/__init__.py'...\n"}
+[30.882313] (trajectory_logger) StdoutLine: {'line': b"Listing '/home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/srv'...\n"}
+[30.882390] (trajectory_logger) StdoutLine: {'line': b"Compiling '/home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/srv/__init__.py'...\n"}
+[30.882464] (trajectory_logger) StdoutLine: {'line': b"Compiling '/home/jayanth/trajectory_logger/install/trajectory_logger/local/lib/python3.10/dist-packages/trajectory_logger/srv/_save_trajectory.py'...\n"}
+[30.890653] (trajectory_logger) StdoutLine: {'line': b'-- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/lib/libtrajectory_logger__rosidl_generator_py.so\n'}
+[30.891398] (trajectory_logger) StdoutLine: {'line': b'-- Set runtime path of "/home/jayanth/trajectory_logger/install/trajectory_logger/lib/libtrajectory_logger__rosidl_generator_py.so" to ""\n'}
+[30.891655] (trajectory_logger) StdoutLine: {'line': b'-- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/config\n'}
+[30.891968] (trajectory_logger) StdoutLine: {'line': b'-- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/config/trajectory_logger.rviz\n'}
+[30.892183] (trajectory_logger) StdoutLine: {'line': b'-- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/config/params.yaml\n'}
+[30.892401] (trajectory_logger) StdoutLine: {'line': b'-- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/lib/trajectory_logger/scripts\n'}
+[30.893003] (trajectory_logger) StdoutLine: {'line': b'-- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/lib/trajectory_logger/scripts/tmux.conf\n'}
+[30.893670] (trajectory_logger) StdoutLine: {'line': b'-- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/lib/trajectory_logger/scripts/run_demo.sh\n'}
+[30.894219] (trajectory_logger) StdoutLine: {'line': b'-- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/export_trajectory_logger__rosidl_generator_cExport.cmake\n'}
+[30.894655] (trajectory_logger) StdoutLine: {'line': b'-- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/export_trajectory_logger__rosidl_generator_cExport-noconfig.cmake\n'}
+[30.894943] (trajectory_logger) StdoutLine: {'line': b'-- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/export_trajectory_logger__rosidl_typesupport_fastrtps_cExport.cmake\n'}
+[30.895484] (trajectory_logger) StdoutLine: {'line': b'-- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/export_trajectory_logger__rosidl_typesupport_fastrtps_cExport-noconfig.cmake\n'}
+[30.895661] (trajectory_logger) StdoutLine: {'line': b'-- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/export_trajectory_logger__rosidl_generator_cppExport.cmake\n'}
+[30.895924] (trajectory_logger) StdoutLine: {'line': b'-- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/export_trajectory_logger__rosidl_typesupport_fastrtps_cppExport.cmake\n'}
+[30.896221] (trajectory_logger) StdoutLine: {'line': b'-- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/export_trajectory_logger__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake\n'}
+[30.896512] (trajectory_logger) StdoutLine: {'line': b'-- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/trajectory_logger__rosidl_typesupport_introspection_cExport.cmake\n'}
+[30.896608] (trajectory_logger) StdoutLine: {'line': b'-- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/trajectory_logger__rosidl_typesupport_introspection_cExport-noconfig.cmake\n'}
+[30.896683] (trajectory_logger) StdoutLine: {'line': b'-- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/trajectory_logger__rosidl_typesupport_cExport.cmake\n'}
+[30.896757] (trajectory_logger) StdoutLine: {'line': b'-- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/trajectory_logger__rosidl_typesupport_cExport-noconfig.cmake\n'}
+[30.896932] (trajectory_logger) StdoutLine: {'line': b'-- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/trajectory_logger__rosidl_typesupport_introspection_cppExport.cmake\n'}
+[30.897014] (trajectory_logger) StdoutLine: {'line': b'-- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/trajectory_logger__rosidl_typesupport_introspection_cppExport-noconfig.cmake\n'}
+[30.897216] (trajectory_logger) StdoutLine: {'line': b'-- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/trajectory_logger__rosidl_typesupport_cppExport.cmake\n'}
+[30.897480] (trajectory_logger) StdoutLine: {'line': b'-- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/trajectory_logger__rosidl_typesupport_cppExport-noconfig.cmake\n'}
+[30.897831] (trajectory_logger) StdoutLine: {'line': b'-- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/export_trajectory_logger__rosidl_generator_pyExport.cmake\n'}
+[30.898104] (trajectory_logger) StdoutLine: {'line': b'-- Installing: /home/jayanth/trajectory_logger/install/trajectory_logger/share/trajectory_logger/cmake/export_trajectory_logger__rosidl_generator_pyExport-noconfig.cmake\n'}
+[30.901383] (trajectory_logger) CommandEnded: {'returncode': 0}
+[30.934432] (trajectory_logger) JobEnded: {'identifier': 'trajectory_logger', 'rc': 0}
+[30.936287] (-) EventReactorShutdown: {}
